@@ -11,13 +11,11 @@
 
 - [Companies](#companies)  
 
-- [Workshops](#workshops) (video or slides available)  
-
-- [Courses](#courses) (video or slides available)  
+- [Workshops](#workshops) (video or slides available)
 
 - [Review / Tutorial papers](#papers)  
-   - [Computational imaging](#CPpapers)   
-   - [Computational imaging and deep learning](#DLpapers)       
+   - [Phase acquisition](#PApapers)   
+   - [Phase acquisition and deep learning](#DLpapers)       
  
 - [Books](#BK)  
  
@@ -108,13 +106,13 @@ Key words: optical coherence tomography etc.
 Key words: inverse problem and phase retrieval etc.
 
 - [Lei Tian ](https://sites.bu.edu/tianlab/)(Boston University)  
-Key words: Fourier ptychography and imaging through scattering media etc.
+Key words: Fourier ptychography, transport of intensity equations (TIE), and imaging through scattering media etc.
 
 - [Ashok Veeraraghavan ](https://www.computationalimaging.org/)(Rice University)  
 Key words: wavefront sensing, imaging through scattering media, and lensless imaging etc.
 
 - [Laura Waller ](https://www.laurawaller.com/)(University of California, Berkeley)  
-Key words: computational imaging, phase imaging, lensless imaging etc.
+Key words: phase imaging, lensless imaging, and transport of intensity equations (TIE) etc.
 
 - [Lihong Wang ](http://coilab.caltech.edu/)(California Institute of Technology)  
 Key words: optical coherence tomography and biomedical imaging etc.
@@ -134,16 +132,13 @@ Key words: Fourier ptychography etc.
 <a name="groups-Asia"></a>
 ## Asia
 - [Anand Asundi ](https://www.doptron.com/)(d'Optron Pte Ltd)   
-Key words: optical 3D measurement and imaging etc.
+Key words: phase imaging, holography, and transport of intensity equations (TIE) etc.
 
 - [Liheng Bian ](https://bianlab.github.io/)(Beijing Institute of Technology)  
-Key words: multi-dimensional imaging (spectrum, phase), high-speed imaging, imaging through scattering, and non-imaging sensing etc.
+Key words: multi-dimensional imaging (spectrum, phase) etc.
 
 - [Liangcai Cao ](http://www.holoddd.com/)(Tsinghua University)  
 Key words: holography etc.
-
-- [Xun Cao ](https://cite.nju.edu.cn/)(Nanjing University)  
-Key words: computational spectral video camera, 3D capture and reconstruction, and super resolution camera etc.
 
 - [Wen Chen ](https://www.eie.polyu.edu.hk/~wenchen/)(The Hong Kong Polytechnic University)  
 Key words: holography and single-pixel imaging etc.
@@ -152,58 +147,22 @@ Key words: holography and single-pixel imaging etc.
 Key words: holography etc.
 
 - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(The University of Science and Technology of China)  
-Key words: super-resolution imaging and phase imaging etc.
-
-- [Qionghai Dai ](http://media.au.tsinghua.edu.cn/)(Tsinghua University)  
-Key words: computational imaging and biomedical imaging etc.
-
-- [Cuong Dang ](https://www3.ntu.edu.sg/home/hcdang/)(Nanyang Technological University)  
-Key words: computational imaging and imaging through scattering media etc.
+Key words: phase imaging and super-resolution imaging etc.
 
 - [Jianglei Di ](https://www.researchgate.net/profile/Jianglei-Di)(GuangDong University of Technology)  
-Key words: computational imaging and holography etc.  
-
-- [Peng Fei ](http://oei.hust.edu.cn/info/1100/5743.htm)(Huazhong University of Science and Technology)  
-Key words: biomedical imaging and super-resolution etc.  
+Key words: computational imaging and holography etc.
 
 - [Peng Gao ](https://faculty.xidian.edu.cn/GP3/zh_CN/index.htm)(Xidian University)  
-Key words: super-resolution imaging, phase imaging, and light field imaging etc.
-
-- [Min Gu ](http://cain.usst.edu.cn/)(University of Shanghai for Science and Technology)  
-Key words: optogenetics, microscopic imaging, super-resolution imaging, and optical neural network etc.
-
-- [Raja Giryes ](https://www.giryes.sites.tau.ac.il/)(Tel Aviv University)  
-Key words: inverse problem and computational imaging etc.
-
-- [Wolfgang Heidrich ](https://vccimaging.org/)(King Abdullah University of Science and Technology)  
-Key words: computational imaging and display etc.
-
-- [Shensheng Han](https://people.ucas.ac.cn/~sshan?language=en)(University of Chinese Academy of Sciences)   
-Key words: quantum imaging etc.
-
-- [Hua Huang ](https://vmcl.bit.edu.cn/)(Beijing Institute of Technology)  
-Key words: computational photography etc.
-
-- [Lingjie Kone ](http://faculty.dpi.tsinghua.edu.cn/home/konglj)(Tsinghua University)  
-Key words: biomedical imaging etc.
+Key words: phase imaging, and super-resolution imaging etc.
 
 - [Cuifang Kuang ](https://person.zju.edu.cn/en/cfkuang)(Zhejiang University)  
-Key words: super-resolution imaging etc.
+Key words: three-dimensional super-resolution phase microscopy and super-resolution imaging etc.
 
 - [Edmund Y. Lam ](https://www.eee.hku.hk/~elam/)(The University of Hong Kong)  
-Key words: computational imaging and holography etc.  
-
-- [Ming Lei ](http://www.opticaltweezers.net/)(Xi'an Jiaotong University)  
-Key words: super-resolution imaging and optical trapping etc. 
+Key words: phase retrieval, holography and computational imaging etc.
 
 - [Cheng Liu ](http://science.jiangnan.edu.cn/content_js.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=5799)(Jiangnan University)  
-Key words: phase imaging etc.   
-
-- [Xu Liu ](https://person.zju.edu.cn/en/0090123)(Zhejiang University)  
-Key words: computational imaging, super-resolution imaging and light-field imaging etc.
-
-- [Zhengjun Liu ](http://homepage.hit.edu.cn/liuzhengjun)(Harbin Institute of Technology)  
-Key words: computational imaging etc.
+Key words: phase imaging etc.
 
 - [Yuan Luo ](https://optics.mc.ntu.edu.tw/)(National Taiwan University)  
 Key words: phase imaging etc.  
@@ -215,46 +174,28 @@ Key words: phase imaging and holograohy etc.
 Key words: holograohy in cell imaging and analysis etc.
 
 - [An Pan ](https://www.sites.google.com/site/dranpanblog/)(Chinese Academy of Sciences)  
-Key words: biomedical imaging etc.
+Key words: Fourier ptychography and biomedical imaging etc.
 
 - [Jung-Hoon Park ](https://www.biooptics.org/)(Ulsan National Institute of Science and Technology)  
-Key words: biomedical imaging and phase imaging etc.
+Key words: phase imaging and biomedical imaging etc.
 
 - [YongKeun Park ](https://bmokaist.wordpress.com/)(Korea Advanced Institute of Science and Technology)  
-Key words: biomedical imaging and phase imaging etc.
-
-- [Yifan (Evan) Peng ](https://www.eee.hku.hk/~evanpeng/)(The University of Hong Kong)  
-Key words: computational imaging and hholographic display etc.
+Key words: phase imaging and biomedical imaging etc.
 
 - [Kemao Qian ](https://www3.ntu.edu.sg/home/mkmqian/)(Nanyang Technological University)  
-Key words: fringe analysis etc.
-
-- [Liyong Ren ](http://aoi.snnu.edu.cn/)(Shaanxi Normal University)  
-Key words: polarimetric imaging etc.
+Key words: phase unwrapping and fringe analysis etc.
 
 - [Joseph Rosen ](https://www.ee.bgu.ac.il/~rosen/)(Ben-Gurion University of the Negev)  
 Key words: holography etc.
 
 - [Natan T. Shaked](http://www.eng.tau.ac.il/~omni/index2.php/) (Tel Aviv University)  
-Key words: biomedical imaging, interferometry, and tomography etc.
-
-- [Xiaopeng Shao ](https://web.xidian.edu.cn/xpshao/)(Xidian University)  
-Key words: computational imaging and imaging through scattering media etc.
-
-- [Boxin Shi ](http://camera.pku.edu.cn/)(Peking University)  
-Key words: computational photography etc.
+Key words: interferometry, tomography, and biomedical imaging etc.
 
 - [Guohai Situ ](https://people.ucas.edu.cn/~situ)(University of Chinese Academy of Sciences)  
-Key words: computational imaging, phase imaging, single-pixel imaging and holography etc.
-
-- [Baoqing Sun](https://faculty.sdu.edu.cn/sunbaoqing/zh_CN/index/686049/list/index.htm)(Shandong University)  
-Key words: single-pixel imaging etc.
+Key words: phase imaging, holography, and computational imaging etc.
 
 - [Xiaodi Tan](http://www.io-lab.cn/)(Fujian Normal University)  
 Key words: holography etc.
-
-- [Chao Tian ](http://staff.ustc.edu.cn/~ctian/i)(University of Science and Technology of China)  
-Key words: biomedical imaging and photoacoustic imaging etc.
 
 - [Peter Wai Ming Tsang ](https://scholars.cityu.edu.hk/en/persons/wai-ming-peter-tsang(892d3f89-71e1-4348-9bd0-c27f242c0d00).html)(City University of Hong Kong)  
 Key words: holography etc.
@@ -262,76 +203,34 @@ Key words: holography etc.
 - [Yang Wang ](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-wang-yangwang)(The Hong Kong University of Science and Technology)  
 Key words: phase retrieval etc.
 
-- [Bihan Wen ](https://personal.ntu.edu.sg/bihan.wen/)(Nanyang Technological University)  
-Key words: inverse problem and computational imaging etc.
-
 - [Yuan Wu ](http://www.bme.cuhk.edu.hk/yuan/)(The Chinese University of Hong Kong)  
-Key words: biomedical imaging and optical coherence tomography etc.
-
-- [Lei Xi ](http://www.mfoil.org/)(Southern University of Science and Technology)  
-Key words: biomedical imaging and photoacoustic imaging etc.
-
-- [Peng Xi ](https://www.xipenglab.com/)(Peking University)  
-Key words: optical nanoscopy, confocal and multiphoton microscopy etc.
-
-- [Feihu Xu ](https://quantum.ustc.edu.cn/web/index.php/node/475)(University of Science and Technology of China)  
-Key words: quantum imaging etc.
+Key words: optical coherence tomography and biomedical imaging etc.
 
 - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
-Key words: super-resolution imaging and holography etc.
-
-- [Jong Chul Ye](https://bispl.weebly.com/)(Korea Advanced Institute of Science and Technology)  
-Key words: computational imaging, biomedical imaging and magnetic resonance imaging etc.
-
-- [Thomas Yeo ](https://sites.google.com/view/yeolab)(National University of Singapore)  
-Key words: biomedical imaging and magnetic resonance imaging etc.
+Key words: holography and super-resolution imaging etc.
 
 - [Jianlin Zhao ](https://teacher.nwpu.edu.cn/m/en/1982000067.html)(Northwestern Polytechnical University)  
-Key words: computational imaging and holography etc.
+Key words: holography and computational imaging etc.
 
 - [Renjie Zhou ](https://www.renjiezhou.com/)(The Chinese University of Hong Kong)  
-Key words: biomedical imaging and phase imaging etc.
+Key words: phase imaging and biomedical imaging etc.
 
 - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology‍)  
-Key words: computational imaging and phase imaging etc.
+Key words: transport of intensity equations (TIE), phase imaging and computational imaging etc.
     
 <a name="groups-Europe"></a>
 ## Europe
-- [Balpreet Singh Ahluwalia ](https://en.uit.no/ansatte/person?p_document_id=44202)(UiT The Arctic University of Norway)  
-Key words: biomedical imaging and super-resolution imaging etc.
-
 - [Radim Chmelik ](https://www.vut.cz/en/people/radim-chmelik-2190)(Brno University of Technology)  
 Key words: phase imaging and holography etc.
 
-- [Kishan Dholakia ](https://opticalmanipulationgroup.wp.st-andrews.ac.uk/)(The University of St Andrews)  
-Key words: computational imaging, light sheet microscopy, and speckle metrology etc.
-
-- [‪Daniele Faccio](https://www.physics.gla.ac.uk/XtremeLight/)(University of Glasgow)  
-Key words: computational imaging, ghost imaging and imaging through scattering media etc.
-
-- [‪Pietro Ferraro](https://scholar.google.com/citations?user=yyFkAiQAAAAJ&hl=en)(Consiglio Nazionale delle Ricerche)  
+- [Pietro Ferraro](https://scholar.google.com/citations?user=yyFkAiQAAAAJ&hl=en)(Consiglio Nazionale delle Ricerche)  
 Key words: holography etc.
 
-- [‪Hans-Werner Fink](https://www.physik.uzh.ch/groups/fink/)(University of Zurich)  
+- [Hans-Werner Fink](https://www.physik.uzh.ch/groups/fink/)(University of Zurich)  
 Key words: electron holography etc.
 
-- [Sylvain Gigan](https://www.lkb.upmc.fr/opticalimaging/)(Sorbonne Université)  
-Key words: imaging through scattering media etc.
-
-- [Maxime Jacquot ](https://www.femto-st.fr/en/femto-people/maximejacquot)(Université Bourgogne Franche-Comté)  
+- [Maxime Jacquot](https://www.femto-st.fr/en/femto-people/maximejacquot)(Université Bourgogne Franche-Comté)  
 Key words: holography etc.
-
-- [Rainer Heintzmann ](https://sites.google.com/site/nanoimagingproject/)(Jena University)  
-Key words: biomedical imaging and super-resolution imaging etc.
-
-- [Stefan Hell ](https://nanobiophotonics.mpibpc.mpg.de/)(Max Planck Institute for Multidisciplinary Sciences)  
-Key words: biomedical imaging and super-resolution imaging etc.
-
-- [Christophe Moser ](https://www.epfl.ch/labs/lapd/)(The École polytechnique fédérale de Lausanne)  
-Key words: imaging and light control with multimode fibersetc etc.
-
-- [Claudio Prati ](https://www.deib.polimi.it/eng/people/details/61164)(Politecnico di Milano)  
-Key words: synthetic aperture radar etc.
 
 - [Demetri Psaltis ](https://www.epfl.ch/labs/lo/)(The École polytechnique fédérale de Lausanne)  
 Key words: holography, imaging through scattering media, and linear and non-linear multimode fibers etc.
@@ -339,17 +238,11 @@ Key words: holography, imaging through scattering media, and linear and non-line
 - [Pascal Picart ](http://perso.univ-lemans.fr/~ppicart/rech/perso/BooksPP.html)(Le Mans University)  
 Key words: holography and phase imaging etc.
 
-- [Carola Bibiane Schönlieb ](https://www.damtp.cam.ac.uk/research/cia/)(University of Cambridge)  
-Key words: biomedical imaging and computed tomography etc.
-
 - [Latychevskaia Tatiana ](https://coherentimaging.wordpress.com/)(University of Zurich)  
 Key words: holography, phase retrieval and coherent diffractive imaging etc.
 
-- [Ilaria Testa ](https://www.testalab.org/)(KTH Royal Institute of Technology)  
-Key words: biomedical imaging and super-resolution imaging etc.
-
 - [Michael Unser ](http://bigwww.epfl.ch/)(The École polytechnique fédérale de Lausanne)  
-Key words: biomedical imaging etc.
+Key words: phase retrieval, phase unwrapping, transport of intensity equations (TIE) and biomedical imaging etc.
 
 ****
 <a name="companies"></a>
@@ -363,8 +256,7 @@ Key words: biomedical imaging etc.
 - [Nanolive](https://www.nanolive.ch/)  
 - [Phase Holographic Imaging PHI AB](https://phiab.com/)  
 - [Phasics](https://www.phasics.com/)  
-- [Phi Optics](https://phioptics.com/)  
-- [Pictorlabs](https://pictorlabs.ai/)
+- [Phi Optics](https://phioptics.com/)
 - [Telight](https://telight.eu/)
 - [Tomocube](https://www.tomocube.com/)
 - [Zygo](https://www.zygo.com/)  
@@ -374,30 +266,19 @@ Key words: biomedical imaging etc.
 # Workshops (video or slides available)
 (In chronological order)
 
-- ["Computational Imaging"](https://icerm.brown.edu/programs/sp-s19/w2/) in ICERM (March 18 - 22, 2019)  
 - ["Phase Retrieval"](https://www.bioxfel.org/phase-retrieval-2021) in BioXFEL (October 18 - 19, 2021)  
 - ["Computational Microscopy"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview) in IPAM (September 12 - December 16, 2022)
    - ["Computational Microscopy Tutorials" ](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
    - ["Diffractive Imaging with Phase Retrieval"  ](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
-
-****
-<a name="courses"></a>
-# Courses (video or slides available)
-
-- ["EE367 / CS448I: Computational Imaging"](https://icerm.brown.edu/programs/sp-s19/w2/) in Stanford University  
-- ["ECE 495: Cameras, Images, and Statistical Inverse Problems"](https://engineering.purdue.edu/ChanGroup/ECE495.html) in Purdue University  
-- ["CS 6475: Computational Photography"](https://omscs.gatech.edu/cs-6475-computational-photography) in Georgia Institute of Technology, [Videos](https://omscs.gatech.edu/cs-6475-computational-photography-course-videos)  
-- ["CSCI 1290: Computational Photography and Image Manipulation"](https://cs.brown.edu/courses/csci1290/) in Brown University  
-- ["GAMES204-Computational Imaging(计算成像)"](https://space.bilibili.com/512313464/channel/collectiondetail?sid=526752)(in Chinese) in GAMES  
-
+   
 
 ****
 <a name="papers"></a>
 # Review/Tutorial papers
 (In chronological order)
 
-<a name="CPpapers"></a>
-## Computational imaging
+<a name="PApapers"></a>
+## Phase acquisition
 
 - Y. Shechtman, Y. C. Eldar, O. Cohen, H. N. Chapman, J. Miao, and M. Segev  
 *[Phase Retrieval with Application to Optical Imaging: A contemporary overview](https://doi.org/10.1109/MSP.2014.2352673),*  
@@ -407,16 +288,12 @@ IEEE Signal Process. Mag. 32(3), 87–109 (2015).
 *[Quantitative phase imaging in biomedicine](https://doi.org/10.1038/s41566-018-0253-x),*  
 Nature Photon. 12(10), 578–589 (2018).
 
-- J. N. Mait, G. W. Euliss, and R. A. Athale  
-*[Computational imaging](https://doi.org/10.1364/AOP.10.000409),*  
-Adv. Opt. Photon. 10(2), 409 (2018).
-
 - T. Latychevskaia  
 *[Iterative phase retrieval for digital holography: tutorial](https://doi.org/10.1364/JOSAA.36.000D31),*  
 J. Opt. Soc. Am. A 36(12), D31 (2019).
 
 - H. Yu, Y. Lan, Z. Yuan, J. Xu, and H. Lee  
-*[Phase Unwrapping in InSAR : A Review](https://doi.org/10.1109/MGRS.2018.2873644),*  
+*[Phase Unwrapping in InSAR: A Review](https://doi.org/10.1109/MGRS.2018.2873644),*  
 IEEE Geosci. Remote Sens. Mag. 7(1), 40–58 (2019).
 
 - T. Cacace, V. Bianco, and P. Ferraro  
@@ -439,10 +316,6 @@ J. Imaging 7(12), 252 (2021).
 *[Roadmap on digital holography [Invited]](https://doi.org/10.1364/OE.435915),*  
 Opt. Express 29(22), 35078 (2021).
 
-- J. Suo, W. Zhang, J. Gong, X. Yuan, D. J. Brady, and Q. Dai  
-*[Computational Imaging and Artificial Intelligence: The Next Revolution of Mobile Vision](https://doi.org/10.48550/arXiv.2109.08880),*  
-arXiv:2109.08880 (2021).
-
 - G. Zheng, C. Shen, S. Jiang, P. Song, and C. Yang  
 *[Concept, implementations and applications of Fourier ptychography](https://doi.org/10.1038/s42254-021-00280-y),*  
 Nat. Rev. Phys. 3(3), 207–223 (2021).
@@ -460,15 +333,11 @@ ACS Nano 16(8), 11516–11544 (2022).
 ACS Photonics 10(2), 322–339 (2023).
 
 <a name="DLpapers"></a>
-## Computational imaging and deep learning
+## Phase acquisition and deep learning
 
 - Y. Jo, H. Cho, S. Y. Lee, G. Choi, G. Kim, H. Min, and Y. Park  
 *[Quantitative Phase Imaging and Artificial Intelligence: A Review](https://doi.org/10.1109/JSTQE.2018.2859234),*  
 IEEE J. Select. Topics Quantum Electron. 25(1), 1–14 (2019).
-
-- G. Barbastathis, A. Ozcan, and G. Situ  
-*[On the use of deep learning for computational imaging](https://doi.org/10.1364/OPTICA.6.000921),*  
-Optica 6(8), 921 (2019).
 
 - Y. Rivenson, Y. Wu, and A. Ozcan  
 *[Deep learning in holography and coherent imaging](https://doi.org/10.1038/s41377-019-0196-0),*  
@@ -486,10 +355,6 @@ Opt. Express 29(24), 40572 (2021).
 *[Artificial Intelligence In Interferometric Synthetic Aperture Radar Phase Unwrapping: A Review](https://doi.org/10.1109/MGRS.2021.3065811),*  
 IEEE Geosci. Remote Sens. Mag. 2–20 (2021).
 
-- J. Suo, W. Zhang, J. Gong, X. Yuan, D. J. Brady, and Q. Dai  
-*[Computational Imaging and Artificial Intelligence: The Next Revolution of Mobile Vision](https://doi.org/10.48550/arXiv.2109.08880),*  
-ArXiv, abs/2109.08880. (2021).
-
 - C. Zuo, J. Qian, S. Feng, W. Yin, Y. Li, P. Fan, J. Han, K. Qian, and Q. Chen  
 *[Deep learning in optical metrology: a review](https://doi.org/10.1038/s41377-022-00714-x),*  
 Light Sci. Appl. 11(1), 39 (2022).
@@ -506,10 +371,6 @@ Front. Photon. 3, 854391 (2022).
 *[Untrained Neural Network Priors for Inverse Imaging Problems: A Survey](https://doi.org/10.1109/TPAMI.2022.3204527),*  
 IEEE Trans. Pattern Anal. Mach. Intell. 45(5), 6511–6536 (2022).
 
-- D. Mengu, M. S. Sakib Rahman, Y. Luo, J. Li, O. Kulce, and A. Ozcan  
-*[At the intersection of optics and deep learning: statistical inference, computing, and inverse design](https://doi.org/10.1364/aop.450345),*  
-Adv. Opt. Photon. 14(2), 209 (2022).
-
 - G. Situ  
 *[Deep holography](https://doi.org/10.37188/lam.2022.013),*  
 Light Advanced Manufacturing 3(2), 1 (2022).
@@ -521,10 +382,6 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 - J. Dong, L. Valzania, A. Maillard, T. Pham, S. Gigan, and M. Unser  
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
-
-- B. Bai, X. Yang, Y. Li, Y. Zhang, N. Pillar, and A. Ozcan  
-*[Deep learning-enabled virtual histological staining of biological samples](https://doi.org/10.1038/s41377-023-01104-7),*  
-Light Sci Appl 12(1), 57 (2023).
 
 
 ****
@@ -569,14 +426,6 @@ in Progress in Optics (Elsevier, 2012), 57, pp. 133–217.
 *[Fringe Pattern Analysis for Optical Metrology: Theory, Algorithms, and Applications](https://www.wiley.com/en-us/Fringe+Pattern+Analysis+for+Optical+Metrology:+Theory,+Algorithms,+and+Applications-p-9783527411528),*  
 (Wiley-VCH, 2014).
 
-- K. Khare  
-*[Fourier Optics and Computational Imaging](https://doi.org/10.1002/9781118900352),*  
-(John Wiley & Sons, Ltd., 2016).
-
-- A. Bhandari, A. Kadambi, and R. Raskar  
-*[Computational Imaging](https://mitpress.mit.edu/9780262046473/computational-imaging/),*  
-(The MIT Press, 2022).
-
 - C. Liu, S. Wang, and S. P. Veetil  
 *[Computational Optical Phase Imaging, Progress in Optical Science and Photonics](https://link.springer.com/book/10.1007/978-981-19-1641-0),*  
 (Springer Singapore, 2022), 21.
@@ -595,23 +444,11 @@ Ph.D. Thesis, California Institute of Technology, 1997. [PDF](https://thesis.lib
 
 - Stephen A. Boppart,  
 *[Surgical diagnostics, guidance, and intervention using optical coherence tomography](http://hdl.handle.net/1721.1/9889)*,  
-Ph.D. Thesis, Massachusetts Institute of Technology, 1998. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/9889/41862022-MIT.pdf)  
-
-- Edmund Y. Lam,  
-*[Image restoration algorithms for monochrome digital photography](https://www.proquest.com/dissertations-theses/image-restoration-algorithms-monochrome-digital/docview/304626365/se-2?accountid=14548)*,  
-Ph.D. Thesis, Stanford University, 2000. 
+Ph.D. Thesis, Massachusetts Institute of Technology, 1998. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/9889/41862022-MIT.pdf)
 
 - Changhuei Yang,  
 *[Harmonic phase based low coherence interferometry : a method for studying the dynamics and structures of cells](http://hdl.handle.net/1721.1/28242)*,  
-Ph.D. Thesis, Massachusetts Institute of Technology, 2002. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/28242/50547882-MIT.pdf)  
-
-- Gabriel Popescu,  
-*[Propagation of low-coherence fields in inhomogeneous media](https://stars.library.ucf.edu/rtd/1647)*,  
-Ph.D. Thesis, University of Central Florida, 2002.  
-
-- Aydogan Ozcan,   
-*[Non-destructive Characterization Tools Based on Spectral Interferometry and Minimum Phase Functions](https://www.proquest.com/dissertations-theses/non-destructive-characterization-tools-based-on/docview/305443539/se-2?accountid=14548)*,  
-Ph.D. Thesis, Stanford University, 2005.  
+Ph.D. Thesis, Massachusetts Institute of Technology, 2002. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/28242/50547882-MIT.pdf)
 
 - Laura Waller,  
 *[Computational phase imaging based on intensity transport](http://hdl.handle.net/1721.1/60821)*,  
@@ -665,10 +502,6 @@ Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2015.  [PDF](https://w
 *[Computational phase imaging for biomedical applications](http://hdl.handle.net/2142/95321)*,   
 Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2016.  [PDF](https://www.ideals.illinois.edu/items/98436/bitstreams/315324/object?dl=1)
 
-- Yifan Peng,  
-*[Computational imaging with diffractive optics](https://dx.doi.org/10.14288/1.0365608)*,   
-Ph.D. Thesis, University of British Columbia, 2018.  [PDF](https://open.library.ubc.ca/media/download/pdf/24/1.0365608/4)
-
 - Chandrabhan Seniya,  
 *[A flexible low-cost quantitative phase imaging microscopy system for label-free imaging of multi-cellular biological samples]( http://webcat.warwick.ac.uk/record=b3184498~S1)*,   
 Ph.D. Thesis, University of Warwick, 2018.  [PDF](http://wrap.warwick.ac.uk/106451/1/WRAP_Theses_Seniya_2018.pdf)
@@ -682,8 +515,8 @@ Ph.D. Thesis, University of California, Berkeley, 2018.  [PDF](http://www2.eecs.
 Ph.D. Thesis, Massachusetts Institute of Technology, 2019.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/122070/1117711022-MIT.pdf)
 
 - David A. Barmherzig,  
-*[The Phase Retrieval Problem: Theory, Algorithms, and Applications](The Phase Retrieval Problem: Theory, Algorithms, and Applications)*,   
-Ph.D. Thesis, UStanford University, 2019.  
+*[The Phase Retrieval Problem: Theory, Algorithms, and Applications](https://purl.stanford.edu/tw768tw9748)*,   
+Ph.D. Thesis, Stanford University, 2019. [PDF](https://stacks.stanford.edu/file/druid:tw768tw9748/BarmherzigDissertationUpload-augmented.pdf)  
 
 - Yichen Wu,  
 *[Deep Learning-enabled Computational Imaging in Optical Microscopy and Air Quality Monitoring](https://escholarship.org/uc/item/1249c1bv)*,   
@@ -699,34 +532,12 @@ Ph.D. Thesis, University of Sheffield, 2021. [PDF](https://etheses.whiterose.ac.
 
 - Obed A. Ayisi,  
 *[Multiple-Wavelength Phase Retrieval With Digital Holographic Microscopy](https://openknowledge.nau.edu/id/eprint/5717)*,   
-Masters Thesis, Northern Arizona University, 2021. 
-
-- Xiaojian Xu,  
-*[Model-based Deep Learning for Computational Imaging](https://doi.org/10.7936/r9e7-ng63)*,   
-Ph.D. Thesis, Washington University, 2022.
+Masters Thesis, Northern Arizona University, 2021.
 
 - Tairan Liu,  
 *[Deep Learning in Optical Microscopy, Holographic Imaging and Sensing](https://escholarship.org/uc/item/8k03d1g2)*,   
 Ph.D. Thesis, University of California, Los Angeles, 2022. 
 
-- Kristina Monakhova,  
-*[Physics-Informed Machine Learning for Computational Imaging](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.html)*,   
-Ph.D. Thesis, University of California, Berkeley, 2022. [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.pdf)
-
 - Marissa A. Morado,  
 *[Solving the phase retrieval problem using an artificial neural network](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
 Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarworks.calstate.edu/downloads/44558m79w)
-
-- Calvin Brown,  
-*[Computational Imaging and Sensing in Diagnostics with Deep Learning](https://escholarship.org/uc/item/6cq494gs)*,   
-Ph.D. Thesis, University of California, Los Angeles, 2022. 
-
-- Robiulhossain Mdrafi,  
-*[Model-based Deep Learning for Computational Imaging](https://scholarsjunction.msstate.edu/td/5458)*,   
-Ph.D. Thesis, Mississippi State University, 2022. [PDF](https://scholarsjunction.msstate.edu/cgi/viewcontent.cgi?article=6459&context=td)
-
-- Yunzhe Li,  
-*[Robust Deep Learning for Computational Imaging through Random Optics](https://www.proquest.com/dissertations-theses/robust-deep-learning-computational-imaging/docview/2769976536/se-2?accountid=14548)*,   
-Ph.D. Thesis, Boston University, 2023.
-
-
