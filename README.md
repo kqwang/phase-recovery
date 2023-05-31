@@ -1,5 +1,8 @@
 # Resources for phase acquisition
-Here, we refer to the process of “calculating the wavefront phase from the amplitude/intensity measurement of the light field” as phase acquisition (PA). PA contains many techniques and algorithms, such as holography/interferometry, transfer of intensity equations, phase retrieval, wavefront sensing.
+Here, we refer to the process of “calculating the wavefront phase from 
+the amplitude/intensity measurement of the light field” as phase acquisition (PA). 
+PA contains many techniques and algorithms, such as holography/interferometry, 
+transfer of intensity equations, phase retrieval, wavefront sensing.
 ****
 ## Table of Contents:
 
@@ -10,13 +13,13 @@ Here, we refer to the process of “calculating the wavefront phase from the amp
    - [Europe](#groups-Europe)
 - [Companies](#companies)
 - [Workshops](#workshops) (video or slides available)
-- [Research papers](#Rpapers)  
-   - [Phase acquisition](#PARpapers)  
-     - [Holography/Interferometry](#HoloRpapers)  
-     - [Transport of intensity equation](#TIERpapers)  
+- [Research papers](#Rpapers)
+   - [Phase acquisition](#PARpapers)
+     - [Holography/Interferometry](#HoloRpapers)
+     - [Transport of intensity equation](#TIERpapers)
    - [Phase acquisition and deep learning](#DLRpapers)
-- [Review / Tutorial papers](#papers)  
-   - [Phase acquisition](#PApapers)   
+- [Review / Tutorial papers](#papers)
+   - [Phase acquisition](#PApapers) 
    - [Phase acquisition and deep learning](#DLpapers)
 - [Books](#BK)
 - [Dissertations and Thesis](#DT)  
