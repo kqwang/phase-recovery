@@ -1,4 +1,8 @@
-# Resources for computational imaging (CI) and phase acquisition (PA)
+# Resources for phase acquisition
+Here, we refer to the process of “calculating the wavefront phase from the 
+amplitude/intensity measurement of the light field” as phase acquisition (PA).
+PA contains many techniques and algorithms, such as holography/interferometry, 
+transfer of intensity equations, phase retrieval, wavefront sensing.
 ****
 ## Table of Contents:
 
@@ -12,6 +16,12 @@
 - [Companies](#companies)  
 
 - [Workshops](#workshops) (video or slides available)
+
+- [Research papers](#Rpapers)  
+   - [Phase acquisition](#PARpapers)  
+     -[Holography/Interferometry](HoloRpapers)  
+     -[Transport of intensity equation](TIERpapers)  
+   - [Phase acquisition and deep learning](#DLRpapers)  
 
 - [Review / Tutorial papers](#papers)  
    - [Phase acquisition](#PApapers)   
@@ -272,6 +282,19 @@ Key words: phase retrieval, phase unwrapping, transport of intensity equations (
    - ["Diffractive Imaging with Phase Retrieval"  ](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
    
 
+****
+<a name="Rpapers"></a>
+# Research papers
+(In chronological order)
+
+<a name="PARpapers"></a>
+## Phase acquisition
+<a name="HoloRpapers"></a>
+### Holography/Interferometry
+a  
+<a name="TIERpapers"></a>
+### Transport of intensity equation
+a  
 ****
 <a name="papers"></a>
 # Review/Tutorial papers
