@@ -19,8 +19,8 @@ transfer of intensity equations, phase retrieval, wavefront sensing.
 
 - [Research papers](#Rpapers)  
    - [Phase acquisition](#PARpapers)  
-     [Holography/Interferometry](HoloRpapers)  
-     [Transport of intensity equation](TIERpapers)  
+     - [Holography/Interferometry](#HoloRpapers)  
+     - [Transport of intensity equation](#TIERpapers)  
    - [Phase acquisition and deep learning](#DLRpapers)  
 
 - [Review / Tutorial papers](#papers)  
