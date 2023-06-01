@@ -2,7 +2,8 @@
 Here, we refer to the process of “calculating the wavefront phase from 
 the amplitude/intensity measurement of the light field” as phase acquisition (PA). 
 PA contains many techniques and algorithms, such as holography/interferometry, 
-transfer of intensity equations, phase retrieval, wavefront sensing.
+transfer of intensity equations, wavefront sensing, 
+phase retrieval/optimization-based approaches, deep-learning(DL)-based approaches.
 ****
 ## Table of Contents:
 
@@ -14,13 +15,19 @@ transfer of intensity equations, phase retrieval, wavefront sensing.
 - [Companies](#companies)
 - [Workshops](#workshops) (video or slides available)
 - [Research papers](#Rpapers)
-   - [Phase acquisition](#PARpapers)
+   - [Conventional phase acquisition](#PARpapers)
      - [Holography/Interferometry](#HoloRpapers)
      - [Transport of intensity equation](#TIERpapers)
-   - [Phase acquisition and deep learning](#DLRpapers)
+     - [Wavefront-sensing-based approaches](#WSRpapers)
+     - [Optimization-based approaches](#OPRpapers)
+   - [Deep-learning(Dl)-based phase acquisition ](#DLRpapers)
+     - [DL-pre-processing for phase acquisition](#DLpreRpapers)
+     - [DL-in-processing for phase acquisition](#DLinRpapers)
+     - [DL-post-processing for phase acquisition](#DLpostRpapers)
+     - [DL for phase processing](#DLppRpapers)
 - [Review / Tutorial papers](#papers)
-   - [Phase acquisition](#PApapers) 
-   - [Phase acquisition and deep learning](#DLpapers)
+   - [Conventional phase acquisition](#PApapers) 
+   - [Deep-learning-based phase acquisition](#DLpapers)
 - [Books](#BK)
 - [Dissertations and Thesis](#DT)  
 
@@ -281,16 +288,35 @@ Key words: phase retrieval, phase unwrapping, transport of intensity equations (
 (In chronological order)
 
 <a name="PARpapers"></a>
-## Phase acquisition
+## Conventional phase acquisition
 <a name="HoloRpapers"></a>
 ### Holography/Interferometry
 a  
 <a name="TIERpapers"></a>
 ### Transport of intensity equation
 a  
+<a name="WSRpapers"></a>
+### Wave-sensing-based approaches
+a  
+<a name="ORpapers"></a>
+### Optimization-based approaches
+a  
 
 <a name="DLRpapers"></a>
-## Phase acquisition and deep learning
+## Deep-learning(Dl)-based phase acquisition
+<a name="DLpreRpapers"></a>
+### DL-pre-processing for phase acquisition
+a  
+<a name="DLinRpapers"></a>
+### DL-in-processing for phase acquisition
+a  
+<a name="DLpostRpapers"></a>
+### DL-post-processing for phase acquisition
+a  
+<a name="DLppRpapers"></a>
+### Deep learning for phase processing
+a 
+
 
 ****
 <a name="papers"></a>
@@ -298,7 +324,7 @@ a
 (In chronological order)
 
 <a name="PApapers"></a>
-## Phase acquisition
+## Conventional phase acquisition
 
 - Y. Shechtman, Y. C. Eldar, O. Cohen, H. N. Chapman, J. Miao, and M. Segev  
 *[Phase Retrieval with Application to Optical Imaging: A contemporary overview](https://doi.org/10.1109/MSP.2014.2352673),*  
@@ -353,7 +379,7 @@ ACS Nano 16(8), 11516–11544 (2022).
 ACS Photonics 10(2), 322–339 (2023).
 
 <a name="DLpapers"></a>
-## Phase acquisition and deep learning
+## Deep-learning-based phase acquisition
 
 - Y. Jo, H. Cho, S. Y. Lee, G. Choi, G. Kim, H. Min, and Y. Park  
 *[Quantitative Phase Imaging and Artificial Intelligence: A Review](https://doi.org/10.1109/JSTQE.2018.2859234),*  
