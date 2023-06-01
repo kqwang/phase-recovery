@@ -37,7 +37,7 @@ optimization-based approaches (phase retrieval), deep-learning(DL)-based approac
 <a name="contributing"></a>
 # Contributing
 
-You are welcome to add or modify some content (categories or lists, etc.) via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
+You are welcome to add or modify any related content via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
 
 Please use the following guidelines:
 - Edit the raw file with [Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
@@ -65,215 +65,215 @@ fringe analysis, computational imaging)
 <a name="groups-Americas"></a>
 ## Americas
 - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
-Key words: computational imaging, phase imaging, and optical coherence tomography etc.
+Keywords: computational imaging, phase imaging, and optical coherence tomography etc.
 
 - [Stephen Boppart ](https://biophotonics.illinois.edu/)(University of Illinois Urbana-Champaign)    
-Key words: optical coherence tomography, wavefront sensing, biomedical imaging etc.
+Keywords: optical coherence tomography, wavefront sensing, biomedical imaging etc.
 
 - [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/)(Purdue University)  
-Key words: wavefront sensing etc.
+Keywords: wavefront sensing etc.
 
 - [Ni Chen](https://ni-chen.github.io)(University of Arizona)  
-Key words: holography, phase imaging, and light field imaging etc.
+Keywords: holography, phase imaging, and light field imaging etc.
 
 - [James R. Fienup ](https://labsites.rochester.edu/fienup/)(University of Rochester)  
-Key words: phase retrieval, coherent diffraction imaging, and wavefront sensing etc.
+Keywords: phase retrieval, coherent diffraction imaging, and wavefront sensing etc.
 
 - [Jason W. Fleischer ](https://www.princeton.edu/~jasonf/)(Mississippi State University)  
-Key words: phase retrieval etc.
+Keywords: phase retrieval etc.
 
 - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
-Key words: inverse problem and phase retrieval etc.
+Keywords: inverse problem and phase retrieval etc.
 
 - [Babak Hassibi ](https://www.ee.caltech.edu/people/hassibi)(California Institute of Technology)  
-Key words: phase retrieval etc.
+Keywords: phase retrieval etc.
 
 - [Roarke Horstmeyer ](http://horstmeyer.pratt.duke.edu/)(Duke University)  
-Key words: Fourier ptychography and single-photon detection etc.
+Keywords: Fourier ptychography and single-photon detection etc.
 
 - [Joseph A. Izatt ](http://biophotonics.pratt.duke.edu/)(Duke University)  
-Key words: biomedical imaging, optical coherence tomography and high-resolution imaging etc.
+Keywords: biomedical imaging, optical coherence tomography and high-resolution imaging etc.
 
 - [Rongguang Liang ](https://wp.optics.arizona.edu/ualiangaol/)(The University of Arizona)  
-Key words: phase imaging and biomedical imaging etc.
+Keywords: phase imaging and biomedical imaging etc.
 
 - [Christopher Metzler](https://www.cs.umd.edu/people/metzler)(The University of Maryland)  
-Key words: phase retrieval, inverse problem and computational imaging etc.
+Keywords: phase retrieval, inverse problem and computational imaging etc.
 
 - [Jianwei (John) Miao ](https://www.physics.ucla.edu/research/imaging/)(University of California, Los Angeles)  
-Key words: coherent diffractive imaging and atomic electron tomography etc.
+Keywords: coherent diffractive imaging and atomic electron tomography etc.
 
 - [Aydogan Ozcan ](https://research.seas.ucla.edu/ozcan/)(University of California, Los Angeles)  
-Key words: phase imaging, holography, lensless imaging and optical diffraction neural network etc.
+Keywords: phase imaging, holography, lensless imaging and optical diffraction neural network etc.
 
 - [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/home/)(Virginia Polytechnic Institute and State University)  
-Key words: holography etc.
+Keywords: holography etc.
 
 - [Gabriel Popescu ](https://light.ece.illinois.edu/)(University of Illinois at Urbana-Champaign)  
-Key words: phase imaging and biomedical imaging etc.
+Keywords: phase imaging and biomedical imaging etc.
 
 - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC)  
-Key words: fringe analysis phase retrieval and phase unwrapping etc.
+Keywords: fringe analysis phase retrieval and phase unwrapping etc.
 
 - [Jannick Rolland ](http://www.odalab-spectrum.org/)(University of Rochester)  
-Key words: optical coherence tomography etc.
+Keywords: optical coherence tomography etc.
 
 - [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
-Key words: inverse problem and phase retrieval etc.
+Keywords: inverse problem and phase retrieval etc.
 
 - [Philip Schniter](http://www2.ece.ohio-state.edu/~schniter/)(The Ohio State University)  
-Key words: inverse problem and phase retrieval etc.
+Keywords: inverse problem and phase retrieval etc.
 
 - [Lei Tian ](https://sites.bu.edu/tianlab/)(Boston University)  
-Key words: Fourier ptychography, transport of intensity equations (TIE), and imaging through scattering media etc.
+Keywords: Fourier ptychography, transport of intensity equations (TIE), and imaging through scattering media etc.
 
 - [Ashok Veeraraghavan ](https://www.computationalimaging.org/)(Rice University)  
-Key words: wavefront sensing, imaging through scattering media, and lensless imaging etc.
+Keywords: wavefront sensing, imaging through scattering media, and lensless imaging etc.
 
 - [Laura Waller ](https://www.laurawaller.com/)(University of California, Berkeley)  
-Key words: phase imaging, lensless imaging, and transport of intensity equations (TIE) etc.
+Keywords: phase imaging, lensless imaging, and transport of intensity equations (TIE) etc.
 
 - [Lihong Wang ](http://coilab.caltech.edu/)(California Institute of Technology)  
-Key words: optical coherence tomography and biomedical imaging etc.
+Keywords: optical coherence tomography and biomedical imaging etc.
 
 - [Adam P. Wax ](http://bios.bme.duke.edu/)(Duke University)  
-Key words: interferometry and biomedical imaging etc.
+Keywords: interferometry and biomedical imaging etc.
 
 - [Florian Willomitzer ](https://3dim.northwestern.edu/)(University of Arizona)  
-Key words: synthetic wavelength holography and interferometry etc.
+Keywords: synthetic wavelength holography and interferometry etc.
 
 - [Changhuei Yang ](https://biophot.caltech.edu/)(California Institute of Technology)  
-Key words: Fourier ptychography, wavefront shaping and non-line-of-sight imaging etc.
+Keywords: Fourier ptychography, wavefront shaping and non-line-of-sight imaging etc.
 
 - [Guoan Zheng ](https://smartimaging.uconn.edu/)(University of Connecticut)  
-Key words: Fourier ptychography etc.
+Keywords: Fourier ptychography etc.
     
 <a name="groups-Asia"></a>
 ## Asia
 - [Anand Asundi ](https://www.doptron.com/)(d'Optron Pte Ltd)   
-Key words: phase imaging, holography, and transport of intensity equations (TIE) etc.
+Keywords: phase imaging, holography, and transport of intensity equations (TIE) etc.
 
 - [Liheng Bian ](https://bianlab.github.io/)(Beijing Institute of Technology)  
-Key words: multi-dimensional imaging (spectrum, phase) etc.
+Keywords: multi-dimensional imaging (spectrum, phase) etc.
 
 - [Liangcai Cao ](http://www.holoddd.com/)(Tsinghua University)  
-Key words: holography etc.
+Keywords: holography etc.
 
 - [Wen Chen ](https://www.eie.polyu.edu.hk/~wenchen/)(The Hong Kong Polytechnic University)  
-Key words: holography and single-pixel imaging etc.
+Keywords: holography and single-pixel imaging etc.
 
 - [Chau-Jern Cheng ](https://scholar.lib.ntnu.edu.tw/en/persons/chau-jern-cheng)(National Taiwan Normal University)  
-Key words: holography etc.
+Keywords: holography etc.
 
 - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(The University of Science and Technology of China)  
-Key words: phase imaging and super-resolution imaging etc.
+Keywords: phase imaging and super-resolution imaging etc.
 
 - [Jianglei Di ](https://www.researchgate.net/profile/Jianglei-Di)(GuangDong University of Technology)  
-Key words: computational imaging and holography etc.
+Keywords: computational imaging and holography etc.
 
 - [Peng Gao ](https://faculty.xidian.edu.cn/GP3/zh_CN/index.htm)(Xidian University)  
-Key words: phase imaging and super-resolution imaging etc.
+Keywords: phase imaging and super-resolution imaging etc.
 
 - [Ryoichi Horisaki](https://sites.google.com/view/horisaki)(The University of Tokyo)  
-Key words: wavefront sensing, holography and computational imaging etc.
+Keywords: wavefront sensing, holography and computational imaging etc.
 
 - [Wolfgang Heidrich](https://vccimaging.org/)(King Abdullah University of Science and Technology)  
-Key words: phase imaging and computational imaging etc.
+Keywords: phase imaging and computational imaging etc.
 
 - [Cuifang Kuang ](https://person.zju.edu.cn/en/cfkuang)(Zhejiang University)  
-Key words: three-dimensional super-resolution phase microscopy and super-resolution imaging etc.
+Keywords: three-dimensional super-resolution phase microscopy and super-resolution imaging etc.
 
 - [Edmund Y. Lam ](https://www.eee.hku.hk/~elam/)(The University of Hong Kong)  
-Key words: phase retrieval, holography and computational imaging etc.
+Keywords: phase retrieval, holography and computational imaging etc.
 
 - [Cheng Liu ](http://science.jiangnan.edu.cn/content_js.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=5799)(Jiangnan University)  
-Key words: phase imaging etc.
+Keywords: phase imaging etc.
 
 - [Yuan Luo ](https://optics.mc.ntu.edu.tw/)(National Taiwan University)  
-Key words: phase imaging etc.  
+Keywords: phase imaging etc.  
 
 - [Dalip Singh Mehta ](https://web.iitd.ac.in/~mehtads/)(Indian Institute of Technology Delhi)  
-Key words: phase imaging and holograohy etc. 
+Keywords: phase imaging and holograohy etc. 
 
 - [Inkyu Moon](https://iivs.dgist.ac.kr/)(Daegu Gyeongbuk Institute of Science and Technology)  
-Key words: holograohy in cell imaging and analysis etc.
+Keywords: holograohy in cell imaging and analysis etc.
 
 - [An Pan ](https://www.sites.google.com/site/dranpanblog/)(Chinese Academy of Sciences)  
-Key words: Fourier ptychography and biomedical imaging etc.
+Keywords: Fourier ptychography and biomedical imaging etc.
 
 - [Jung-Hoon Park ](https://www.biooptics.org/)(Ulsan National Institute of Science and Technology)  
-Key words: phase imaging and biomedical imaging etc.
+Keywords: phase imaging and biomedical imaging etc.
 
 - [YongKeun Park ](https://bmokaist.wordpress.com/)(Korea Advanced Institute of Science and Technology)  
-Key words: phase imaging and biomedical imaging etc.
+Keywords: phase imaging and biomedical imaging etc.
 
 - [Kemao Qian ](https://www3.ntu.edu.sg/home/mkmqian/)(Nanyang Technological University)  
-Key words: phase unwrapping and fringe analysis etc.
+Keywords: phase unwrapping and fringe analysis etc.
 
 - [Joseph Rosen ](https://www.ee.bgu.ac.il/~rosen/)(Ben-Gurion University of the Negev)  
-Key words: holography etc.
+Keywords: holography etc.
 
 - [Natan T. Shaked](http://www.eng.tau.ac.il/~omni/index2.php/) (Tel Aviv University)  
-Key words: interferometry, optical coherence tomography, and biomedical imaging etc.
+Keywords: interferometry, optical coherence tomography, and biomedical imaging etc.
 
 - [Guohai Situ ](https://people.ucas.edu.cn/~situ)(University of Chinese Academy of Sciences)  
-Key words: phase imaging, holography, and computational imaging etc.
+Keywords: phase imaging, holography, and computational imaging etc.
 
 - [Xiaodi Tan](http://www.io-lab.cn/)(Fujian Normal University)  
-Key words: holography etc.
+Keywords: holography etc.
 
 - [Peter Wai Ming Tsang ](https://scholars.cityu.edu.hk/en/persons/wai-ming-peter-tsang(892d3f89-71e1-4348-9bd0-c27f242c0d00).html)(City University of Hong Kong)  
-Key words: holography etc.
+Keywords: holography etc.
 
 - [Yang Wang ](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-wang-yangwang)(The Hong Kong University of Science and Technology)  
-Key words: phase retrieval etc.
+Keywords: phase retrieval etc.
 
 - [Yuan Wu ](http://www.bme.cuhk.edu.hk/yuan/)(The Chinese University of Hong Kong)  
-Key words: optical coherence tomography and biomedical imaging etc.
+Keywords: optical coherence tomography and biomedical imaging etc.
 
 - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
-Key words: holography and super-resolution imaging etc.
+Keywords: holography and super-resolution imaging etc.
 
 - [Jianlin Zhao ](https://teacher.nwpu.edu.cn/m/en/1982000067.html)(Northwestern Polytechnical University)  
-Key words: holography and computational imaging etc.
+Keywords: holography and computational imaging etc.
 
 - [Renjie Zhou ](https://www.renjiezhou.com/)(The Chinese University of Hong Kong)  
-Key words: phase imaging and biomedical imaging etc.
+Keywords: phase imaging and biomedical imaging etc.
 
 - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology)  
-Key words: transport of intensity equations (TIE), phase imaging and computational imaging etc.
+Keywords: transport of intensity equations (TIE), phase imaging and computational imaging etc.
     
 <a name="groups-Europe"></a>
 ## Europe
 - [Radim Chmelik ](https://www.vut.cz/en/people/radim-chmelik-2190)(Brno University of Technology)  
-Key words: phase imaging and holography etc.
+Keywords: phase imaging and holography etc.
 
 - [Pietro Ferraro](https://scholar.google.com/citations?user=yyFkAiQAAAAJ&hl=en)(Consiglio Nazionale delle Ricerche)  
-Key words: holography etc.
+Keywords: holography etc.
 
 - [Hans-Werner Fink](https://www.physik.uzh.ch/groups/fink/)(University of Zurich)  
-Key words: electron holography etc.
+Keywords: electron holography etc.
 
 - [Maxime Jacquot](https://www.femto-st.fr/en/femto-people/maximejacquot)(Université Bourgogne Franche-Comté)  
-Key words: holography etc.
+Keywords: holography etc.
 
 - [Aykut Koc](http://aykutkoclab.ee.bilkent.edu.tr/)(Bilkent University)
-Key words: phase retrieval, inverse problem and computational imaging etc.
+Keywords: phase retrieval, inverse problem and computational imaging etc.
 
 - [Figen S. Oktem](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)
-Key words: phase retrieval, inverse problem and computational imaging etc.
+Keywords: phase retrieval, inverse problem and computational imaging etc.
 
 - [Demetri Psaltis ](https://www.epfl.ch/labs/lo/)(The École polytechnique fédérale de Lausanne)  
-Key words: holography, imaging through scattering media, and linear and non-linear multimode fibers etc.
+Keywords: holography, imaging through scattering media, and linear and non-linear multimode fibers etc.
 
 - [Pascal Picart ](http://perso.univ-lemans.fr/~ppicart/rech/perso/BooksPP.html)(Le Mans University)  
-Key words: holography and phase imaging etc.
+Keywords: holography and phase imaging etc.
 
 - [Latychevskaia Tatiana ](https://coherentimaging.wordpress.com/)(University of Zurich)  
-Key words: holography, phase retrieval and coherent diffractive imaging etc.
+Keywords: holography, phase retrieval and coherent diffractive imaging etc.
 
 - [Michael Unser ](http://bigwww.epfl.ch/)(The École polytechnique fédérale de Lausanne)  
-Key words: phase retrieval, phase unwrapping, transport of intensity equations (TIE) and biomedical imaging etc.
+Keywords: phase retrieval, phase unwrapping, transport of intensity equations (TIE) and biomedical imaging etc.
 
 ****
 <a name="companies"></a>
