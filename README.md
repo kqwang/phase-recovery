@@ -58,26 +58,29 @@ This project exists thanks to all the people who contribute.
 <a name="groups"></a>
 # People and groups
 (In alphabetical order according to surnames)  
-(Quick search with "Ctrl + F")
+(Quick search with "Ctrl + F")  
+(Key works: phase imaging, holography, interferometry, optical coherence tomography, phase retrieval, 
+Fourier ptychography,inverse problem, transport of intensity equations, wavefront sensing, phase unwrapping,
+fringe analysis, computational imaging)
 <a name="groups-Americas"></a>
 ## Americas
 - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
-Key words: computational imaging, phase imaging, and tomographic imaging etc.
+Key words: computational imaging, phase imaging, and optical coherence tomography etc.
 
 - [Stephen Boppart ](https://biophotonics.illinois.edu/)(University of Illinois Urbana-Champaign)    
-Key words: biomedical imaging, optical coherence tomography, and adaptive optics etc.
+Key words: optical coherence tomography, wavefront sensing, biomedical imaging etc.
 
 - [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/)(Purdue University)  
-Key words: imaging through atmospheric turbulence etc.
+Key words: wavefront sensing etc.
 
 - [Ni Chen](https://ni-chen.github.io)(University of Arizona)  
 Key words: holography, phase imaging, and light field imaging etc.
 
 - [James R. Fienup ](https://labsites.rochester.edu/fienup/)(University of Rochester)  
-Key words: phase retrieval, coherent diffraction imaing, and wavefront sensing etc.
+Key words: phase retrieval, coherent diffraction imaging, and wavefront sensing etc.
 
 - [Jason W. Fleischer ](https://www.princeton.edu/~jasonf/)(Mississippi State University)  
-Key words: phase retrieval, and optical tomography etc.
+Key words: phase retrieval etc.
 
 - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
 Key words: inverse problem and phase retrieval etc.
@@ -211,7 +214,7 @@ Key words: phase unwrapping and fringe analysis etc.
 Key words: holography etc.
 
 - [Natan T. Shaked](http://www.eng.tau.ac.il/~omni/index2.php/) (Tel Aviv University)  
-Key words: interferometry, tomography, and biomedical imaging etc.
+Key words: interferometry, optical coherence tomography, and biomedical imaging etc.
 
 - [Guohai Situ ](https://people.ucas.edu.cn/~situ)(University of Chinese Academy of Sciences)  
 Key words: phase imaging, holography, and computational imaging etc.
