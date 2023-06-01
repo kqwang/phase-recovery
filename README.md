@@ -58,9 +58,9 @@ This project exists thanks to all the people who contribute.
 <a name="groups"></a>
 # People and groups
 (In alphabetical order according to surnames)  
-(Quick search with "Ctrl + F")  
+(Quick search by "Ctrl + F" with keywords)  
 (Key works: phase imaging, holography, interferometry, optical coherence tomography, phase retrieval, 
-Fourier ptychography,inverse problem, transport of intensity equations, wavefront sensing, phase unwrapping,
+Fourier ptychography, inverse problem, transport of intensity equations, wavefront sensing, phase unwrapping,
 fringe analysis, computational imaging)
 <a name="groups-Americas"></a>
 ## Americas
@@ -240,7 +240,7 @@ Key words: holography and computational imaging etc.
 - [Renjie Zhou ](https://www.renjiezhou.com/)(The Chinese University of Hong Kong)  
 Key words: phase imaging and biomedical imaging etc.
 
-- [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology‍)  
+- [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology)  
 Key words: transport of intensity equations (TIE), phase imaging and computational imaging etc.
     
 <a name="groups-Europe"></a>
