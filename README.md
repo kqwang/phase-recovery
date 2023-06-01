@@ -2,8 +2,8 @@
 Here, we refer to the process of “calculating the wavefront phase from 
 the amplitude/intensity measurement of the light field” as phase acquisition (PA). 
 PA contains many techniques and algorithms, such as holography/interferometry, 
-transfer of intensity equations, wavefront sensing, 
-phase retrieval/optimization-based approaches, deep-learning(DL)-based approaches.
+transfer of intensity equations (TIE), wavefront-sensing-based approaches, 
+optimization-based approaches (phase retrieval), deep-learning(DL)-based approaches.
 ****
 ## Table of Contents:
 
@@ -20,7 +20,7 @@ phase retrieval/optimization-based approaches, deep-learning(DL)-based approache
      - [Transport of intensity equation](#TIERpapers)
      - [Wavefront-sensing-based approaches](#WSRpapers)
      - [Optimization-based approaches](#OPRpapers)
-   - [Deep-learning(Dl)-based phase acquisition ](#DLRpapers)
+   - [Deep-learning(DL)-based phase acquisition ](#DLRpapers)
      - [DL-pre-processing for phase acquisition](#DLpreRpapers)
      - [DL-in-processing for phase acquisition](#DLinRpapers)
      - [DL-post-processing for phase acquisition](#DLpostRpapers)
@@ -163,7 +163,10 @@ Key words: phase imaging and super-resolution imaging etc.
 Key words: computational imaging and holography etc.
 
 - [Peng Gao ](https://faculty.xidian.edu.cn/GP3/zh_CN/index.htm)(Xidian University)  
-Key words: phase imaging, and super-resolution imaging etc.
+Key words: phase imaging and super-resolution imaging etc.
+
+- [Wolfgang Heidrich](https://vccimaging.org/)(King Abdullah University of Science and Technology)  
+Key words: phase imaging and computational Imaging etc.
 
 - [Cuifang Kuang ](https://person.zju.edu.cn/en/cfkuang)(Zhejiang University)  
 Key words: three-dimensional super-resolution phase microscopy and super-resolution imaging etc.
@@ -278,8 +281,8 @@ Key words: phase retrieval, phase unwrapping, transport of intensity equations (
 
 - ["Phase Retrieval"](https://www.bioxfel.org/phase-retrieval-2021) in BioXFEL (October 18 - 19, 2021)  
 - ["Computational Microscopy"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview) in IPAM (September 12 - December 16, 2022)
-   - ["Computational Microscopy Tutorials" ](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
-   - ["Diffractive Imaging with Phase Retrieval"  ](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
+   - ["Computational Microscopy Tutorials"](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
+   - ["Diffractive Imaging with Phase Retrieval"](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
    
 
 ****
@@ -288,22 +291,114 @@ Key words: phase retrieval, phase unwrapping, transport of intensity equations (
 (In chronological order)
 
 <a name="PARpapers"></a>
-## Conventional phase acquisition
+## Conventional phase acquisition 
+(Here, we mention only the most classic original papers)
 <a name="HoloRpapers"></a>
 ### Holography/Interferometry
-a  
+
+- D. Gabor  
+*[A New Microscopic Principle](https://doi.org/10.1038/161777a0)*  
+Nature 161(4098), 777–778 (1948).
+- E. N. Leith and J. Upatnieks  
+*[Reconstructed Wavefronts and Communication Theory*](https://doi.org/10.1364/JOSA.52.001123)*  
+J. Opt. Soc. Am. 52(10), 1123 (1962).
+- I. Yamaguchi and T. Zhang  
+*[Phase-shifting digital holography](https://doi.org/10.1364/OL.22.001268)*  
+Opt. Lett. 22(16), 1268 (1997).
+- G. Popescu, T. Ikeda, R. R. Dasari, and M. S. Feld  
+*[Diffraction phase microscopy for quantifying cell structure and dynamics](https://doi.org/10.1364/OL.31.000775)*  
+Opt. Lett. 31(6), 775 (2006). 
+- Z. Wang, L. Millet, M. Mir, H. Ding, S. Unarunotai, J. Rogers, M. U. Gillette, and G. Popescu  
+*[Spatial light interference microscopy (SLIM)](https://doi.org/10.1364/OE.19.001016)*  
+Opt. Express 19(2), 1016 (2011).
+
+
 <a name="TIERpapers"></a>
 ### Transport of intensity equation
-a  
+- J. P. Guigay  
+*[Fourier transform analysis of Fresnel diffraction patterns and in-line holograms](https://www.researchgate.net/publication/285917772_FOURIER_TRANSFORM_ANALYSIS_OF_FRESNEL_DIFFRACTION_PATTERNS_AND_IN-LINE_HOLOGRAMS)*  
+Optik 49, 121–125 (1977).
+- D. Paganin and K. A. Nugent  
+*[Noninterferometric Phase Imaging with Partially Coherent Light](https://doi.org/10.1103/PhysRevLett.80.2586)*  
+Phys. Rev. Lett. 80(12), 2586–2589 (1998).
+- M. R. Teague  
+*[Deterministic phase retrieval: a Green’s function solution](https://doi.org/10.1364/JOSA.73.001434)*  
+J. Opt. Soc. Am. 73(11), 1434 (1983).
+
+
 <a name="WSRpapers"></a>
-### Wave-sensing-based approaches
-a  
+### Wavefront-sensing-based approaches
+(Mainly refers to the approaches of obtaining the phase gradient first and then integrating to calculate the phase)
+- J. Hartmann  
+*Bemerkungen uber den Bau und die Justirung von Spektrographen*  
+Zeitschrift fuer Instrumentenkunde 20, 47–58 (1900).
+- R. V. Shack and B. C. Platt  
+*Production and use of a lenticular Hartmann screen*  
+J. Opt. Soc. Am. 61, 656–660 (1971).
+- J. S. Hartman, R. L. Gordon, and D. L. Lessor  
+*[Development Of Nomarski Microscopy For Quantitative Determination Of Surface Topography(A)](https://doi.org/10.1117/12.957861)*  
+in G. W. Hopkins, ed. (1979), pp. 223–230. (Conference)
+- P. Bon, G. Maucort, B. Wattellier, and S. Monneret  
+*[Quadriwave lateral shearing interferometry for quantitative phase microscopy of living cells](https://doi.org/10.1364/OE.17.0130804)*  
+Opt. Express 17(15), 13080 (2009).
+
+
 <a name="ORpapers"></a>
 ### Optimization-based approaches
-a  
+#### Alternating projection
+- R. W. Gerchberg  
+*[A practical algorithm for determination of phase from image and diffraction plane pictures](https://www.scinapse.io/papers/1484412996)*  
+Optik 35, 237–246 (1972).
+- J. R. Fienup  
+*[Reconstruction of an object from the modulus of its Fourier transform](https://doi.org/10.1364/OL.3.000027)*  
+Opt. Lett. 3(1), 27 (1978).
+- J. R. Fienup  
+*[Phase retrieval algorithms: a comparison](https://doi.org/10.1364/AO.21.002758)*  
+Appl. Opt. 21(15), 2758 (1982).
+
+#### Axial multi-intensity alternating projection
+- L. J. Allen and M. P. Oxley  
+*[Phase retrieval from series of images obtained by defocus variation](https://doi.org/10.1364/10.1016/S0030-4018(01)01556-5)*  
+Optics Communications 199(1–4), 65–75 (2001).
+- G. Pedrini, W. Osten, and Y. Zhang  
+*[Wave-front reconstruction from a sequence of interferograms recorded at different planes](https://doi.org/10.1364/OL.30.000833)*  
+Opt. Lett. 30(8), 833 (2005).
+- A. Greenbaum and A. Ozcan  
+*[Maskless imaging of dense samples using pixel super-resolution based multi-height lensfree on-chip microscopy](https://doi.org/10.1364/OE.20.003129)*  
+Opt. Express 20(3), 3129 (2012).
+
+#### Radial multi-intensity alternating projection (Ptychographic iterative engine, PIE)
+- H. M. L. Faulkner and J. M. Rodenburg  
+*[Movable Aperture Lensless Transmission Microscopy: A Novel Phase Retrieval Algorithm](https://doi.org/10.1103/PhysRevLett.93.023903)*  
+Phys. Rev. Lett. 93(2), 023903 (2004).
+- J. M. Rodenburg and H. M. L. Faulkner  
+*[A phase retrieval algorithm for shifting illumination](https://doi.org/10.1063/1.1823034)*  
+Appl. Phys. Lett. 85(20), 4795–4797 (2004).
+
+#### Angular multi-intensity alternating projection (Fourier ptychography, FP)
+- G. Zheng, R. Horstmeyer, and C. Yang  
+*[Wide-field, high-resolution Fourier ptychographic microscopy](https://doi.org/10.1038/nphoton.2013.187)*  
+Nature Photon 7(9), 739–745 (2013).
+- X. Ou, R. Horstmeyer, C. Yang, and G. Zheng  
+*[Quantitative phase imaging via Fourier ptychographic microscopy](https://doi.org/10.1364/OL.38.004845)*  
+Opt. Lett. 38(22), 4845 (2013).
+
+#### Non-convex optimization
+- E. J. Candes, X. Li, and M. Soltanolkotabi  
+*[Phase Retrieval via Wirtinger Flow: Theory and Algorithms](https://doi.org/10.1109/TIT.2015.2399924)*  
+IEEE Trans. Inform. Theory 61(4), 1985–2007 (2015).
+- G. Wang, G. B. Giannakis, and Y. C. Eldar  
+*[Solving Systems of Random Quadratic Equations via Truncated Amplitude Flow](https://doi.org/10.1109/TIT.2017.2756858)*  
+IEEE Trans. Inform. Theory 64(2), 773–794 (2018).
+ 
+#### Convex optimization
+- E. J. Candès, T. Strohmer, and V. Voroninski  
+*[PhaseLift: Exact and Stable Signal Recovery from Magnitude Measurements via Convex Programming](https://doi.org/10.1002/cpa.21432)*  
+Comm. Pure Appl. Math. 66(8), 1241–1274 (2013).
+
 
 <a name="DLRpapers"></a>
-## Deep-learning(Dl)-based phase acquisition
+## Deep-learning(DL)-based phase acquisition
 <a name="DLpreRpapers"></a>
 ### DL-pre-processing for phase acquisition
 a  
