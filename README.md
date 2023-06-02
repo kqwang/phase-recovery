@@ -22,15 +22,23 @@ optimization-based approaches (phase retrieval), deep-learning(DL)-based approac
      - [Optimization-based approaches](#OPRpapers)
    - [Deep-learning(DL)-based phase acquisition ](#DLRpapers)
      - [DL-pre-processing for phase acquisition](#DLpreRpapers)
+       - [Super-resolution](#DLpreSRRpapers)
+       - [Noise reduction](#DLpreNRRpapers)
+       - [Hologram generation](#DLpreHGRpapers)
+       - [Autofocusing](#DLpreAFRpapers)
      - [DL-in-processing for phase acquisition](#DLinRpapers)
+       - [Dataset-driven network-only strategy](#DLinDDnoRpapers)
+       - [Physics-model-driven network-only strategy](#DLinPDnoRpapers)
+       - [Physics-model-connect-network strategy](#DLinPcNRpapers)
+       - [Network-in-physics-model strategy](#DLinNiPRpapers)
+       - [Physics-model-in-network strategy](#DLinPiNRpapers)
      - [DL-post-processing for phase acquisition](#DLpostRpapers)
      - [DL for phase processing](#DLppRpapers)
 - [Review / Tutorial papers](#papers)
    - [Conventional phase acquisition](#PApapers) 
    - [Deep-learning-based phase acquisition](#DLpapers)
 - [Books](#BK)
-- [Dissertations and Thesis](#DT)  
-
+- [Dissertations and Thesis](#DT)
 
 ****
    
@@ -310,7 +318,7 @@ Keywords: phase retrieval, phase unwrapping, transport of intensity equations (T
 
 <a name="PARpapers"></a>
 ## Conventional phase acquisition 
-(Here, we mention only the most classic original papers)
+(Here, we mention only the classic pioneering papers)
 <a name="HoloRpapers"></a>
 ### Holography/Interferometry
 
@@ -419,10 +427,279 @@ Comm. Pure Appl. Math. 66(8), 1241–1274 (2013).
 ## Deep-learning(DL)-based phase acquisition
 <a name="DLpreRpapers"></a>
 ### DL-pre-processing for phase acquisition
-a  
+<a name="DLpreSRRpapers"></a>
+#### Super-resolution
+- Z. Luo, A. Yurt, R. Stahl, A. Lambrechts, V. Reumers, D. Braeken, and L. Lagae  
+*[Pixel super-resolution for lens-free holographic microscopy using deep learning neural networks](https://doi.org/10.1364/OE.27.013581)*  
+Opt. Express 27(10), 13581 (2019).
+- H. Byeon, T. Go, and S. J. Lee  
+*[Deep learning-based digital in-line holographic microscopy for high resolution with extended field of view](https://doi.org/10.1016/j.optlastec.2018.12.014)*  
+Optics & Laser Technology 113, 77–86 (2019).
+- Z. Ren, H. K.-H. So, and E. Y. Lam  
+*[Fringe Pattern Improvement and Super-Resolution Using Deep Learning in Digital Holography](https://doi.org/10.1109/TII.2019.2913853)*  
+IEEE Trans. Ind. Inf. 15(11), 6179–6186 (2019).
+- L. Xin, X. Liu, Z. Yang, X. Zhang, Z. Gao, and Z. Liu  
+*[Three-dimensional reconstruction of super-resolved white-light interferograms based on deep learning](https://doi.org/10.1016/j.optlaseng.2021.106663)*  
+Optics and Lasers in Engineering 145, 106663 (2021).
+<a name="DLpreNRRpapers"></a>
+#### Noise reduction
+- K. Yan, Y. Yu, C. Huang, L. Sui, K. Qian, and A. Asundi  
+*[Fringe pattern denoising based on deep learning](https://doi.org/10.1016/j.optcom.2018.12.058)*  
+Optics Communications 437, 148–152 (2019).
+- F. Hao, C. Tang, M. Xu, and Z. Lei  
+*[Batch denoising of ESPI fringe patterns based on convolutional neural network](https://doi.org/10.1364/AO.58.003338)*  
+Appl. Opt. 58(13), 3338 (2019).
+- W.-J. Zhou, S. Zou, D.-K. He, J.-L. Hu, H. Zhang, Y.-J. Yu, and T.-C. Poon  
+*[Speckle noise reduction in digital holograms based on Spectral Convolutional Neural Networks (SCNN)](https://doi.org/10.1117/12.2537685)*  
+in Holography, Diffractive Optics, and Applications IX, C. Zhou, Y. Sheng, and L. Cao, eds. (SPIE, 2019), p. 6.
+- B. Lin, S. Fu, C. Zhang, F. Wang, and Y. Li  
+*[Optical fringe patterns filtering based on multi-stage convolution neural network](https://doi.org/10.1016/j.optlaseng.2019.105853)*  
+Optics and Lasers in Engineering 126, 105853 (2020).
+- W.-J. Zhou, S. Liu, H. Zhang, Y. Yu, and T.-C. Poon  
+*[A Deep Learning Approach for Digital Hologram Speckle Noise Reduction](https://doi.org/10.1364/DH.2020.HTu5B.5)*  
+in Imaging and Applied Optics Congress (Optica Publishing Group, 2020), p. HTu5B.5.
+- A. Reyes-Figueroa, V. H. Flores, and M. Rivera  
+*[Deep neural network for fringe pattern filtering and normalization](https://doi.org/10.1364/AO.413404)*  
+Appl. Opt. 60(7), 2022 (2021).
+- J. Gurrola-Ramos, O. Dalmau, and T. Alarcón  
+*[U-Net based neural network for fringe pattern denoising](https://doi.org/10.1016/j.optlaseng.2021.106829)*  
+Optics and Lasers in Engineering 149, 106829 (2022).
+<a name="DLpreHGRpapers"></a>
+#### Hologram generation
+(for phase-shifting)
+- Q. Zhang, S. Lu, J. Li, W. Li, D. Li, X. Lu, L. Zhong, and J. Tian   
+*[Deep Phase Shifter for Quantitative Phase Imaging](https://doi.org/10.48550/arXiv.2003.03027)*  
+Preprint at Arxiv (2020).
+- Q. Zhang, S. Lu, J. Li, D. Li, X. Lu, L. Zhong, and J. Tian   
+*[Phase-shifting interferometry from single frame in-line interferogram using deep learning phase-shifting technology](https://doi.org/10.1016/j.optcom.2021.127226)*  
+Optics Communications 498, 127226 (2021).
+- K. Yan, A. Khan, A. Asundi, Y. Zhang, and Y. Yu   
+*[Virtual temporal phase-shifting phase extraction using generative adversarial networks](https://doi.org/10.1364/AO.443685)*  
+Appl. Opt. 61(10), 2525 (2022).
+- Y. Zhao, K. Hu, and F. Liu   
+*[One-shot phase retrieval method for interferometry using a multi-stage phase-shifting network](https://doi.org/10.1109/LPT.2022.3222814)*  
+IEEE Photon. Technol. Lett. 35, 577–580 (2022).
+- T. Huang, Q. Zhang, J. Li, X. Lu, J. Di, L. Zhong, and Y. Qin   
+*[Single-shot Fresnel incoherent correlation holography via deep learning based phase-shifting technology](https://doi.org/10.1364/OE.486289)*  
+Opt. Express 31(8), 12349 (2023).
+- B. Wu, Q. Zhang, T. Liu, Q. Ma, and J. Li   
+*[RSAGAN: Rapid self-attention generative adversarial nets for single-shot phase-shifting interferometry](https://doi.org/10.1016/j.optlaseng.2023.107672)*  
+Optics and Lasers in Engineering 168, 107672 (2023).  
+
+(to different defocus distances)
+- J. Gurrola-Ramos,   
+*[Diffraction-Net: a robust single-shot holography for multi-distance lensless imaging](https://doi.org/10.1364/OE.472658)*  
+Opt. Express 30(23), 41724 (2022).  
+
+(for multi-wavelength holography)
+- J. Li, Q. Zhang, L. Zhong, J. Tian, G. Pedrini, and X. Lu   
+*[Quantitative phase imaging in dual-wavelength interferometry using a single wavelength illumination and deep learning](https://doi.org/10.1364/OE.402808)*  
+Opt. Express 28(19), 28140 (2020).
+- J. Li, Q. Zhang, L. Zhong, and X. Lu   
+*[Hybrid-net: a two-to-one deep learning framework for three-wavelength phase-shifting interferometry](https://doi.org/10.1364/OE.438444)*  
+Opt. Express 29(21), 34656 (2021).
+- X. Xu, M. Xie, Y. Ji, and Y. Wang   
+*[Dual-wavelength interferogram decoupling method for three-frame generalized dual-wavelength phase-shifting interferometry based on deep learning](https://doi.org/10.1364/JOSAA.412433)*  
+J. Opt. Soc. Am. A 38(3), 321 (2021).
+<a name="DLpreAFRpapers"></a>
+#### Autofocusing 
+(by classification)
+- T. Pitkäaho, A. Manninen, and T. J. Naughton   
+*[Performance of Autofocus Capability of Deep Convolutional Neural Networks in Digital Holographic Microscopy](https://doi.org/10.1364/DH.2017.W2A.5)*  
+in Digital Holography and Three-Dimensional Imaging (OSA, 2017), p. W2A.5.
+- T. Pitkäaho, A. Manninen, and T. J. Naughton   
+*[Focus classification in digital holographic microscopy using deep convolutional neural networks](https://doi.org/10.1117/12.2286161)*  
+in E. Beaurepaire, F. S. Pavone, and P. T. C. So, eds. (2017), p. 104140K.
+- Z. Ren, Z. Xu, and E. Y. M. Lam   
+*[Autofocusing in digital holography using deep learning](https://doi.org/10.1117/12.2289282)*  
+in Three-Dimensional and Multidimensional Microscopy: Image Acquisition and Processing XXV (SPIE, 2018), p. 56.
+- K. Son, W. Jeong, W. Jeon, and H. Yang   
+*[Autofocusing algorithm for a digital holographic imaging system using convolutional neural networks](https://doi.org/10.7567/JJAP.57.09SB02)*  
+Jpn. J. Appl. Phys. 57(9S1), 09SB02 (2018).
+- R. Couturier, M. Salomon, E. A. Zeid, and C. A. Jaoude   
+*[Using Deep Learning for Object Distance Prediction in Digital Holography](https://doi.org/10.1109/ICCCR49711.2021.9349275)*  
+in 2021 International Conference on Computer, Control and Robotics (ICCCR) (IEEE, 2021), pp. 231–235.
+
+(by regression)
+- Z. Ren, Z. Xu, and E. Y. Lam   
+*[Learning-based nonparametric autofocusing for digital holography](https://doi.org/10.1364/OPTICA.5.000337)*  
+Optica 5(4), 337 (2018).
+- J.-S. Lee   
+*[Autofocusing using deep learning in off-axis digital holography](https://doi.org/10.1364/DH.2018.DTh1C.4)*  
+in Imaging and Applied Optics 2018 (3D, AO, AIO, COSI, DH, IS, LACSEA, LS&C, MATH, PcAOP) (OSA, 2018), p. DTh1C.4.
+- T. Shimobaba, T. Kakue, and T. Ito   
+*[Convolutional Neural Network-Based Regression for Depth Prediction in Digital Holography](https://doi.org/10.1109/ISIE.2018.8433651)*  
+in 2018 IEEE 27th International Symposium on Industrial Electronics (ISIE) (IEEE, 2018), pp. 1323–1326.
+- T. Pitkäaho, A. Manninen, and T. J. Naughton   
+*[Focus prediction in digital holographic microscopy using deep convolutional neural networks](https://doi.org/10.1364/AO.58.00A202)*  
+Appl. Opt. 58(5), A202 (2019).
+- K. Jaferzadeh, S.-H. Hwang, I. Moon, and B. Javidi   
+*[No-search focus prediction at the single cell level in digital holographic imaging with deep convolutional neural network](https://doi.org/10.1364/BOE.10.004276)*  
+Biomed. Opt. Express 10(8), 4276 (2019).
+- I. Moon and K. Jaferzadeh   
+*[Automated digital holographic image reconstruction with deep convolutional neural networks](https://doi.org/10.1117/12.2554533)*  
+in Three-Dimensional Imaging, Visualization, and Display 2020, (SPIE, 2020), p. 10.
+- S. Cuenat and R. Couturier   
+*[Convolutional Neural Network (CNN) vs Vision Transformer (ViT) for Digital Holography](https://doi.org/10.1109/ICCCR54399.2022.9790134)*  
+in 2022 2nd International Conference on Computer, Control and Robotics (ICCCR) (IEEE, 2022), pp. 235–240.
+- S. Cuenat, L. Andréoli, A. N. André, P. Sandoz, G. J. Laurent, R. Couturier, and M. Jacquot   
+*[Fast autofocusing using tiny transformer networks for digital holographic microscopy](https://doi.org/10.1364/OE.458948)*  
+Opt. Express 30(14), 24730 (2022).
+
 <a name="DLinRpapers"></a>
 ### DL-in-processing for phase acquisition
-a  
+<a name="DLinDDnoRpapers"></a>
+#### Dataset-driven network-only strategy  
+- A. Sinha, J. Lee, S. Li, and G. Barbastathis   
+*[Lensless computational imaging through deep learning](https://doi.org/10.1364/OPTICA.4.001117)*  
+Optica 4(9), 1117 (2017).
+- H. Wang, M. Lyu, and G. Situ   
+*[eHoloNet: a learning-based end-to-end approach for in-line digital holographic reconstruction](https://doi.org/10.1364/OE.26.022603)*  
+Opt. Express 26(18), 22603 (2018).
+- T. Nguyen, Y. Xue, Y. Li, L. Tian, and G. Nehmetallah   
+*[Deep learning approach for Fourier ptychography microscopy](https://doi.org/10.1364/OE.26.026470)*  
+Opt. Express 26(20), 26470 (2018).
+- S. Li and G. Barbastathis   
+*[Spectral pre-modulation of training examples enhances the spatial resolution of the phase extraction neural network (PhENN)](https://doi.org/10.1364/OE.26.029340)*  
+Opt. Express 26(22), 29340 (2018).
+- M. J. Cherukara, Y. S. G. Nashed, and R. J. Harder   
+*[Real-time coherent diffraction inversion using deep generative networks](https://doi.org/10.1038/s41598-018-34525-1)*  
+Sci Rep 8(1), 16520 (2018).
+- <a name="Goy18prl"></a> A. Goy, K. Arthur, S. Li, and G. Barbastathis   
+*[Low Photon Count Phase Retrieval Using Deep Learning](https://doi.org/PhysRevLett.121.243902)*  
+Phys. Rev. Lett. 121(24), 243902 (2018).
+- Y. F. Cheng, M. Strachan, Z. Weiss, M. Deb, D. Carone, and V. Ganapati   
+*[Illumination pattern design with deep learning for single-shot Fourier ptychographic microscopy](https://doi.org/10.1364/OE.27.000644)*  
+Opt. Express 27(2), 644 (2019).
+- Z. Ren, Z. Xu, and E. Y. Lam   
+*[End-to-end deep learning framework for digital holographic reconstruction](https://doi.org/10.1103/10.1117/1.AP.1.1.016004)*  
+Adv. Photon. 1(01), 1 (2019).
+- X. Li, H. Qi, S. Jiang, P. Song, G. Zheng, and Y. Zhang   
+*[Quantitative phase imaging via a cGAN network with dual intensity images captured under centrosymmetric illumination](https://doi.org/10.1364/OL.44.002879)*  
+Opt. Lett. 44(11), 2879 (2019).
+- K. Wang, J. Dou, Q. Kemao, J. Di, and J. Zhao   
+*[Y-Net: a one-to-two deep learning framework for digital holographic reconstruction](https://doi.org/10.1364/OL.44.004765)*  
+Opt. Lett. 44(19), 4765 (2019).
+- Y. Nishizaki, R. Horisaki, K. Kitaguchi, M. Saito, and J. Tanida   
+*[Analysis of non-iterative phase retrieval based on machine learning](https://doi.org/10.1007/s10043-019-00574-8)*  
+Opt Rev 27(1), 136–141 (2020).
+- T. Zeng, H. K.-H. So, and E. Y. Lam   
+*[RedCap: residual encoder-decoder capsule network for holographic image reconstruction](https://doi.org/10.1364/OE.383350)*  
+Opt. Express 28(4), 4876 (2020).
+- D. Yin, Z. Gu, Y. Zhang, F. Gu, S. Nie, J. Ma, and C. Yuan   
+*[Digital Holographic Reconstruction Based on Deep Learning Framework With Unpaired Data](https://doi.org/10.1109/JPHOT.2019.2961137)*  
+IEEE Photonics J. 12(2), 1–12 (2020).
+- L. Hu, S. Hu, W. Gong, and K. Si   
+*[Deep learning assisted Shack–Hartmann wavefront sensor for direct wavefront detection](https://doi.org/10.1364/OL.395579)*  
+Opt. Lett. 45(13), 3741 (2020).
+- K. Wang, Q. Kemao, J. Di, and J. Zha   
+*[Y4-Net: a deep learning solution to one-shot dual-wavelength digital holographic reconstruction](https://doi.org/10.1364/OL.395445)*  
+Opt. Lett. 45(15), 4220 (2020).
+- M. Deng, S. Li, Z. Zhang, I. Kang, N. X. Fang, and G. Barbastathis   
+*[On the interplay between physical and content priors in deep learning for computational imaging](https://doi.org/10.1364/OE.395204)*  
+Opt. Express 28(16), 24152 (2020).
+- K. Wang, J. Di, Y. Li, Z. Ren, Q. Kemao, and J. Zhao   
+*[Transport of intensity equation from a single intensity image via deep learning](https://doi.org/10.1016/j.optlaseng.2020.106233)*  
+Opt. Lasers Eng. 134, 106233 (2020).
+- L. Wu, P. Juhas, S. Yoo, and I. Robinson   
+*[Complex imaging of phase domains by deep neural networks](https://doi.org/10.1107/S2052252520013780)*  
+IUCrJ 8(1), 12–21 (2021).
+- L. Huang, T. Liu, X. Yang, Y. Luo, Y. Rivenson, and A. Ozcan   
+*[Holographic Image Reconstruction with Phase Recovery and Autofocusing Using Recurrent Neural Networks](https://doi.org/10.1021/acsphotonics.1c00337)*  
+ACS Photonics 8(6), 1763–1774 (2021).
+- T. Uelwer, T. Hoffmann, and S. Harmeling   
+*[Non-iterative Phase Retrieval with Cascaded Neural Networks](https://doi.org/10.1007/978-3-030-86340-1_24)*  
+in Artificial Neural Networks and Machine Learning – ICANN 2021 (Springer International Publishing, 2021), 12892, pp. 295–306.
+- R. Castaneda, C. Trujillo, and A. Doblas   
+*[Video-Rate Quantitative Phase Imaging Using a Digital Holographic Microscope and a Generative Adversarial Network](https://doi.org/10.3390/s21238021)*  
+Sensors 21(23), 8021 (2021).
+- D. Pirone, D. Sirico, L. Miccio, V. Bianco, M. Mugnano, P. Ferraro, and P. Memmolo   
+*[Speeding up reconstruction of 3D tomograms in holographic flow cytometry via deep learning](https://doi.org/10.1039/D1LC01087E)*  
+Lab Chip 22(4), 793–804 (2022).
+- W. Luo, Y. Zhang, X. Shu, M. Niu, and R. Zhou   
+*[Learning end-to-end phase retrieval using only one interferogram with mixed-context network](https://doi.org/10.1117/12.2610502)*  
+in Quantitative Phase Imaging VIII, G. Popescu, Y. Park, and Y. Liu, eds. (SPIE, 2022), p. 26.
+- K. Jaferzadeh and T. Fevens   
+*[HoloPhaseNet: fully automated deep-learning-based hologram reconstruction using a conditional generative adversarial model](https://doi.org/10.1364/BOE.452645)*  
+Biomed. Opt. Express 13(7), 4032 (2022).
+- H. Ding, F. Li, X. Chen, J. Ma, S. Nie, R. Ye, and C. Yuan   
+*[ContransGAN: Convolutional Neural Network Coupling Global Swin-Transformer Network for High-Resolution Quantitative Phase Imaging with Unpaired Data](https://doi.org/10.3390/cells11152394)*  
+Cells 11(15), 2394 (2022).
+- H. Chen, L. Huang, T. Liu, and A. Ozcan   
+*[Fourier Imager Network (FIN): A deep neural network for hologram reconstruction with superior external generalization](https://doi.org/10.1038/s41377-022-00949-8)*  
+Light Sci Appl 11(1), 254 (2022).
+- Q. Ye, L.-W. Wang, and D. P. K. Lun   
+*[SiSPRNet: end-to-end learning for single-shot phase retrieval](https://doi.org/10.1364/OE.464086)*  
+Opt. Express 30(18), 31937 (2022).
+- X. Shu, M. Niu, Y. Zhang, and R. Zhou   
+*[NAS-PRNet: Neural Architecture Search generated Phase Retrieval Net for Off-axis Quantitative Phase Imaging](https://doi.org/10.48550/arXiv.2210.14231)*  
+Preprint at Arxiv (2022).
+- C. Lee, G. Song, H. Kim, J. C. Ye, and M. Jang   
+*[Deep learning based on parameterized physical forward model for adaptive holographic imaging with unpaired data](https://doi.org/10.1038/s42256-022-00584-3)*  
+Nat Mach Intell 5, 35–45 (2023).
+- H. Chen, L. Huang, T. Liu, and A. Ozcan   
+*[eFIN: Enhanced Fourier Imager Network for Generalizable Autofocusing and Pixel Super-Resolution in Holographic Imaging](https://doi.org/10.1109/JSTQE.2023.3248684)*  
+PhysIEEE J. Select. Topics Quantum Electron. 29(4: Biophotonics), 1–10 (2023).
+
+<a name="DLinPDnoRpapers"></a>
+#### Physics-model-driven network-only strategy 
+(with untrained/initialized networks)
+- L. Boominathan, M. Maniparambil, H. Gupta, R. Baburajan, and K. Mitra   
+*[Phase retrieval for Fourier Ptychography under varying amount of measurements](https://doi.org/10.48550/arXiv.1805.03593)*  
+Preprint at Arxiv (2018).
+- F. Wang, Y. Bian, H. Wang, M. Lyu, G. Pedrini, W. Osten, G. Barbastathis, and G. Situ   
+*[Phase imaging with an untrained neural network](https://doi.org/10.1038/s41377-020-0302-3)*  
+Light Sci Appl 9(1), 77 (2020).
+- D. Yang, J. Zhang, Y. Tao, W. Lv, S. Lu, H. Chen, W. Xu, and Y. Shi   
+*[Dynamic coherent diffractive imaging with a physics-driven untrained learning method](https://doi.org/10.1364/OE.433507)*  
+Opt. Express 29(20), 31426 (2021).
+- C. Bai, T. Peng, J. Min, R. Li, Y. Zhou, and B. Yao   
+*[Dual-wavelength in-line digital holography with untrained deep neural networks](https://doi.org/10.1364/PRJ.441054)*  
+Photon. Res. 9(12), 2501 (2021).
+- X. Zhang, F. Wang, and G. Situ   
+*[BlindNet: an untrained learning approach toward computational imaging with model uncertaint](https://doi.org/10.1088/1361-6463/ac2ad4)*  
+J. Phys. D: Appl. Phys. 55(3), 034001 (2022).
+- D. Yang, J. Zhang, Y. Tao, W. Lv, Y. Zhu, T. Ruan, H. Chen, X. Jin, Z. Wang, J. Qiu, and Y. Shi   
+*[Coherent modulation imaging using a physics-driven neural network](https://doi.org/10.1364/OE.472083)*  
+Opt. Express 30(20), 35647 (2022).
+- A. S. Galande, V. Thapa, H. P. R. Gurram, and R. John   
+*[Untrained deep network powered with explicit denoiser for phase recovery in inline holography](https://doi.org/10.1063/5.0144795)*  
+Appl. Phys. Lett. 122(13), 133701 (2023).
+
+(with trained networks)
+- Y. Yao, H. Chan, S. Sankaranarayanan, P. Balaprakash, R. J. Harder, and M. J. Cherukara    
+*[AutoPhaseNN: unsupervised physics-aware deep learning of 3D nanoscale Bragg coherent diffraction imagin](https://doi.org/10.1038/s41524-022-00803-w)*  
+npj Comput Mater 8(1), 124 (2022).
+- R. Li, G. Pedrini, Z. Huang, S. Reichelt, and L. Cao    
+*[Physics-enhanced neural network for phase retrieval from two diffraction patterns](https://doi.org/10.1364/OE.469080)*  
+Opt. Express 30(18), 32680 (2022).
+- L. Huang, H. Chen, T. Liu, and A. Ozcan    
+*[GedankenNet: Self-supervised learning of hologram reconstruction using physics consistency](https://doi.org/10.48550/arXiv.2209.08288)*  
+Preprint at Arxiv (2022).
+- L. Bouchama, B. Dorizzi, J. Klossa, and Y. Gottesman    
+*[A physics-inspired deep learning framework for an efficient FPM reconstruction under low overlap conditions](https://doi.org/10.1364/opticaopen.22310506.v1)*  
+Preprint at Arxiv (2023).
+
+
+<a name="DLinPcNRpapers"></a>
+#### Physics-model-connect-network strategy 
+- [Goy et al., Phys. Rev. Lett. 2018](#Goy18prl), 
+*Low Photon Count Phase Retrieval Using Deep Learning*
+
+- A.    
+*[Untrained](https://doi.org/)*  
+Appl
+- A.    
+*[Untrained](https://doi.org/)*  
+Appl
+
+
+
+<a name="DLinNiPRpapers"></a>
+#### Network-in-physics-model strategy 
+<a name="DLinPiNRpapers"></a>
+#### Physics-model-in-network strategy 
+
 <a name="DLpostRpapers"></a>
 ### DL-post-processing for phase acquisition
 a  
@@ -571,7 +848,6 @@ in Progress in Optics (Elsevier, 2012), 57, pp. 133–217.
 - Q. Kemao   
 *[Windowed Fringe Pattern Analysis](https://doi.org/10.1117/3.1002080),*  
 (SPIE, 2013).
-
 
 - B. Javidi, E. Tajahuerce, and P. Andres  
 *[Multi-Dimensional Imaging](https://ieeexplore.ieee.org/servlet/opac?bknumber=6798070),*  
