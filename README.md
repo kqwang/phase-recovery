@@ -66,8 +66,8 @@ This project exists thanks to all the people who contribute.
 <a name="groups"></a>
 # People and groups
 (In alphabetical order according to surnames)  
-(Quick search by "Ctrl + F" with keywords)  
-(Key works: phase imaging, holography, interferometry, optical coherence tomography, phase retrieval, 
+(Quick search by "Ctrl + F" with keywords:  
+phase imaging, holography, interferometry, optical coherence tomography, phase retrieval, 
 Fourier ptychography, inverse problem, transport of intensity equations, wavefront sensing, phase unwrapping,
 fringe analysis, computational imaging)
 <a name="groups-Americas"></a>
