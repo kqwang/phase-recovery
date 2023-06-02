@@ -647,6 +647,31 @@ Nat Mach Intell 5, 35–45 (2023).
 *[eFIN: Enhanced Fourier Imager Network for Generalizable Autofocusing and Pixel Super-Resolution in Holographic Imaging](https://doi.org/10.1109/JSTQE.2023.3248684)*  
 PhysIEEE J. Select. Topics Quantum Electron. 29(4: Biophotonics), 1–10 (2023).
 
+(Distortion intensity of target objects → Network → the wavefront phase or its Zernike coefficient)
+(Applications in Adaptive Optics)
+1.  S. W. Paine and J. R. Fienup, "Machine learning for improved image-based wavefront sensing," Opt. Lett. 43(6), 1235 (2018).
+2.  Y. Jin, Y. Zhang, L. Hu, H. Huang, Q. Xu, X. Zhu, L. Huang, Y. Zheng, H.-L. Shen, W. Gong, and K. Si, "Machine learning guided rapid focusing with sensor-less aberration corrections," Opt. Express 26(23), 30162 (2018).
+3.  G. Ju, X. Qi, H. Ma, and C. Yan, "Feature-based phase retrieval wavefront sensing approach using machine learning," Opt. Express 26(24), 31767 (2018).
+4.  Y. Nishizaki, M. Valdivia, R. Horisaki, K. Kitaguchi, M. Saito, J. Tanida, and E. Vera, "Deep learning wavefront sensing," Opt. Express 27(1), 240 (2019).
+5.  H. Ma, H. Liu, Y. Qiao, X. Li, and W. Zhang, "Numerical study of adaptive optics compensation based on Convolutional Neural Networks," Optics Communications 433, 283–289 (2019).
+6.  Q. Tian, C. Lu, B. Liu, L. Zhu, X. Pan, Q. Zhang, L. Yang, F. Tian, and X. Xin, "DNN-based aberration correction in a wavefront sensorless adaptive optics system," Opt. Express 27(8), 10765 (2019).
+7.  J. Liu, P. Wang, X. Zhang, Y. He, X. Zhou, H. Ye, Y. Li, S. Xu, S. Chen, and D. Fan, "Deep learning based atmospheric turbulence compensation for orbital angular momentum beam distortion and communication," Opt. Express 27(12), 16671 (2019).
+8.  Y. Zhang, C. Wu, Y. Song, K. Si, Y. Zheng, L. Hu, J. Chen, L. Tang, and W. Gong, "Machine learning based adaptive optics for doughnut-shaped beam," Opt. Express 27(12), 16871 (2019).
+9.  H. Guo, Y. Xu, Q. Li, S. Du, D. He, Q. Wang, and Y. Huang, "Improved Machine Learning Approach for Wavefront Sensing," Sensors 19(16), 3533 (2019).
+10.  Y. Xu, D. He, Q. Wang, H. Guo, Q. Li, Z. Xie, and Y. Huang, "An Improved Method of Measuring Wavefront Aberration Based on Image with Machine Learning in Free Space Optical Communication," Sensors 19(17), 3665 (2019).
+11.  Q. Xin, G. Ju, C. Zhang, and S. Xu, "Object-independent image-based wavefront sensing approach using phase diversity images and deep learning," Opt. Express 27(18), 26102 (2019).
+12.  T. Andersen, M. Owner-Petersen, and A. Enmark, "Neural networks for image-based wavefront sensing for astronomy," Opt. Lett. 44(18), 4618 (2019).
+13.  M. Chen, X. Jin, and Z. Xu, "Investigation of Convolution Neural Network-Based Wavefront Correction for FSO Systems," in 2019 11th International Conference on Wireless Communications and Signal Processing (WCSP) (IEEE, 2019), pp. 1–6.
+14.  B. P. Cumming, M. Gu, and M. Gu, "Direct determination of aberration functions in microscopy by an artificial neural network," Opt. Express, OE 28(10), 14511–14521 (2020).
+15.  I. Vishniakou and J. D. Seelig, "Wavefront correction for adaptive optics with reflected light and deep neural networks," Opt. Express 28(10), 15459 (2020).
+16.  Y. Wu, Y. Guo, H. Bao, and C. Rao, "Sub-Millisecond Phase Retrieval for Phase-Diversity Wavefront Sensor," Sensors 20(17), 4877 (2020).
+17.  X. Wang, T. Wu, C. Dong, H. Zhu, Z. Zhu, and S. Zhao, "Integrating deep learning to achieve phase compensation for free-space orbital-angular-momentum-encoded quantum key distribution under atmospheric turbulence," Photon. Res. 9(2), B9 (2021).
+18.  E. Vera, F. Guzmán, and C. Weinberger, "Boosting the deep learning wavefront sensor for real-time applications [Invited]," Appl. Opt. 60(10), B119 (2021).
+19.  Y. He, Z. Liu, Y. Ning, J. Li, X. Xu, and Z. Jiang, "Deep learning wavefront sensing method for Shack-Hartmann sensors with sparse sub-apertures," Opt. Express 29(11), 17669 (2021).
+20.  S. Hu, L. Hu, W. Gong, Z. Li, and K. Si, "Deep learning based wavefront sensor for complex wavefront detection in adaptive optical microscopes," Front Inform Technol Electron Eng 22(10), 1277–1288 (2021).
+21.  K. Wang, M. Zhang, J. Tang, L. Wang, L. Hu, X. Wu, W. Li, J. Di, G. Liu, and J. Zhao, "Deep learning wavefront sensing and aberration correction in atmospheric turbulence," PhotoniX 2(1), 8 (2021).
+
+
 <a name="DLinPDnoRpapers"></a>
 #### Physics-model-driven network-only strategy 
 (with untrained/initialized networks)
@@ -818,28 +843,36 @@ Digital Signal Processing 132, 103797 (2022).
 ### DL-post-processing for phase acquisition
 <a name="DLpostNRRpapers"></a>
 #### Noise reduction
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-1.  W. Jeon, W. Jeong, K. Son, and H. Yang, "Speckle noise reduction for digital holographic images using multi-scale convolutional neural networks," Opt. Lett. 43(17), 4240 (2018).
-2.  G. Choi, D. Ryu, Y. Jo, Y. S. Kim, W. Park, H. Min, and Y. Park, "Cycle-consistent deep learning approach to coherent noise reduction in optical diffraction tomography," Opt. Express 27(4), 4927 (2019).
-3.  J. Zhang, X. Tian, J. Shao, H. Luo, and R. Liang, "Phase unwrapping in optical metrology via denoised and convolutional segmentation networks," Opt. Express 27(10), 14903 (2019).
-4.  K. Yan, Y. Yu, T. Sun, A. Asundi, and Q. Kemao, "Wrapped phase denoising using convolutional neural networks," Optics and Lasers in Engineering 128, 105999 (2020).
-5.  S. Montresor, M. Tahon, A. Laurent, and P. Picart, "Computational de-noising based on deep learning for phase data in digital holographic interferometry," APL Photonics 5(3), 030802 (2020).
-6.  K. Yan, L. Chang, M. Andrianakis, V. Tornari, and Y. Yu, "Deep Learning-Based Wrapped Phase Denoising Method for Application in Digital Holographic Speckle Pattern Interferometry," Applied Sciences 10(11), 4044 (2020).
-7.  M. Tahon, S. Montresor, and P. Picart, "Towards Reduced CNNs for De-Noising Phase Images Corrupted with Speckle Noise," Photonics 8(7), 255 (2021).
-8.  Q. Fang, H. Xia, Q. Song, M. Zhang, R. Guo, S. Montresor, and P. Picart, "Speckle denoising based on deep learning via a conditional generative adversarial network in digital holographic interferometry," Opt. Express 30(12), 20666 (2022).
-9.  M. Tahon, S. Montrésor, and P. Picart, "Deep Learning Network for Speckle De-Noising in Severe Conditions," J. Imaging 8(6), 165 (2022).
-10.  G. Murdaca, A. Rucci, and C. Prati, "Deep Learning for InSAR Phase Filtering: An Optimized Framework for Phase Unwrapping," Remote Sensing 14(19), 4956 (2022).
+- W. Jeon, W. Jeong, K. Son, and H. Yang    
+*[Speckle noise reduction for digital holographic images using multi-scale convolutional neural networks](https://doi.org/7)*  
+Opt. Lett. 43(17), 4240 (2018).
+- G. Choi, D. Ryu, Y. Jo, Y. S. Kim, W. Park, H. Min, and Y. Park    
+*[Cycle-consistent deep learning approach to coherent noise reduction in optical diffraction tomography](https://doi.org/7)*  
+Opt. Express 27(4), 4927 (2019).
+- J. Zhang, X. Tian, J. Shao, H. Luo, and R. Liang    
+*[Phase unwrapping in optical metrology via denoised and convolutional segmentation networks](https://doi.org/7)*  
+Opt. Express 27(10), 14903 (2019).
+- K. Yan, Y. Yu, T. Sun, A. Asundi, and Q. Kemao    
+*[Wrapped phase denoising using convolutional neural networks](https://doi.org/7)*  
+Optics and Lasers in Engineering 128, 105999 (2020).
+- S. Montresor, M. Tahon, A. Laurent, and P. Picart    
+*[Computational de-noising based on deep learning for phase data in digital holographic interferometry](https://doi.org/7)*  
+APL Photonics 5(3), 030802 (2020).
+- K. Yan, L. Chang, M. Andrianakis, V. Tornari, and Y. Yu    
+*[Deep Learning-Based Wrapped Phase Denoising Method for Application in Digital Holographic Speckle Pattern Interferometry](https://doi.org/7)*  
+Applied Sciences 10(11), 4044 (2020).
+- M. Tahon, S. Montresor, and P. Picart    
+*[Towards Reduced CNNs for De-Noising Phase Images Corrupted with Speckle Noise](https://doi.org/7)*  
+Photonics 8(7), 255 (2021).
+- Q. Fang, H. Xia, Q. Song, M. Zhang, R. Guo, S. Montresor, and P. Picart    
+*[Speckle denoising based on deep learning via a conditional generative adversarial network in digital holographic interferometry](https://doi.org/7)*  
+Opt. Express 30(12), 20666 (2022).
+- M. Tahon, S. Montrésor, and P. Picart    
+*[Deep Learning Network for Speckle De-Noising in Severe Conditions](https://doi.org/7)*  
+J. Imaging 8(6), 165 (2022).
+- G. Murdaca, A. Rucci, and C. Prati    
+*[Deep Learning for InSAR Phase Filtering: An Optimized Framework for Phase Unwrapping](https://doi.org/7)*  
+Remote Sensing 14(19), 4956 (2022).
 
 
 
