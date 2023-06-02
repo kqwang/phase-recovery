@@ -109,7 +109,7 @@ Keywords: Fourier ptychography and single-photon detection etc.
 Keywords: biomedical imaging, optical coherence tomography and high-resolution imaging etc.
 
 - [Rongguang Liang ](https://wp.optics.arizona.edu/ualiangaol/)(The University of Arizona)  
-Keywords: phase imaging and biomedical imaging etc.
+Keywords: phase imaging, phase unwrapping and biomedical imaging etc.
 
 - [Christopher Metzler](https://www.cs.umd.edu/people/metzler)(The University of Maryland)  
 Keywords: phase retrieval, inverse problem and computational imaging etc.
@@ -475,7 +475,7 @@ Optics and Lasers in Engineering 149, 106829 (2022).
 (for phase-shifting)
 - Q. Zhang, S. Lu, J. Li, W. Li, D. Li, X. Lu, L. Zhong, and J. Tian   
 *[Deep Phase Shifter for Quantitative Phase Imaging](https://doi.org/10.48550/arXiv.2003.03027)*  
-Preprint at Arxiv (2020).
+Preprint at arXiv (2020).
 - Q. Zhang, S. Lu, J. Li, D. Li, X. Lu, L. Zhong, and J. Tian   
 *[Phase-shifting interferometry from single frame in-line interferogram using deep learning phase-shifting technology](https://doi.org/10.1016/j.optcom.2021.127226)*  
 Optics Communications 498, 127226 (2021).
@@ -639,7 +639,7 @@ Light Sci Appl 11(1), 254 (2022).
 Opt. Express 30(18), 31937 (2022).
 - X. Shu, M. Niu, Y. Zhang, and R. Zhou   
 *[NAS-PRNet: Neural Architecture Search generated Phase Retrieval Net for Off-axis Quantitative Phase Imaging](https://doi.org/10.48550/arXiv.2210.14231)*  
-Preprint at Arxiv (2022).
+Preprint at arXiv (2022).
 - C. Lee, G. Song, H. Kim, J. C. Ye, and M. Jang   
 *[Deep learning based on parameterized physical forward model for adaptive holographic imaging with unpaired data](https://doi.org/10.1038/s42256-022-00584-3)*  
 Nat Mach Intell 5, 35–45 (2023).
@@ -647,37 +647,67 @@ Nat Mach Intell 5, 35–45 (2023).
 *[eFIN: Enhanced Fourier Imager Network for Generalizable Autofocusing and Pixel Super-Resolution in Holographic Imaging](https://doi.org/10.1109/JSTQE.2023.3248684)*  
 PhysIEEE J. Select. Topics Quantum Electron. 29(4: Biophotonics), 1–10 (2023).
 
-(Distortion intensity of target objects → Network → the wavefront phase or its Zernike coefficient)
+(Distortion intensity of target objects → Network → Wavefront phase or its Zernike coefficient)  
 (Applications in Adaptive Optics)
-1.  S. W. Paine and J. R. Fienup, "Machine learning for improved image-based wavefront sensing," Opt. Lett. 43(6), 1235 (2018).
-2.  Y. Jin, Y. Zhang, L. Hu, H. Huang, Q. Xu, X. Zhu, L. Huang, Y. Zheng, H.-L. Shen, W. Gong, and K. Si, "Machine learning guided rapid focusing with sensor-less aberration corrections," Opt. Express 26(23), 30162 (2018).
-3.  G. Ju, X. Qi, H. Ma, and C. Yan, "Feature-based phase retrieval wavefront sensing approach using machine learning," Opt. Express 26(24), 31767 (2018).
-4.  Y. Nishizaki, M. Valdivia, R. Horisaki, K. Kitaguchi, M. Saito, J. Tanida, and E. Vera, "Deep learning wavefront sensing," Opt. Express 27(1), 240 (2019).
-5.  H. Ma, H. Liu, Y. Qiao, X. Li, and W. Zhang, "Numerical study of adaptive optics compensation based on Convolutional Neural Networks," Optics Communications 433, 283–289 (2019).
-6.  Q. Tian, C. Lu, B. Liu, L. Zhu, X. Pan, Q. Zhang, L. Yang, F. Tian, and X. Xin, "DNN-based aberration correction in a wavefront sensorless adaptive optics system," Opt. Express 27(8), 10765 (2019).
-7.  J. Liu, P. Wang, X. Zhang, Y. He, X. Zhou, H. Ye, Y. Li, S. Xu, S. Chen, and D. Fan, "Deep learning based atmospheric turbulence compensation for orbital angular momentum beam distortion and communication," Opt. Express 27(12), 16671 (2019).
-8.  Y. Zhang, C. Wu, Y. Song, K. Si, Y. Zheng, L. Hu, J. Chen, L. Tang, and W. Gong, "Machine learning based adaptive optics for doughnut-shaped beam," Opt. Express 27(12), 16871 (2019).
-9.  H. Guo, Y. Xu, Q. Li, S. Du, D. He, Q. Wang, and Y. Huang, "Improved Machine Learning Approach for Wavefront Sensing," Sensors 19(16), 3533 (2019).
-10.  Y. Xu, D. He, Q. Wang, H. Guo, Q. Li, Z. Xie, and Y. Huang, "An Improved Method of Measuring Wavefront Aberration Based on Image with Machine Learning in Free Space Optical Communication," Sensors 19(17), 3665 (2019).
-11.  Q. Xin, G. Ju, C. Zhang, and S. Xu, "Object-independent image-based wavefront sensing approach using phase diversity images and deep learning," Opt. Express 27(18), 26102 (2019).
-12.  T. Andersen, M. Owner-Petersen, and A. Enmark, "Neural networks for image-based wavefront sensing for astronomy," Opt. Lett. 44(18), 4618 (2019).
-13.  M. Chen, X. Jin, and Z. Xu, "Investigation of Convolution Neural Network-Based Wavefront Correction for FSO Systems," in 2019 11th International Conference on Wireless Communications and Signal Processing (WCSP) (IEEE, 2019), pp. 1–6.
-14.  B. P. Cumming, M. Gu, and M. Gu, "Direct determination of aberration functions in microscopy by an artificial neural network," Opt. Express, OE 28(10), 14511–14521 (2020).
-15.  I. Vishniakou and J. D. Seelig, "Wavefront correction for adaptive optics with reflected light and deep neural networks," Opt. Express 28(10), 15459 (2020).
-16.  Y. Wu, Y. Guo, H. Bao, and C. Rao, "Sub-Millisecond Phase Retrieval for Phase-Diversity Wavefront Sensor," Sensors 20(17), 4877 (2020).
-17.  X. Wang, T. Wu, C. Dong, H. Zhu, Z. Zhu, and S. Zhao, "Integrating deep learning to achieve phase compensation for free-space orbital-angular-momentum-encoded quantum key distribution under atmospheric turbulence," Photon. Res. 9(2), B9 (2021).
-18.  E. Vera, F. Guzmán, and C. Weinberger, "Boosting the deep learning wavefront sensor for real-time applications [Invited]," Appl. Opt. 60(10), B119 (2021).
-19.  Y. He, Z. Liu, Y. Ning, J. Li, X. Xu, and Z. Jiang, "Deep learning wavefront sensing method for Shack-Hartmann sensors with sparse sub-apertures," Opt. Express 29(11), 17669 (2021).
-20.  S. Hu, L. Hu, W. Gong, Z. Li, and K. Si, "Deep learning based wavefront sensor for complex wavefront detection in adaptive optical microscopes," Front Inform Technol Electron Eng 22(10), 1277–1288 (2021).
-21.  K. Wang, M. Zhang, J. Tang, L. Wang, L. Hu, X. Wu, W. Li, J. Di, G. Liu, and J. Zhao, "Deep learning wavefront sensing and aberration correction in atmospheric turbulence," PhotoniX 2(1), 8 (2021).
 
+- Y. Nishizaki, M. Valdivia, R. Horisaki, K. Kitaguchi, M. Saito, J. Tanida, and E. Vera   
+*[Deep learning wavefront sensing](https://doi.org/10.1364/OE.27.000240)*  
+Opt. Express 27(1), 240 (2019).
+- H. Ma, H. Liu, Y. Qiao, X. Li, and W. Zhang   
+*[Numerical study of adaptive optics compensation based on Convolutional Neural Networks](https://doi.org/10.1016/j.optcom.2018.10.036)*  
+Optics Communications 433, 283–289 (2019).
+- Q. Tian, C. Lu, B. Liu, L. Zhu, X. Pan, Q. Zhang, L. Yang, F. Tian, and X. Xin   
+*[DNN-based aberration correction in a wavefront sensorless adaptive optics system](https://doi.org/10.1364/OE.27.010765)*  
+Opt. Express 27(8), 10765 (2019).
+- J. Liu, P. Wang, X. Zhang, Y. He, X. Zhou, H. Ye, Y. Li, S. Xu, S. Chen, and D. Fan   
+*[Deep learning based atmospheric turbulence compensation for orbital angular momentum beam distortion and communication](https://doi.org/10.1364/OE.27.016671)*  
+Opt. Express 27(12), 16671 (2019).
+- Y. Zhang, C. Wu, Y. Song, K. Si, Y. Zheng, L. Hu, J. Chen, L. Tang, and W. Gong   
+*[Machine learning based adaptive optics for doughnut-shaped beam](https://doi.org/10.1364/OE.27.016871)*  
+Opt. Express 27(12), 16871 (2019).
+- H. Guo, Y. Xu, Q. Li, S. Du, D. He, Q. Wang, and Y. Huang   
+*[Improved Machine Learning Approach for Wavefront Sensing](https://doi.org/10.3390/s19163533)*  
+Sensors 19(16), 3533 (2019).
+- Y. Xu, D. He, Q. Wang, H. Guo, Q. Li, Z. Xie, and Y. Huang   
+*[An Improved Method of Measuring Wavefront Aberration Based on Image with Machine Learning in Free Space Optical Communication](https://doi.org/10.3390/s19173665)*  
+Sensors 19(17), 3665 (2019).
+- Q. Xin, G. Ju, C. Zhang, and S. Xu   
+*[Object-independent image-based wavefront sensing approach using phase diversity images and deep learning](https://doi.org/10.1364/OE.27.026102)*  
+Opt. Express 27(18), 26102 (2019).
+- T. Andersen, M. Owner-Petersen, and A. Enmark   
+*[Neural networks for image-based wavefront sensing for astronomy](https://doi.org/10.1364/OL.44.004618)*  
+Opt. Lett. 44(18), 4618 (2019).
+- B. P. Cumming, M. Gu, and M. Gu   
+*[Direct determination of aberration functions in microscopy by an artificial neural network](https://doi.org/10.1364/OE.390856)*  
+Opt. Express, OE 28(10), 14511–14521 (2020).
+- I. Vishniakou and J. D. Seelig   
+*[Wavefront correction for adaptive optics with reflected light and deep neural networks](https://doi.org/10.1364/OE.392794)*  
+Opt. Express 28(10), 15459 (2020).
+- Y. Wu, Y. Guo, H. Bao, and C. Rao   
+*[Sub-Millisecond Phase Retrieval for Phase-Diversity Wavefront Sensor](https://doi.org/10.3390/s20174877)*  
+Sensors 20(17), 4877 (2020).
+- X. Wang, T. Wu, C. Dong, H. Zhu, Z. Zhu, and S. Zhao   
+*[Integrating deep learning to achieve phase compensation for free-space orbital-angular-momentum-encoded quantum key distribution under atmospheric turbulence](https://doi.org/10.1364/PRJ.409645)*  
+Photon. Res. 9(2), B9 (2021).
+- E. Vera, F. Guzmán, and C. Weinberger   
+*[Boosting the deep learning wavefront sensor for real-time applications](https://doi.org/10.1364/AO.417574)*  
+Appl. Opt. 60(10), B119 (2021).
+- Y. He, Z. Liu, Y. Ning, J. Li, X. Xu, and Z. Jiang   
+*[Deep learning wavefront sensing method for Shack-Hartmann sensors with sparse sub-apertures](https://doi.org/10.1364/OE.427261)*  
+Opt. Express 29(11), 17669 (2021).
+- S. Hu, L. Hu, W. Gong, Z. Li, and K. Si   
+*[Deep learning based wavefront sensor for complex wavefront detection in adaptive optical microscopes](https://doi.org/10.1631/FITEE.2000422)*  
+Front Inform Technol Electron Eng 22(10), 1277–1288 (2021).
+- K. Wang, M. Zhang, J. Tang, L. Wang, L. Hu, X. Wu, W. Li, J. Di, G. Liu, and J. Zhao   
+*[Deep learning wavefront sensing and aberration correction in atmospheric turbulence](https://doi.org/10.1186/s43074-021-00030-4)*  
+PhotoniX 2(1), 8 (2021).
 
 <a name="DLinPDnoRpapers"></a>
 #### Physics-model-driven network-only strategy 
 (with untrained/initialized networks)
 - L. Boominathan, M. Maniparambil, H. Gupta, R. Baburajan, and K. Mitra   
 *[Phase retrieval for Fourier Ptychography under varying amount of measurements](https://doi.org/10.48550/arXiv.1805.03593)*  
-Preprint at Arxiv (2018).
+Preprint at arXiv (2018).
 - F. Wang, Y. Bian, H. Wang, M. Lyu, G. Pedrini, W. Osten, G. Barbastathis, and G. Situ   
 *[Phase imaging with an untrained neural network](https://doi.org/10.1038/s41377-020-0302-3)*  
 Light Sci Appl 9(1), 77 (2020).
@@ -706,10 +736,10 @@ npj Comput Mater 8(1), 124 (2022).
 Opt. Express 30(18), 32680 (2022).
 - L. Huang, H. Chen, T. Liu, and A. Ozcan    
 *[GedankenNet: Self-supervised learning of hologram reconstruction using physics consistency](https://doi.org/10.48550/arXiv.2209.08288)*  
-Preprint at Arxiv (2022).
+Preprint at arXiv (2022).
 - L. Bouchama, B. Dorizzi, J. Klossa, and Y. Gottesman    
 *[A physics-inspired deep learning framework for an efficient FPM reconstruction under low overlap conditions](https://doi.org/10.1364/opticaopen.22310506.v1)*  
-Preprint at Arxiv (2023).
+Preprint at arXiv (2023).
 
 
 <a name="DLinPcNRpapers"></a>
@@ -746,7 +776,7 @@ Opt. Express 28(18), 26284 (2020).
 (trained networks as denoiser regularization)
 - C. A. Metzler, P. Schniter, A. Veeraraghavan, and R. G. Baraniuk    
 *[prDeep: Robust Phase Retrieval with a Flexible Deep Network](http://arxiv.org/abs/1803.00212)*  
-Preprint at Arxiv (2018).
+Preprint at arXiv (2018).
 - Ç. Işıl, F. S. Oktem, and A. Koç    
 *[Deep iterative reconstruction for phase retrieval](https://doi.org/10.1364/AO.58.005422)*  
 Appl. Opt. 58(20), 5422 (2019).
@@ -758,7 +788,7 @@ in 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW) (I
 Opt. Lett. 44(21), 5141 (2019).
 - Y. Wang, X. Sun, and J. W. Fleischer    
 *[When deep denoising meets iterative phase retrieval](http://arxiv.org/abs/2003.01792)*  
-Preprint at Arxiv (2020).
+Preprint at arXiv (2020).
 - X. Chang, L. Bian, and J. Zhang    
 *[Large-scale phase retrieval](https://doi.org/10.1186/s43593-021-00004-w)*  
 eLight 1(1), 4 (2021).
@@ -778,19 +808,19 @@ in Advances in Neural Information Processing Systems 32 (2019).
 Opt. Express 28(9), 12872 (2020).
 - F. Shamshad, A. Hanif, and A. Ahmed    
 *[Subsampled Fourier Ptychography using Pretrained Invertible and Untrained Network Priors](http://arxiv.org/abs/2005.07026)*  
-Preprint at Arxiv (2020).
+Preprint at arXiv (2020).
 - E. Bostan, R. Heckel, M. Chen, M. Kellman, and L. Waller    
 *[Deep phase decoder: self-calibrating phase microscopy with an untrained deep neural network](https://doi.org/)*  
 Optica 7(6), 559 (2020).
 - H. Lawrence, D. A. Barmherzig, H. Li, M. Eickenberg, and M. Gabrié    
 *[Phase Retrieval with Holography and Untrained Priors: Tackling the Challenges of Low-Photon Nanoscale Imaging](http://arxiv.org/abs/2012.07386)*  
-Preprint at Arxiv (2021).
+Preprint at arXiv (2021).
 - F. Niknam, H. Qazvini, and H. Latifi    
 *[Holographic optical field recovery using a regularized untrained deep decoder network](https://doi.org/)*  
 Sci Rep 11(1), 10903 (2021).
 - L. Ma, H. Wang, N. Leng, and Z. Yuan    
 *[ADMM based Fourier phase retrieval with untrained generative prior](http://arxiv.org/abs/2210.12646)*  
-Preprint at Arxiv (2022)
+Preprint at arXiv (2022)
 - Q. Chen, D. Huang, and R. Chen    
 *[Fourier ptychographic microscopy with untrained deep neural network priors](https://doi.org/)*  
 Opt. Express 30(22), 39597 (2022).
@@ -801,7 +831,7 @@ Opt. Express 30(22), 39597 (2022).
 in Advances in Neural Information Processing Systems 31 (2018).
 - F. Shamshad and A. Ahmed  
 *[Robust Compressive Phase Retrieval via Deep Generative Priors](https://doi.org/10.48550/arXiv.1808.05854)*  
-Preprint at Arxiv (2018).
+Preprint at arXiv (2018).
 - R. Hyder, V. Shah, C. Hegde, and M. S. Asif    
 *[Alternating Phase Projected Gradient Descent with Generative Priors for Solving Compressive Phase Retrieval](https://doi.org/10.1109/ICASSP.2019.8682811)*  
 in ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (IEEE, 2019), pp. 7705–7709.
@@ -813,7 +843,7 @@ in ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Sig
 IEEE Sensors J. 21(2), 2286–2298 (2021).
 - T. Uelwer, S. Konietzny, and S. Harmeling    
 *[Optimizing Intermediate Representations of Generative Models for Phase Retrieval](https://doi.org/10.48550/arXiv.2205.15617)*  
-Preprint at Arxiv (2022).
+Preprint at arXiv (2022).
 
 <a name="DLinPiNRpapers"></a>
 #### Physics-model-in-network strategy 
@@ -825,7 +855,7 @@ IEEE Signal Process. Lett. 27, 780–784 (2020).
 in 2020 54th Asilomar Conference on Signals, Systems, and Computers (IEEE, 2020), pp. 205–209.
 - N. Naimipour, S. Khobahi, and M. Soltanalian    
 *[Unfolded Algorithms for Deep Phase Retrieval](https://doi.org/10.48550/arXiv.2012.11102)*  
-Preprint at Arxiv (2020).
+Preprint at arXiv (2020).
 - F. Zhang, X. Liu, C. Guo, S. Lin, J. Jiang, and X. Ji    
 *[Physics-based Iterative Projection Complex Neural Network for Phase Retrieval in Lensless Microscopy Imaging](https://doi.org/10.1109/CVPR46437.2021.01038)*  
 in 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (IEEE, 2021), pp. 10518–10526.
@@ -878,187 +908,404 @@ Remote Sensing 14(19), 4956 (2022).
 
 <a name="DLpostRERpapers"></a>
 #### Resolution enhancement
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-
-1.  T. Liu, K. de Haan, Y. Rivenson, Z. Wei, X. Zeng, Y. Zhang, and A. Ozcan, "Deep learning-based super-resolution in coherent imaging systems," Preprint at https://doi.org/10.48550/arXiv.1810.06611 (2018).
-2.  T. Liu, K. de Haan, Y. Rivenson, Z. Wei, X. Zeng, Y. Zhang, and A. Ozcan, "Deep learning-based super-resolution in coherent imaging systems," Sci Rep 9(1), 3926 (2019).
-3.  J. Lim, A. B. Ayoub, and D. Psaltis, "Three-dimensional tomography of red blood cells using deep learning," Adv. Photon. 2(02), 1 (2020).
-4.  A. Butola, S. R. Kanade, S. Bhatt, V. K. Dubey, A. Kumar, A. Ahmad, D. K. Prasad, P. Senthilkumaran, B. S. Ahluwalia, and D. S. Mehta, "High space-bandwidth in quantitative phase imaging using partially spatially coherent digital holographic microscopy and a deep neural network," Opt. Express 28(24), 36229 (2020).
-5.  Y. Jiao, Y. R. He, M. E. Kandel, X. Liu, W. Lu, and G. Popescu, "Computational interference microscopy enabled by deep learning," APL Photonics 6(4), 046103 (2021).
-6.  D. Ryu, D. Ryu, Y. Baek, H. Cho, G. Kim, Y. S. Kim, Y. Lee, Y. Kim, J. C. Ye, H.-S. Min, and Y. Park, "DeepRegularizer: Rapid Resolution Enhancement of Tomographic Imaging Using Deep Learning," IEEE Trans. Med. Imaging 40(5), 1508–1518 (2021).
-7.  Z. Meng, G. Pedrini, X. Lv, J. Ma, S. Nie, and C. Yuan, "DL-SI-DHM: a deep network generating the high-resolution phase and amplitude images from wide-field images," Opt. Express 29(13), 19247 (2021).
-8.  A.-C. Li, S. Vyas, Y.-H. Lin, Y.-Y. Huang, H.-M. Huang, and Y. Luo, "Patch-Based U-Net Model for Isotropic Quantitative Differential Phase Contrast Imaging," IEEE Trans. Med. Imaging 40(11), 3229–3237 (2021).
-9.  R. K. Gupta, N. Hempler, G. P. A. Malcolm, K. Dholakia, and S. J. Powis, "High throughput hemogram of T cells using digital holographic microscopy and deep learning," Opt. Continuum 2(3), 670 (2023).
+- T. Liu, K. de Haan, Y. Rivenson, Z. Wei, X. Zeng, Y. Zhang, and A. Ozcan    
+*[Deep learning-based super-resolution in coherent imaging systems](https://doi.org/10.1038/s41598-019-40554-1)*  
+Sci Rep 9(1), 3926 (2019).
+- J. Lim, A. B. Ayoub, and D. Psaltis    
+*[Three-dimensional tomography of red blood cells using deep learning](https://doi.org/10.1117/1.AP.2.2.026001)*  
+Adv. Photon. 2(02), 1 (2020).
+- A. Butola, S. R. Kanade, S. Bhatt, V. K. Dubey, A. Kumar, A. Ahmad, D. K. Prasad, P. Senthilkumaran, B. S. Ahluwalia, and D. S. Mehta    
+*[High space-bandwidth in quantitative phase imaging using partially spatially coherent digital holographic microscopy and a deep neural network](https://doi.org/10.1364/OE.402666)*  
+Opt. Express 28(24), 36229 (2020).
+- Y. Jiao, Y. R. He, M. E. Kandel, X. Liu, W. Lu, and G. Popescu    
+*[Computational interference microscopy enabled by deep learning](https://doi.org/10.1063/5.0041901)*  
+APL Photonics 6(4), 046103 (2021).
+- D. Ryu, D. Ryu, Y. Baek, H. Cho, G. Kim, Y. S. Kim, Y. Lee, Y. Kim, J. C. Ye, H.-S. Min, and Y. Park    
+*[DeepRegularizer: Rapid Resolution Enhancement of Tomographic Imaging Using Deep Learning](https://doi.org/10.1109/TMI.2021.3058373)*  
+IEEE Trans. Med. Imaging 40(5), 1508–1518 (2021).
+- Z. Meng, G. Pedrini, X. Lv, J. Ma, S. Nie, and C. Yuan    
+*[DL-SI-DHM: a deep network generating the high-resolution phase and amplitude images from wide-field images](https://doi.org/10.1364/OE.424718)*  
+Opt. Express 29(13), 19247 (2021).
+- A.-C. Li, S. Vyas, Y.-H. Lin, Y.-Y. Huang, H.-M. Huang, and Y. Luo    
+*[Patch-Based U-Net Model for Isotropic Quantitative Differential Phase Contrast Imaging](https://doi.org/10.1109/TMI.2021.3091207)*  
+IEEE Trans. Med. Imaging 40(11), 3229–3237 (2021).
+- R. K. Gupta, N. Hempler, G. P. A. Malcolm, K. Dholakia, and S. J. Powis    
+*[High throughput hemogram of T cells using digital holographic microscopy and deep learning](https://doi.org/10.1364/OPTCON.479857)*  
+Opt. Continuum 2(3), 670 (2023).
 
 <a name="DLpostACRpapers"></a>
 #### Aberration correction
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-- Y    
-*[HIONet](https://doi.org/7)*  
-Digital
-1.  T. Nguyen, V. Bui, V. Lam, C. B. Raub, L.-C. Chang, and G. Nehmetallah, "Automatic phase aberration compensation for digital holographic microscopy based on deep learning background detection," Opt. Express 25(13), 15043 (2017).
-2.  G. Zhang, T. Guan, Z. Shen, X. Wang, T. Hu, D. Wang, Y. He, and N. Xie, "Fast phase retrieval in off-axis digital holographic microscopy through deep learning," Opt. Express 26(15), 19388 (2018).
-3.  W. Xiao, L. Xin, R. Cao, X. Wu, R. Tian, L. Che, L. Sun, P. Ferraro, and F. Pan, "Sensing morphogenesis of bone cells under microfluidic shear stress by holographic microscopy and automatic aberration compensation with deep learning," Lab Chip 21(7), 1385–1394 (2021).
-4.  S. Ma, R. Fang, Y. Luo, Q. Liu, S. Wang, and X. Zhou, "Phase-aberration compensation via deep learning in digital holographic microscopy," Meas. Sci. Technol. 32(10), 105203 (2021).
-5.  L.-C. Lin, C.-H. Huang, Y.-F. Chen, D. Chu, and C.-J. Cheng, "Deep learning-assisted wavefront correction with sparse data for holographic tomography," Optics and Lasers in Engineering 154, 107010 (2022).
+- T. Nguyen, V. Bui, V. Lam, C. B. Raub, L.-C. Chang, and G. Nehmetallah    
+*[Automatic phase aberration compensation for digital holographic microscopy based on deep learning background detection](https://doi.org/10.1364/OE.25.015043)*  
+Opt. Express 25(13), 15043 (2017).
+- G. Zhang, T. Guan, Z. Shen, X. Wang, T. Hu, D. Wang, Y. He, and N. Xie    
+*[Fast phase retrieval in off-axis digital holographic microscopy through deep learning](https://doi.org/10.1364/OE.26.019388)*  
+Opt. Express 26(15), 19388 (2018).
+- W. Xiao, L. Xin, R. Cao, X. Wu, R. Tian, L. Che, L. Sun, P. Ferraro, and F. Pan    
+*[Sensing morphogenesis of bone cells under microfluidic shear stress by holographic microscopy and automatic aberration compensation with deep learning](https://doi.org/10.1039/D0LC01113D)*  
+Lab Chip 21(7), 1385–1394 (2021).
+- S. Ma, R. Fang, Y. Luo, Q. Liu, S. Wang, and X. Zhou    
+*[Phase-aberration compensation via deep learning in digital holographic microscopy](https://doi.org/10.1088/1361-6501/ac0216)*  
+Meas. Sci. Technol. 32(10), 105203 (2021).
+- L.-C. Lin, C.-H. Huang, Y.-F. Chen, D. Chu, and C.-J. Cheng    
+*[Deep learning-assisted wavefront correction with sparse data for holographic tomography](https://doi.org/10.1016/j.optlaseng.2022.107010)*  
+Optics and Lasers in Engineering 154, 107010 (2022).
 
 <a name="DLpostPURpapers"></a>
 #### Phase unwrapping
 (Deep-learning-performed regression method, dRG)
-1.  G. Dardikman and N. T. Shaked, "Phase Unwrapping Using Residual Neural Networks," in Imaging and Applied Optics 2018 (3D, AO, AIO, COSI, DH, IS, LACSEA, LS&C, MATH, PcAOP) (OSA, 2018), p. CW3B.5.
-2.  G. Dardikman, N. A. Turko, and N. T. Shaked, "Deep learning approaches for unwrapping phase images with steep spatial gradients: a simulation," in 2018 IEEE International Conference on the Science of Electrical Engineering in Israel (ICSEE) (IEEE, 2018), pp. 1–4.
-3.  K. Wang, Y. Li, Q. Kemao, J. Di, and J. Zhao, "One-step robust deep learning phase unwrapping," Opt. Express 27(10), 15100 (2019).
-4.  J. J. He, C. Sandino, D. Zeng, S. Vasanawala, and J. Cheng, "Deep spatiotemporal phase unwrapping of phase-contrast MRI data," in Proceedings of the 27th ISMRM Annual Meeting & Exhibition, Montréal, QC, Canada (2019), pp. 11–16.
-5.  K. Ryu, S.-M. Gho, Y. Nam, K. Koch, and D.-H. Kim, "Development of a deep learning method for phase unwrapping MR images," in Proc. Intl. Soc. Mag. Reson. Med. (2019), 27, p. ,4707.
-6.  G. Dardikman, D. Roitshtain, S. K. Mirsky, N. A. Turko, M. Habaza, and N. T. Shaked, "PhUn-Net: ready-to-use neural network for unwrapping quantitative phase images of biological cells," Biomed. Opt. Express 11(2), 1107 (2020).
-7.  Y. Qin, S. Wan, Y. Wan, J. Weng, W. Liu, and Q. Gong, "Direct and accurate phase unwrapping with deep neural network," Appl. Opt. 59(24), 7258 (2020).
-8.  M. V. Perera and A. De Silva, "A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2021), pp. 4055–4059.
-9.  H. Zhou, C. Cheng, H. Peng, D. Liang, X. Liu, H. Zheng, and C. Zou, "The PHU‐NET: A robust phase unwrapping method for MRI based on deep learning," Magn Reson Med 86(6), 3321–3333 (2021).
-10.  S. Park, Y. Kim, and I. Moon, "Automated phase unwrapping in digital holography with deep learning," Biomed. Opt. Express 12(11), 7064 (2021).
-11.  L. Zhou, H. Yu, V. Pascazio, and M. Xing, "PU-GAN: A One-Step 2-D InSAR Phase Unwrapping Based on Conditional Generative Adversarial Network," IEEE Trans. Geosci. Remote Sensing 60, 1–10 (2022).
-12.  M. Xu, C. Tang, Y. Shen, N. Hong, and Z. Lei, "PU-M-Net for phase unwrapping with speckle reduction and structure protection in ESPI," Optics and Lasers in Engineering 151, 106824 (2022).
-13.  X. Xie, X. Tian, Z. Shou, Q. Zeng, G. Wang, Q. Huang, M. Qin, and X. Gao, "Deep learning phase-unwrapping method based on adaptive noise evaluation," Appl. Opt. 61(23), 6861 (2022).
-14.  J. Zhao, L. Liu, T. Wang, X. Wang, X. Du, R. Hao, J. Liu, Y. Liu, and J. Zhang, "VDE-Net: a two-stage deep learning method for phase unwrapping," Opt. Express 30(22), 39794 (2022).
+- G. Dardikman and N. T. Shaked  
+*[Phase Unwrapping Using Residual Neural Networks](https://doi.org/10.1364/COSI.2018.CW3B.5)*  
+in Imaging and Applied Optics 2018 (3D, AO, AIO, COSI, DH, IS, LACSEA, LS&C, MATH, PcAOP) (OSA, 2018), p. CW3B.5.
+- G. Dardikman, N. A. Turko, and N. T. Shaked  
+*[Deep learning approaches for unwrapping phase images with steep spatial gradients: a simulation](https://doi.org/10.1109/ICSEE.2018.8646266)*  
+in 2018 IEEE International Conference on the Science of Electrical Engineering in Israel (ICSEE) (IEEE, 2018), pp. 1–4.
+- K. Wang, Y. Li, Q. Kemao, J. Di, and J. Zhao  
+*[One-step robust deep learning phase unwrapping](https://doi.org/10.1364/OE.27.015100)*  
+Opt. Express 27(10), 15100 (2019).
+- J. J. He, C. Sandino, D. Zeng, S. Vasanawala, and J. Cheng  
+*[Deep spatiotemporal phase unwrapping of phase-contrast MRI data](https://archive.ismrm.org/2019/1962.html)*  
+in Proceedings of the 27th ISMRM Annual Meeting & Exhibition, Montréal, QC, Canada (2019), pp. 11–16.
+- K. Ryu, S.-M. Gho, Y. Nam, K. Koch, and D.-H. Kim  
+*[Development of a deep learning method for phase unwrapping MR images](https://archive.ismrm.org/2019/4707.html)*  
+in Proc. Intl. Soc. Mag. Reson. Med. (2019), 27, p. ,4707.
+- G. Dardikman, D. Roitshtain, S. K. Mirsky, N. A. Turko, M. Habaza, and N. T. Shaked  
+*[PhUn-Net: ready-to-use neural network for unwrapping quantitative phase images of biological cells](https://doi.org/10.1364/BOE.379533)*  
+Biomed. Opt. Express 11(2), 1107 (2020).
+- Y. Qin, S. Wan, Y. Wan, J. Weng, W. Liu, and Q. Gong  
+*[Direct and accurate phase unwrapping with deep neural network](https://doi.org/10.1364/AO.399715)*  
+Appl. Opt. 59(24), 7258 (2020).
+- M. V. Perera and A. De Silva  
+*[A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping](https://doi.org/10.1109/ICASSP39728.2021.9414748)*  
+in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2021), pp. 4055–4059.
+- H. Zhou, C. Cheng, H. Peng, D. Liang, X. Liu, H. Zheng, and C. Zou  
+*[The PHU‐NET: A robust phase unwrapping method for MRI based on deep learning](https://doi.org/10.1002/mrm.28927)*  
+Magn Reson Med 86(6), 3321–3333 (2021).
+- S. Park, Y. Kim, and I. Moon  
+*[Automated phase unwrapping in digital holography with deep learning](https://doi.org/10.1364/BOE.440338)*  
+Biomed. Opt. Express 12(11), 7064 (2021).
+- L. Zhou, H. Yu, V. Pascazio, and M. Xing  
+*[PU-GAN: A One-Step 2-D InSAR Phase Unwrapping Based on Conditional Generative Adversarial Network](https://doi.org/10.1109/TGRS.2022.3145342)*  
+IEEE Trans. Geosci. Remote Sensing 60, 1–10 (2022).
+- M. Xu, C. Tang, Y. Shen, N. Hong, and Z. Lei  
+*[PU-M-Net for phase unwrapping with speckle reduction and structure protection in ESPI](https://doi.org/10.1016/j.optlaseng.2021.106824)*  
+Optics and Lasers in Engineering 151, 106824 (2022).
+- X. Xie, X. Tian, Z. Shou, Q. Zeng, G. Wang, Q. Huang, M. Qin, and X. Gao  
+*[Deep learning phase-unwrapping method based on adaptive noise evaluation](https://doi.org/10.1364/AO.464585)*  
+Appl. Opt. 61(23), 6861 (2022).
+- J. Zhao, L. Liu, T. Wang, X. Wang, X. Du, R. Hao, J. Liu, Y. Liu, and J. Zhang  
+*[VDE-Net: a two-stage deep learning method for phase unwrapping](https://doi.org/10.1364/OE.469312)*  
+Opt. Express 30(22), 39794 (2022).
 
 (Deep-learning-performed wrap count method, dWC)
-1.  G. E. Spoorthi, S. Gorthi, and R. K. S. S. Gorthi, "PhaseNet: A Deep Convolutional Neural Network for Two-Dimensional Phase Unwrapping," IEEE Signal Process. Lett. 26(1), 54–58 (2018).
-2.  G. Dardikman, N. A. Turko, and N. T. Shaked, "Deep learning approaches for unwrapping phase images with steep spatial gradients: a simulation," in 2018 IEEE International Conference on the Science of Electrical Engineering in Israel (ICSEE) (IEEE, 2018), pp. 1–4.
-3.  J. Zhang, X. Tian, J. Shao, H. Luo, and R. Liang, "Phase unwrapping in optical metrology via denoised and convolutional segmentation networks," Opt. Express 27(10), 14903 (2019).
-4.  T. Zhang, S. Jiang, Z. Zhao, K. Dixit, X. Zhou, J. Hou, Y. Zhang, and C. Yan, "Rapid and robust two-dimensional phase unwrapping via deep learning," Opt. Express 27(16), 23173 (2019).
-5.  G. E. Spoorthi, R. K. Sai Subrahmanyam Gorthi, and S. Gorthi, "PhaseNet 2.0: Phase Unwrapping of Noisy Data Based on Deep Learning Approach," IEEE Trans. on Image Process. 29, 4862–4872 (2020).
-6.  C. Wu, Z. Qiao, N. Zhang, X. Li, J. Fan, H. Song, D. Ai, J. Yang, and Y. Huang, "Phase unwrapping based on a residual en-decoder network for phase images in Fourier domain Doppler optical coherence tomography," Biomed. Opt. Express 11(4), 1760 (2020).
-7.  Z. Zhao, B. Li, X. Kang, J. Lu, and T. Liu, "Phase unwrapping method for point diffraction interferometer based on residual auto encoder neural network," Optics and Lasers in Engineering 138, 106405 (2020).
-8.  S. Zhu, Z. Zang, X. Wang, Y. Wang, X. Wang, and D. Liu, "Phase unwrapping in ICF target interferometric measurement via deep learning," Appl. Opt. 60(1), 10 (2021).
-9.  K. S. Vengala, N. Paluru, and R. K. S. Subrahmanyam Gorthi, "3D deformation measurement in digital holographic interferometry using a multitask deep learning architecture," J. Opt. Soc. Am. A 39(1), 167 (2022).
-10.  K. S. Vengala, V. Ravi, and G. R. K. Sai Subrahmanyam, "A Multi-task Learning for 2D Phase Unwrapping in Fringe Projection," IEEE Signal Process. Lett. 29, 797–801 (2022).
-11.  J. Zhang and Q. Li, "EESANet: edge-enhanced self-attention network for two-dimensional phase unwrapping," Opt. Express 30(7), 10470 (2022).
-12.  W. Huang, X. Mei, Y. Wang, Z. Fan, C. Chen, and G. Jiang, "Two-dimensional phase unwrapping by a high-resolution deep learning network," Measurement 200, 111566 (2022).
-13.  Y. Wang, C. Zhou, and X. Qi, "PEENet for phase unwrapping in fringe projection profilometry," in Thirteenth International Conference on Information Optics and Photonics (CIOP 2022), Y. Yang, ed. (SPIE, 2022), p. 163.
+- G. E. Spoorthi, S. Gorthi, and R. K. S. S. Gorthi  
+*[PhaseNet: A Deep Convolutional Neural Network for Two-Dimensional Phase Unwrapping](https://doi.org/10.1109/LSP.2018.2879184)*  
+IEEE Signal Process. Lett. 26(1), 54–58 (2018).
+- G. Dardikman, N. A. Turko, and N. T. Shaked  
+*[Deep learning approaches for unwrapping phase images with steep spatial gradients: a simulation](https://doi.org/10.1109/ICSEE.2018.8646266)*  
+in 2018 IEEE International Conference on the Science of Electrical Engineering in Israel (ICSEE) (IEEE, 2018), pp. 1–4.
+- J. Zhang, X. Tian, J. Shao, H. Luo, and R. Liang  
+*[Phase unwrapping in optical metrology via denoised and convolutional segmentation networks](https://doi.org/10.1364/OE.27.014903)*  
+Opt. Express 27(10), 14903 (2019).
+- T. Zhang, S. Jiang, Z. Zhao, K. Dixit, X. Zhou, J. Hou, Y. Zhang, and C. Yan  
+*[Rapid and robust two-dimensional phase unwrapping via deep learning](https://doi.org/10.1364/OE.27.023173)*  
+Opt. Express 27(16), 23173 (2019).
+- G. E. Spoorthi, R. K. Sai Subrahmanyam Gorthi, and S. Gorthi  
+*[PhaseNet 2.0: Phase Unwrapping of Noisy Data Based on Deep Learning Approach](https://doi.org/10.1109/TIP.2020.2977213)*  
+IEEE Trans. on Image Process. 29, 4862–4872 (2020).
+- C. Wu, Z. Qiao, N. Zhang, X. Li, J. Fan, H. Song, D. Ai, J. Yang, and Y. Huang  
+*[Phase unwrapping based on a residual en-decoder network for phase images in Fourier domain Doppler optical coherence tomography](https://doi.org/10.1364/BOE.386101)*  
+Biomed. Opt. Express 11(4), 1760 (2020).
+- Z. Zhao, B. Li, X. Kang, J. Lu, and T. Liu  
+*[Phase unwrapping method for point diffraction interferometer based on residual auto encoder neural network](https://doi.org/10.1016/j.optlaseng.2020.106405)*  
+Optics and Lasers in Engineering 138, 106405 (2020).
+- S. Zhu, Z. Zang, X. Wang, Y. Wang, X. Wang, and D. Liu  
+*[Phase unwrapping in ICF target interferometric measurement via deep learning](https://doi.org/10.1364/AO.405893)*  
+Appl. Opt. 60(1), 10 (2021).
+- K. S. Vengala, N. Paluru, and R. K. S. Subrahmanyam Gorthi  
+*[3D deformation measurement in digital holographic interferometry using a multitask deep learning architecture](https://doi.org/10.1364/JOSAA.444949)*  
+J. Opt. Soc. Am. A 39(1), 167 (2022).
+- K. S. Vengala, V. Ravi, and G. R. K. Sai Subrahmanyam  
+*[A Multi-task Learning for 2D Phase Unwrapping in Fringe Projection](https://doi.org/10.1109/LSP.2022.3157195)*  
+IEEE Signal Process. Lett. 29, 797–801 (2022).
+- J. Zhang and Q. Li  
+*[EESANet: edge-enhanced self-attention network for two-dimensional phase unwrapping](https://doi.org/10.1364/OE.444875)*  
+Opt. Express 30(7), 10470 (2022).
+- W. Huang, X. Mei, Y. Wang, Z. Fan, C. Chen, and G. Jiang  
+*[Two-dimensional phase unwrapping by a high-resolution deep learning network](https://doi.org/10.1016/j.measurement.2022.111566)*  
+Measurement 200, 111566 (2022).
+- Y. Wang, C. Zhou, and X. Qi  
+*[PEENet for phase unwrapping in fringe projection profilometry](https://doi.org/10.1117/12.2654763)*  
+in Thirteenth International Conference on Information Optics and Photonics (CIOP 2022), Y. Yang, ed. (SPIE, 2022), p. 163.
+
 
 (Deep-learning-assisted method, dAS)
-1.  W. Schwartzkopf, T. E. Milner, J. Ghosh, B. L. Evans, and A. C. Bovik, "Two-dimensional phase unwrapping using neural networks," in 4th IEEE Southwest Symposium on Image Analysis and Interpretation (IEEE Comput. Soc, 2000), pp. 274–277.
-2.  L. Zhou, H. Yu, and Y. Lan, "Deep Convolutional Neural Network-Based Robust Phase Gradient Estimation for Two-Dimensional Phase Unwrapping Using SAR Interferograms," IEEE Trans. Geosci. Remote Sensing 58(7), 4653–4665 (2020).
-3.  F. Sica, F. Calvanese, G. Scarpa, and P. Rizzoli, "A CNN-Based Coherence-Driven Approach for InSAR Phase Unwrapping," IEEE Geosci. Remote Sensing Lett. 19, 1–5 (2020).
-4.  Z. Wu, T. Wang, Y. Wang, and D. Ge, "A New Phase Unwrapping Method Combining Minimum Cost Flow with Deep Learning," in 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS (IEEE, 2021), pp. 3177–3180.
-5.  H. Wang, J. Hu, H. Fu, C. Wang, and Z. Wang, "A Novel Quality-Guided Two-Dimensional InSAR Phase Unwrapping Method via GAUNet," IEEE J. Sel. Top. Appl. Earth Observations Remote Sensing 14, 7840–7856 (2021).
-6.  L. Zhou, H. Yu, Y. Lan, and M. Xing, "Deep Learning-Based Branch-Cut Method for InSAR Two-Dimensional Phase Unwrapping," IEEE Trans. Geosci. Remote Sensing 60, 1–15 (2021).
-7.  Z. Wu, T. Wang, Y. Wang, R. Wang, and D. Ge, "Deep-Learning-Based Phase Discontinuity Prediction for 2-D Phase Unwrapping of SAR Interferograms," IEEE Trans. Geosci. Remote Sensing 60, 1–16 (2021).
-8.  L. Li, H. Zhang, Y. Tang, C. Wang, and F. Gu, "InSAR Phase Unwrapping by Deep Learning Based on Gradient Information Fusion," IEEE Geosci. Remote Sensing Lett. 19, 1–5 (2021).
-
+- W. Schwartzkopf, T. E. Milner, J. Ghosh, B. L. Evans, and A. C. Bovik  
+*[Two-dimensional phase unwrapping using neural networks](https://doi.org/10.1109/IAI.2000.839615)*  
+in 4th IEEE Southwest Symposium on Image Analysis and Interpretation (IEEE Comput. Soc, 2000), pp. 274–277.
+- L. Zhou, H. Yu, and Y. Lan  
+*[Deep Convolutional Neural Network-Based Robust Phase Gradient Estimation for Two-Dimensional Phase Unwrapping Using SAR Interferograms](https://doi.org/10.1109/TGRS.2020.2965918)*  
+IEEE Trans. Geosci. Remote Sensing 58(7), 4653–4665 (2020).
+- F. Sica, F. Calvanese, G. Scarpa, and P. Rizzoli  
+*[A CNN-Based Coherence-Driven Approach for InSAR Phase Unwrapping](https://doi.org/10.1109/LGRS.2020.3029565)*  
+IEEE Geosci. Remote Sensing Lett. 19, 1–5 (2020).
+- Z. Wu, T. Wang, Y. Wang, and D. Ge  
+*[A New Phase Unwrapping Method Combining Minimum Cost Flow with Deep Learning](https://doi.org/10.1109/IGARSS47720.2021.9554886)*  
+in 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS (IEEE, 2021), pp. 3177–3180.
+- H. Wang, J. Hu, H. Fu, C. Wang, and Z. Wang  
+*[A Novel Quality-Guided Two-Dimensional InSAR Phase Unwrapping Method via GAUNet](https://doi.org/10.1109/JSTARS.2021.3099485)*  
+IEEE J. Sel. Top. Appl. Earth Observations Remote Sensing 14, 7840–7856 (2021).
+- L. Zhou, H. Yu, Y. Lan, and M. Xing  
+*[Deep Learning-Based Branch-Cut Method for InSAR Two-Dimensional Phase Unwrapping](https://doi.org/10.1109/TGRS.2021.3099997)*  
+IEEE Trans. Geosci. Remote Sensing 60, 1–15 (2021).
+- Z. Wu, T. Wang, Y. Wang, R. Wang, and D. Ge  
+*[Deep-Learning-Based Phase Discontinuity Prediction for 2-D Phase Unwrapping of SAR Interferograms](https://doi.org/10.1109/TGRS.2021.3121906)*  
+IEEE Trans. Geosci. Remote Sensing 60, 1–16 (2021).
+- L. Li, H. Zhang, Y. Tang, C. Wang, and F. Gu  
+*[InSAR Phase Unwrapping by Deep Learning Based on Gradient Information Fusion](https://doi.org/10.1109/LGRS.2021.3127318)*  
+IEEE Geosci. Remote Sensing Lett. 19, 1–5 (2021).
 
 <a name="DLppRpapers"></a>
 ### Deep learning for phase processing
 <a name="DLppSRpapers"></a>
 #### Segmentation
-1.  T. H. Nguyen, S. Sridharan, V. Macias, A. Kajdacsy-Balla, J. Melamed, M. N. Do, and G. Popescu, "Automatic Gleason grading of prostate cancer using quantitative phase imaging and machine learning," J. Biomed. Opt 22(3), 036015 (2017).
-2.  F. Yi, I. Moon, and B. Javidi, "Automated red blood cells extraction from holographic images using fully convolutional neural networks," Biomed. Opt. Express 8(10), 4466 (2017).
-3.  J. Lee, H. Kim, H. Cho, Y. Jo, Y. Song, D. Ahn, K. Lee, Y. Park, and S.-J. Ye, "Deep-Learning-Based Label-Free Segmentation of Cell Nuclei in Time-Lapse Refractive Index Tomograms," IEEE Access 7, 83449–83460 (2019).
-4.  E. Ahmadzadeh, K. Jaferzadeh, S. Shin, and I. Moon, "Automated single cardiomyocyte characterization by nucleus extraction from dynamic holographic images using a fully convolutional neural network," Biomed. Opt. Express 11(3), 1501 (2020).
-5.  M. E. Kandel, M. Rubessa, Y. R. He, S. Schreiber, S. Meyers, L. Matter Naves, M. K. Sermersheim, G. S. Sell, M. J. Szewczyk, N. Sobh, M. B. Wheeler, and G. Popescu, "Reproductive outcomes predicted by phase imaging with computational specificity of spermatozoon ultrastructure," Proc. Natl. Acad. Sci. U.S.A. 117(31), 18302–18309 (2020).
-6.  M. Lee, Y.-H. Lee, J. Song, G. Kim, Y. Jo, H. Min, C. H. Kim, and Y. Park, "Deep-learning-based three-dimensional label-free tracking and analysis of immunological synapses of CAR-T cells," eLife 9, e49023 (2020).
-7.  J. Choi, H.-J. Kim, G. Sim, S. Lee, W. S. Park, J. H. Park, H.-Y. Kang, M. Lee, W. D. Heo, J. Choo, H. Min, and Y. Park, "Label-free three-dimensional analyses of live cells with deep-learning-based segmentation exploiting refractive index distributions," Preprint at https://doi.org/10.1101/2021.05.23.445351 (2021).
-8.  N. Goswami, Y. R. He, Y.-H. Deng, C. Oh, N. Sobh, E. Valera, R. Bashir, N. Ismail, H. Kong, T. H. Nguyen, C. Best-Popescu, and G. Popescu, "Label-free SARS-CoV-2 detection and classification using phase imaging with computational specificity," Light Sci Appl 10(1), 176 (2021).
-9.  C. Hu, S. He, Y. J. Lee, Y. He, E. M. Kong, H. Li, M. A. Anastasio, and G. Popescu, "Live-dead assay on unlabeled cells using phase imaging with computational specificity," Nat Commun 13(1), 713 (2022).
-10.  J. K. Zhang, M. Fanous, N. Sobh, A. Kajdacsy-Balla, and G. Popescu, "Automatic Colorectal Cancer Screening Using Deep Learning in Spatial Light Interference Microscopy Data," Cells 11(4), 716 (2022).
-11.  Y. R. He, S. He, M. E. Kandel, Y. J. Lee, C. Hu, N. Sobh, M. A. Anastasio, and G. Popescu, "Cell Cycle Stage Classification Using Phase Imaging with Computational Specificity," ACS Photonics 9(4), 1264–1273 (2022).
-12.  S. Jiang, C. Guo, P. Song, T. Wang, R. Wang, T. Zhang, Q. Wu, R. Pandey, and G. Zheng, "High-throughput digital pathology via a handheld, multiplexed, and AI-powered ptychographic whole slide scanner," Lab Chip 22(14), 2657–2670 (2022).
+- T. H. Nguyen, S. Sridharan, V. Macias, A. Kajdacsy-Balla, J. Melamed, M. N. Do, and G. Popescu  
+*[Automatic Gleason grading of prostate cancer using quantitative phase imaging and machine learning](https://doi.org/10.1117/1.JBO.22.3.036015)*  
+J. Biomed. Opt 22(3), 036015 (2017).
+- F. Yi, I. Moon, and B. Javidi  
+*[Automated red blood cells extraction from holographic images using fully convolutional neural networks](https://doi.org/10.1364/BOE.8.004466)*  
+Biomed. Opt. Express 8(10), 4466 (2017).
+- J. Lee, H. Kim, H. Cho, Y. Jo, Y. Song, D. Ahn, K. Lee, Y. Park, and S.-J. Ye  
+*[Deep-Learning-Based Label-Free Segmentation of Cell Nuclei in Time-Lapse Refractive Index Tomograms](https://doi.org/10.1109/ACCESS.2019.2924255)*  
+IEEE Access 7, 83449–83460 (2019).
+- E. Ahmadzadeh, K. Jaferzadeh, S. Shin, and I. Moon  
+*[Automated single cardiomyocyte characterization by nucleus extraction from dynamic holographic images using a fully convolutional neural network](https://doi.org/10.1364/BOE.385218)*  
+Biomed. Opt. Express 11(3), 1501 (2020).
+- M. E. Kandel, M. Rubessa, Y. R. He, S. Schreiber, S. Meyers, L. Matter Naves, M. K. Sermersheim, G. S. Sell, M. J. Szewczyk, N. Sobh, M. B. Wheeler, and G. Popescu  
+*[Reproductive outcomes predicted by phase imaging with computational specificity of spermatozoon ultrastructure](https://doi.org/10.1073/pnas.2001754117)*  
+Proc. Natl. Acad. Sci. U.S.A. 117(31), 18302–18309 (2020).
+- M. Lee, Y.-H. Lee, J. Song, G. Kim, Y. Jo, H. Min, C. H. Kim, and Y. Park  
+*[Deep-learning-based three-dimensional label-free tracking and analysis of immunological synapses of CAR-T cells](https://doi.org/10.7554/eLife.49023)*  
+eLife 9, e49023 (2020).
+- J. Choi, H.-J. Kim, G. Sim, S. Lee, W. S. Park, J. H. Park, H.-Y. Kang, M. Lee, W. D. Heo, J. Choo, H. Min, and Y. Park  
+*[Label-free three-dimensional analyses of live cells with deep-learning-based segmentation exploiting refractive index distributions](https://doi.org/10.1101/2021.05.23.445351)*  
+Preprint at bioRxiv (2021).
+- N. Goswami, Y. R. He, Y.-H. Deng, C. Oh, N. Sobh, E. Valera, R. Bashir, N. Ismail, H. Kong, T. H. Nguyen, C. Best-Popescu, and G. Popescu  
+*[Label-free SARS-CoV-2 detection and classification using phase imaging with computational specificity](https://doi.org/10.1038/s41377-021-00620-8)*  
+Light Sci. Appl. 10(1), 176 (2021).
+- C. Hu, S. He, Y. J. Lee, Y. He, E. M. Kong, H. Li, M. A. Anastasio, and G. Popescu  
+*[Live-dead assay on unlabeled cells using phase imaging with computational specificity](https://doi.org/10.1038/s41467-022-28214-x)*  
+Nat. Commun. 13(1), 713 (2022).
+- J. K. Zhang, M. Fanous, N. Sobh, A. Kajdacsy-Balla, and G. Popescu  
+*[Automatic Colorectal Cancer Screening Using Deep Learning in Spatial Light Interference Microscopy Data](https://doi.org/10.3390/cells11040716)*  
+Cells 11(4), 716 (2022).
+- Y. R. He, S. He, M. E. Kandel, Y. J. Lee, C. Hu, N. Sobh, M. A. Anastasio, and G. Popescu  
+*[Cell Cycle Stage Classification Using Phase Imaging with Computational Specificity](https://doi.org/10.1021/acsphotonics.1c01779)*  
+ACS Photonics 9(4), 1264–1273 (2022).
+- S. Jiang, C. Guo, P. Song, T. Wang, R. Wang, T. Zhang, Q. Wu, R. Pandey, and G. Zheng  
+*[High-throughput digital pathology via a handheld, multiplexed, and AI-powered ptychographic whole slide scanner](https://doi.org/10.1039/D2LC00084A)*  
+Lab. Chip 22(14), 2657–2670 (2022).
 
 <a name="DLppCRpapers"></a>
 #### Classification
 (via conventional machine learning)
-1. C. L. Chen, A. Mahjoubfar, L.-C. Tai, I. K. Blaby, A. Huang, K. R. Niazi, and B. Jalali, "Deep Learning in Label-free Cell Classification," Sci Rep 6(1), 21471 (2016).
-2. D. Roitshtain, L. Wolbromsky, E. Bal, H. Greenspan, L. L. Satterwhite, and N. T. Shaked, "Quantitative phase microscopy spatial signatures of cancer cells," Cytometry 91(5), 482–493 (2017).
-3. J. Yoon, Y. Jo, M. Kim, K. Kim, S. Lee, S.-J. Kang, and Y. Park, "Identification of non-activated lymphocytes using three-dimensional refractive index tomography and machine learning," Sci Rep 7(1), 6654 (2017).
-4. S. K. Mirsky, I. Barnea, M. Levi, H. Greenspan, and N. T. Shaked, "Automated analysis of individual sperm cells using stain-free interferometric phase microscopy and machine learning: Sperm Analysis Using Interferometry and Machine Learning," Cytometry 91(9), 893–900 (2017).
-5. Y. Li, B. Cornelis, A. Dusa, G. Vanmeerbeeck, D. Vercruysse, E. Sohn, K. Blaszkiewicz, D. Prodanov, P. Schelkens, and L. Lagae, "Accurate label-free 3-part leukocyte recognition with single cell lens-free imaging flow cytometry," Computers in Biology and Medicine 96, 147–156 (2018).
-6. B. Javidi, A. Markman, S. Rawat, T. O’Connor, A. Anand, and B. Andemariam, "Sickle cell disease diagnosis based on spatio-temporal cell dynamics analysis using 3D printed shearing digital holographic microscopy," Opt. Express 26(10), 13614 (2018).
-7. G. Kim, Y. Jo, H. Cho, H. Min, and Y. Park, "Learning-based screening of hematologic disorders using quantitative phase imaging of individual red blood cells," Biosensors and Bioelectronics 123, 69–76 (2019).
-8. Y. Ozaki, H. Yamada, H. Kikuchi, A. Hirotsu, T. Murakami, T. Matsumoto, T. Kawabata, Y. Hiramatsu, K. Kamiya, T. Yamauchi, K. Goto, Y. Ueda, S. Okazaki, M. Kitagawa, H. Takeuchi, and H. Konno, "Label-free classification of cells based on supervised machine learning of subcellular structures," PLoS ONE 14(1), e0211347 (2019).
-9. V. Bianco, P. Memmolo, P. Carcagnì, F. Merola, M. Paturzo, C. Distante, and P. Ferraro, "Microplastic Identification via Holographic Imaging and Machine Learning," Advanced Intelligent Systems 2(2), 1900153 (2020).
-10. A. V. Belashov, A. A. Zhikhoreva, T. N. Belyaeva, E. S. Kornilova, A. V. Salova, I. V. Semenova, and O. S. Vasyutinskii, "In vitro monitoring of photoinduced necrosis in HeLa cells using digital holographic microscopy and machine learning," J. Opt. Soc. Am. A 37(2), 346 (2020).
-11. V. K. Lam, T. C. Nguyen, V. Bui, B. M. Chung, L.-C. Chang, G. Nehmetallah, and C. B. Raub, "Quantitative scoring of epithelial and mesenchymal qualities of cancer cells using machine learning and quantitative phase imaging," J. Biomed. Opt. 25(02), 026002–026002 (2020).
-12. S. Park, J. W. Ahn, Y. Jo, H.-Y. Kang, H. J. Kim, Y. Cheon, J. W. Kim, Y. Park, S. Lee, and K. Park, "Label-Free Tomographic Imaging of Lipid Droplets in Foam Cells for Machine-Learning-Assisted Therapeutic Evaluation of Targeted Nanodrugs," ACS Nano 14(2), 1856–1865 (2020).
-13. N. Nissim, M. Dudaie, I. Barnea, and N. T. Shaked, "Real‐Time Stain‐Free Classification of Cancer Cells and Blood Cells Using Interferometric Phase Microscopy and Machine Learning," Cytometry 99(5), 511–523 (2021).
-14. V. Bianco, D. Pirone, P. Memmolo, F. Merola, and P. Ferraro, "Identification of Microplastics Based on the Fractal Properties of Their Holographic Fingerprint," ACS Photonics 8(7), 2148–2157 (2021).
-15. S. K. Paidi, P. Raj, R. Bordett, C. Zhang, S. H. Karandikar, R. Pandey, and I. Barman, "Raman and quantitative phase imaging allow morpho-molecular recognition of malignancy and stages of B-cell acute lymphoblastic leukemia," Biosensors and Bioelectronics 190, 113403 (2021).
-16. P. Memmolo, G. Aprea, V. Bianco, R. Russo, I. Andolfo, M. Mugnano, F. Merola, L. Miccio, A. Iolascon, and P. Ferraro, "Differential diagnosis of hereditary anemias from a fraction of blood drop by digital holography and hierarchical machine learning," Biosensors and Bioelectronics 201, 113945 (2022).
-17. M. Valentino, J. Bĕhal, V. Bianco, S. Itri, R. Mossotti, G. D. Fontana, T. Battistini, E. Stella, L. Miccio, and P. Ferraro, "Intelligent polarization-sensitive holographic flow-cytometer: Towards specificity in classifying natural and microplastic fibers," Science of The Total Environment 815, 152708 (2022).
-18. D. Pirone, L. Xin, V. Bianco, L. Miccio, W. Xiao, L. Che, X. Li, P. Memmolo, F. Pan, and P. Ferraro, "Identification of drug-resistant cancer cells in flow cytometry combining 3D holographic tomography with machine learning," Sensors and Actuators B: Chemical 375, 132963 (2023).
+- C. L. Chen, A. Mahjoubfar, L.-C. Tai, I. K. Blaby, A. Huang, K. R. Niazi, and B. Jalali  
+*[Deep Learning in Label-free Cell Classification](https://doi.org/10.1038/srep21471)*  
+Sci Rep 6(1), 21471 (2016).
+- D. Roitshtain, L. Wolbromsky, E. Bal, H. Greenspan, L. L. Satterwhite, and N. T. Shaked  
+*[Quantitative phase microscopy spatial signatures of cancer cells](https://doi.org/10.1002/cyto.a.23100)*  
+Cytometry 91(5), 482–493 (2017).
+- J. Yoon, Y. Jo, M. Kim, K. Kim, S. Lee, S.-J. Kang, and Y. Park  
+*[Identification of non-activated lymphocytes using three-dimensional refractive index tomography and machine learning](https://doi.org/10.1038/s41598-017-06311-y)*  
+Sci Rep 7(1), 6654 (2017).
+- S. K. Mirsky, I. Barnea, M. Levi, H. Greenspan, and N. T. Shaked  
+*[Automated analysis of individual sperm cells using stain-free interferometric phase microscopy and machine learning: Sperm Analysis Using Interferometry and Machine Learning](https://doi.org/10.1002/cyto.a.23189)*  
+Cytometry 91(9), 893–900 (2017).
+- Y. Li, B. Cornelis, A. Dusa, G. Vanmeerbeeck, D. Vercruysse, E. Sohn, K. Blaszkiewicz, D. Prodanov, P. Schelkens, and L. Lagae  
+*[Accurate label-free 3-part leukocyte recognition with single cell lens-free imaging flow cytometry](https://doi.org/10.1016/j.compbiomed.2018.03.008)*  
+Computers in Biology and Medicine 96, 147–156 (2018).
+- B. Javidi, A. Markman, S. Rawat, T. O’Connor, A. Anand, and B. Andemariam  
+*[Sickle cell disease diagnosis based on spatio-temporal cell dynamics analysis using 3D printed shearing digital holographic microscopy](https://doi.org/10.1364/OE.26.013614)*  
+Opt. Express 26(10), 13614 (2018).
+- G. Kim, Y. Jo, H. Cho, H. Min, and Y. Park  
+*[Learning-based screening of hematologic disorders using quantitative phase imaging of individual red blood cells](https://doi.org/10.1016/j.bios.2018.09.068)*  
+Biosensors and Bioelectronics 123, 69–76 (2019).
+- Y. Ozaki, H. Yamada, H. Kikuchi, A. Hirotsu, T. Murakami, T. Matsumoto, T. Kawabata, Y. Hiramatsu, K. Kamiya, T. Yamauchi, K. Goto, Y. Ueda, S. Okazaki, M. Kitagawa, H. Takeuchi, and H. Konno  
+*[Label-free classification of cells based on supervised machine learning of subcellular structures](https://doi.org/10.1371/journal.pone.0211347)*  
+PLoS ONE 14(1), e0211347 (2019).
+- V. Bianco, P. Memmolo, P. Carcagnì, F. Merola, M. Paturzo, C. Distante, and P. Ferraro  
+*[Microplastic Identification via Holographic Imaging and Machine Learning](https://doi.org/10.1002/aisy.201900153)*  
+Advanced Intelligent Systems 2(2), 1900153 (2020).
+- A. V. Belashov, A. A. Zhikhoreva, T. N. Belyaeva, E. S. Kornilova, A. V. Salova, I. V. Semenova, and O. S. Vasyutinskii  
+*[In vitro monitoring of photoinduced necrosis in HeLa cells using digital holographic microscopy and machine learning](https://doi.org/10.1364/JOSAA.382135)*  
+J. Opt. Soc. Am. A 37(2), 346 (2020).
+- V. K. Lam, T. C. Nguyen, V. Bui, B. M. Chung, L.-C. Chang, G. Nehmetallah, and C. B. Raub  
+*[Quantitative scoring of epithelial and mesenchymal qualities of cancer cells using machine learning and quantitative phase imaging](https://doi.org/10.1117/1.JBO.25.2.026002)*  
+J. Biomed. Opt. 25(02), 026002–026002 (2020).
+- S. Park, J. W. Ahn, Y. Jo, H.-Y. Kang, H. J. Kim, Y. Cheon, J. W. Kim, Y. Park, S. Lee, and K. Park  
+*[Label-Free Tomographic Imaging of Lipid Droplets in Foam Cells for Machine-Learning-Assisted Therapeutic Evaluation of Targeted Nanodrugs](https://doi.org/10.1021/acsnano.9b07993)*  
+ACS Nano 14(2), 1856–1865 (2020).
+- N. Nissim, M. Dudaie, I. Barnea, and N. T. Shaked  
+*[Real‐Time Stain‐Free Classification of Cancer Cells and Blood Cells Using Interferometric Phase Microscopy and Machine Learning](https://doi.org/10.1002/cyto.a.24227)*  
+Cytometry 99(5), 511–523 (2021).
+- V. Bianco, D. Pirone, P. Memmolo, F. Merola, and P. Ferraro  
+*[Identification of Microplastics Based on the Fractal Properties of Their Holographic Fingerprint](https://doi.org/10.1021/acsphotonics.1c00591)*  
+ACS Photonics 8(7), 2148–2157 (2021).
+- S. K. Paidi, P. Raj, R. Bordett, C. Zhang, S. H. Karandikar, R. Pandey, and I. Barman  
+*[Raman and quantitative phase imaging allow morpho-molecular recognition of malignancy and stages of B-cell acute lymphoblastic leukemia](https://doi.org/10.1016/j.bios.2021.113403)*  
+Biosensors and Bioelectronics 190, 113403 (2021).
+- P. Memmolo, G. Aprea, V. Bianco, R. Russo, I. Andolfo, M. Mugnano, F. Merola, L. Miccio, A. Iolascon, and P. Ferraro  
+*[Differential diagnosis of hereditary anemias from a fraction of blood drop by digital holography and hierarchical machine learning](https://doi.org/10.1016/j.bios.2021.113945)*  
+Biosensors and Bioelectronics 201, 113945 (2022).
+- M. Valentino, J. Bĕhal, V. Bianco, S. Itri, R. Mossotti, G. D. Fontana, T. Battistini, E. Stella, L. Miccio, and P. Ferraro  
+*[Intelligent polarization-sensitive holographic flow-cytometer: Towards specificity in classifying natural and microplastic fibers](https://doi.org/10.1016/j.scitotenv.2021.152708)*  
+Science of The Total Environment 815, 152708 (2022).
+- D. Pirone, L. Xin, V. Bianco, L. Miccio, W. Xiao, L. Che, X. Li, P. Memmolo, F. Pan, and P. Ferraro  
+*[Identification of drug-resistant cancer cells in flow cytometry combining 3D holographic tomography with machine learning](https://doi.org/10.1016/j.snb.2022.132963)*  
+Sensors and Actuators B: Chemical 375, 132963 (2023).
 
 (via deep learning with only phase as input)
-1.  Y. Jo, S. Park, J. Jung, J. Yoon, H. Joo, M. Kim, S.-J. Kang, M. C. Choi, S. Y. Lee, and Y. Park, "Holographic deep learning for rapid optical screening of anthrax spores," Sci. Adv. 3(8), e1700606 (2017).
-2.  S. H. Karandikar, C. Zhang, A. Meiyappan, I. Barman, C. Finck, P. K. Srivastava, and R. Pandey, "Reagent-Free and Rapid Assessment of T Cell Activation State Using Diffraction Phase Microscopy and Deep Learning," Anal. Chem. 91(5), 3405–3411 (2019).
-3.  M. Rubin, "TOP-GAN: Stain-free cancer cell classification using deep learning with a small training set," Medical Image Analysis 57, 176–185 (2019).
-4.  J. K. Zhang, Y. R. He, and N. Sobh, "Label-free colorectal cancer screening using deep learning and spatial light interference microscopy (SLIM)," APL Photonics 5(4), 040805 (2020).
-5.  A. Butola, D. Popova, D. K. Prasad, A. Ahmad, A. Habib, J. C. Tinguely, P. Basnet, G. Acharya, P. Senthilkumaran, D. S. Mehta, and B. S. Ahluwalia, "High spatially sensitive quantitative phase imaging assisted with deep neural network for classification of human spermatozoa under stressed condition," Sci Rep 10(1), 13118 (2020).
-6.  Y. Li, J. Di, L. Ren, and J. Zhao, "Deep-learning-based prediction of living cells mitosis via quantitative phase microscopy," Chin. Opt. Lett. 19(5), 051701 (2021).
-7.  X. Shu, S. Sansare, D. Jin, X. Zeng, K.-Y. Tong, R. Pandey, and R. Zhou, "Artificial‐Intelligence‐Enabled Reagent‐Free Imaging Hematology Analyzer," Advanced Intelligent Systems 3(8), 2000277 (2021).
-8.  B. L. Reddy, R. N. Uma Mahesh, and A. Nelleri, "Deep convolutional neural network for three-dimensional objects classification using off-axis digital Fresnel holography," Journal of Modern Optics 69(13), 705–717 (2022).
+- Y. Jo, S. Park, J. Jung, J. Yoon, H. Joo, M. Kim, S.-J. Kang, M. C. Choi, S. Y. Lee, and Y. Park  
+*[Holographic deep learning for rapid optical screening of anthrax spores](https://doi.org/10.1126/sciadv.1700606)*  
+Sci. Adv. 3(8), e1700606 (2017).
+- S. H. Karandikar, C. Zhang, A. Meiyappan, I. Barman, C. Finck, P. K. Srivastava, and R. Pandey  
+*[Reagent-Free and Rapid Assessment of T Cell Activation State Using Diffraction Phase Microscopy and Deep Learning](https://doi.org/10.1021/acs.analchem.8b04895)*  
+Anal. Chem. 91(5), 3405–3411 (2019).
+- M. Rubin  
+*[TOP-GAN: Stain-free cancer cell classification using deep learning with a small training set](https://doi.org/10.1016/j.media.2019.06.014)*  
+Medical Image Analysis 57, 176–185 (2019).
+- J. K. Zhang, Y. R. He, and N. Sobh  
+*[Label-free colorectal cancer screening using deep learning and spatial light interference microscopy (SLIM)](https://doi.org/10.1063/5.0004723)*  
+APL Photonics 5(4), 040805 (2020).
+- A. Butola, D. Popova, D. K. Prasad, A. Ahmad, A. Habib, J. C. Tinguely, P. Basnet, G. Acharya, P. Senthilkumaran, D. S. Mehta, and B. S. Ahluwalia  
+*[High spatially sensitive quantitative phase imaging assisted with deep neural network for classification of human spermatozoa under stressed condition](https://doi.org/10.1038/s41598-020-69857-4)*  
+Sci Rep 10(1), 13118 (2020).
+- Y. Li, J. Di, L. Ren, and J. Zhao  
+*[Deep-learning-based prediction of living cells mitosis via quantitative phase microscopy](https://doi.org/10.3788/COL202119.051701)*  
+Chin. Opt. Lett. 19(5), 051701 (2021).
+- X. Shu, S. Sansare, D. Jin, X. Zeng, K.-Y. Tong, R. Pandey, and R. Zhou  
+*[Artificial‐Intelligence‐Enabled Reagent‐Free Imaging Hematology Analyzer](https://doi.org/10.1002/aisy.202000277)*  
+Advanced Intelligent Systems 3(8), 2000277 (2021).
+- B. L. Reddy, R. N. Uma Mahesh, and A. Nelleri  
+*[Deep convolutional neural network for three-dimensional objects classification using off-axis digital Fresnel holography](https://doi.org/10.1080/09500340.2022.2081371)*  
+Journal of Modern Optics 69(13), 705–717 (2022).
 
 (via deep learning with phase and amplitude as input)
-1.  T. Pitkäaho, A. Manninen, and T. J. Naughton, "Temporal Deep Learning Classification of Digital Hologram Reconstructions of Multicellular Samples," in Biophotonics Congress: Biomedical Optics Congress 2018 (Microscopy/Translational/Brain/OTS) (OSA, 2018), p. JW3A.14.
-2.  Y. Wu, A. Calis, Y. Luo, C. Chen, M. Lutton, Y. Rivenson, X. Lin, H. C. Koydemir, Y. Zhang, H. Wang, Z. Göröcs, and A. Ozcan, "Label-Free Bioaerosol Sensing Using Mobile Microscopy and Deep Learning," ACS Photonics 5(11), 4617–4627 (2018).
-3.  H. H. Lam, P. W. M. Tsang, and T.-C. Poon, "Ensemble convolutional neural network for classifying holograms of deformable objects," Opt. Express 27(23), 34050 (2019).
-4.  H. H. S. Lam, P. W. M. Tsang, and T.-C. Poon, "Hologram classification of occluded and deformable objects with speckle noise contamination by deep learning," J. Opt. Soc. Am. A 39(3), 411 (2022).
-5.  D. Terbe, L. Orzó, and Á. Zarándy, "Classification of Holograms with 3D-CNN," Sensors 22(21), 8366 (2022).
-6.  H. Lam, Y. Zhu, and P. Buranasiri, "Off-Axis Holographic Interferometer with Ensemble Deep Learning for Biological Tissues Identification," Applied Sciences 12(24), 12674 (2022).
+- T. Pitkäaho, A. Manninen, and T. J. Naughton  
+*[Temporal Deep Learning Classification of Digital Hologram Reconstructions of Multicellular Samples](https://doi.org/10.1364/TRANSLATIONAL.2018.JW3A.14)*  
+in Biophotonics Congress: Biomedical Optics Congress 2018 (Microscopy/Translational/Brain/OTS) (OSA, 2018), p. JW3A.14.
+- Y. Wu, A. Calis, Y. Luo, C. Chen, M. Lutton, Y. Rivenson, X. Lin, H. C. Koydemir, Y. Zhang, H. Wang, Z. Göröcs, and A. Ozcan  
+*[Label-Free Bioaerosol Sensing Using Mobile Microscopy and Deep Learning](https://doi.org/10.1021/acsphotonics.8b01109)*  
+ACS Photonics 5(11), 4617–4627 (2018).
+- H. H. Lam, P. W. M. Tsang, and T.-C. Poon  
+*[Ensemble convolutional neural network for classifying holograms of deformable objects](https://doi.org/10.1364/OE.27.034050)*  
+Opt. Express 27(23), 34050 (2019).
+- H. H. S. Lam, P. W. M. Tsang, and T.-C. Poon  
+*[Hologram classification of occluded and deformable objects with speckle noise contamination by deep learning](https://doi.org/10.1364/JOSAA.444648)*  
+J. Opt. Soc. Am. A 39(3), 411 (2022).
+- D. Terbe, L. Orzó, and Á. Zarándy  
+*[Classification of Holograms with 3D-CNN](https://doi.org/10.3390/s22218366)*  
+Sensors 22(21), 8366 (2022).
+- H. Lam, Y. Zhu, and P. Buranasiri   
+*[Off-Axis Holographic Interferometer with Ensemble Deep Learning for Biological Tissues Identification](https://doi.org/10.3390/app122412674)*  
+Applied Sciences 12(24), 12674 (2022).
 
 (via deep learning with multi-wavelength phase as input)
-1.  N. Singla and V. Srivastava, "Deep learning enabled multi-wavelength spatial coherence microscope for the classification of malaria-infected stages with limited labelled data size," Optics & Laser Technology 130, 106335 (2020).
-2.  Ç. Işıl, K. de Haan, Z. Göröcs, H. C. Koydemir, S. Peterman, D. Baum, F. Song, T. Skandakumar, E. Gumustekin, and A. Ozcan, "Phenotypic Analysis of Microalgae Populations Using Label-Free Imaging Flow Cytometry and Deep Learning," ACS Photonics 8(4), 1232–1242 (2021).
+- N. Singla and V. Srivastava  
+*[Deep learning enabled multi-wavelength spatial coherence microscope for the classification of malaria-infected stages with limited labelled data size](https://doi.org/10.1016/j.optlastec.2020.106335)*  
+Optics & Laser Technology 130, 106335 (2020).
+- Ç. Işıl, K. de Haan, Z. Göröcs, H. C. Koydemir, S. Peterman, D. Baum, F. Song, T. Skandakumar, E. Gumustekin, and A. Ozcan  
+*[Phenotypic Analysis of Microalgae Populations Using Label-Free Imaging Flow Cytometry and Deep Learning](https://doi.org/10.1021/acsphotonics.1c00220)*  
+ACS Photonics 8(4), 1232–1242 (2021).
 
 (via deep learning with multi-temporal-dimension phase as input)
-1.  H. Wang, H. Ceylan Koydemir, Y. Qiu, B. Bai, Y. Zhang, Y. Jin, S. Tok, E. C. Yilmaz, E. Gumustekin, Y. Rivenson, and A. Ozcan, "Early detection and classification of live bacteria using time-lapse coherent imaging and deep learning," Light Sci Appl 9(1), 118 (2020).
-2.  S. Ben Baruch, N. Rotman-Nativ, A. Baram, H. Greenspan, and N. T. Shaked, "Cancer-Cell Deep-Learning Classification by Integrating Quantitative-Phase Spatial and Temporal Fluctuations," Cells 10(12), 3353 (2021).
-3.  T. Liu, Y. Li, H. C. Koydemir, Y. Zhang, E. Yang, H. Wang, J. Li, B. Bai, and A. Ozcan, "Stain-free, rapid, and quantitative viral plaque assay using deep learning and holography," Preprint at https://doi.org/10.48550/arXiv.2207.00089 (2022).
-
+- H. Wang, H. Ceylan Koydemir, Y. Qiu, B. Bai, Y. Zhang, Y. Jin, S. Tok, E. C. Yilmaz, E. Gumustekin, Y. Rivenson, and A. Ozcan  
+*[Early detection and classification of live bacteria using time-lapse coherent imaging and deep learning](https://doi.org/10.1038/s41377-020-00358-9)*  
+Light Sci Appl 9(1), 118 (2020).
+- S. Ben Baruch, N. Rotman-Nativ, A. Baram, H. Greenspan, and N. T. Shaked  
+*[Cancer-Cell Deep-Learning Classification by Integrating Quantitative-Phase Spatial and Temporal Fluctuations](https://doi.org/10.3390/cells10123353)*  
+Cells 10(12), 3353 (2021).
+- T. Liu, Y. Li, H. C. Koydemir, Y. Zhang, E. Yang, H. Wang, J. Li, B. Bai, and A. Ozcan  
+*[Stain-free, rapid, and quantitative viral plaque assay using deep learning and holography](https://doi.org/10.48550/arXiv.2207.00089)*  
+Preprint at arXiv (2022).
 
 (via deep learning with 3D refractive index as input)
-1.  D. Ryu, J. Kim, D. Lim, H.-S. Min, I. Y. Yoo, D. Cho, and Y. Park, "Label-Free White Blood Cell Classification Using Refractive Index Tomography and Deep Learning," BME Front 2021, 2021/9893804 (2021).
-2.  G. Kim, D. Ahn, M. Kang, J. Park, D. Ryu, Y. Jo, J. Song, J. S. Ryu, G. Choi, H. J. Chung, K. Kim, D. R. Chung, I. Y. Yoo, H. J. Huh, H. Min, N. Y. Lee, and Y. Park, "Rapid species identification of pathogenic bacteria from a minute quantity exploiting three-dimensional quantitative phase imaging and artificial neural network," Light Sci Appl 11(1), 190 (2022).
+- D. Ryu, J. Kim, D. Lim, H.-S. Min, I. Y. Yoo, D. Cho, and Y. Park  
+*[Label-Free White Blood Cell Classification Using Refractive Index Tomography and Deep Learning](https://doi.org/10.34133/2021/9893804)*  
+BME Front 2021, 2021/9893804 (2021).
+- G. Kim, D. Ahn, M. Kang, J. Park, D. Ryu, Y. Jo, J. Song, J. S. Ryu, G. Choi, H. J. Chung, K. Kim, D. R. Chung, I. Y. Yoo, H. J. Huh, H. Min, N. Y. Lee, and Y. Park  
+*[Rapid species identification of pathogenic bacteria from a minute quantity exploiting three-dimensional quantitative phase imaging and artificial neural network](https://doi.org/10.1038/s41377-022-00881-x)*  
+Light Sci Appl 11(1), 190 (2022).
 
 (via deep learning with amplitude or hologram as input)
-1.  S.-J. Kim, C. Wang, B. Zhao, H. Im, J. Min, H. J. Choi, J. Tadros, N. R. Choi, C. M. Castro, R. Weissleder, H. Lee, and K. Lee, "Deep transfer learning-based hologram classification for molecular diagnostics," Sci Rep 8(1), 17003 (2018).
-2.  Y. Zhu, C. Hang Yeung, and E. Y. Lam, "Digital holographic imaging and classification of microplastics using deep transfer learning," Appl. Opt. 60(4), A38 (2021).
-3.  M. Delli Priscoli, P. Memmolo, G. Ciaparrone, V. Bianco, F. Merola, L. Miccio, F. Bardozzo, D. Pirone, M. Mugnano, F. Cimmino, M. Capasso, A. Iolascon, P. Ferraro, and R. Tagliaferri, "Neuroblastoma Cells Classification Through Learning Approaches by Direct Analysis of Digital Holograms," IEEE J. Select. Topics Quantum Electron. 27(5), 1–9 (2021).
-4.  Y. Zhu, C. Hang Yeung, and E. Y. Lam, "Microplastic pollution monitoring with holographic classification and deep learning," J. Phys. Photonics 3(2), 024013 (2021).
-5.  D. Chen, Z. Wang, K. Chen, Q. Zeng, L. Wang, X. Xu, J. Liang, and X. Chen, "Classification of unlabeled cells using lensless digital holographic images and deep neural networks," Quant Imaging Med Surg 11(9), 4137–4148 (2021).
-6.  L. MacNeil, S. Missan, J. Luo, T. Trappenberg, and J. LaRoche, "Plankton classification with high-throughput submersible holographic microscopy and transfer learning," BMC Ecol Evo 21(1), 123 (2021).
-7.  Y. Zhu, H. K. A. Lo, C. H. Yeung, and E. Y. Lam, "Microplastic pollution assessment with digital holography and zero-shot learning," APL Photonics 7(7), 076102 (2022).
+- S.-J. Kim, C. Wang, B. Zhao, H. Im, J. Min, H. J. Choi, J. Tadros, N. R. Choi, C. M. Castro, R. Weissleder, H. Lee, and K. Lee  
+*[Deep transfer learning-based hologram classification for molecular diagnostics](https://doi.org/10.1038/s41598-018-35274-x)*  
+Sci Rep 8(1), 17003 (2018).
+- Y. Zhu, C. Hang Yeung, and E. Y. Lam  
+*[Digital holographic imaging and classification of microplastics using deep transfer learning](https://doi.org/10.1364/AO.403366)*  
+Appl. Opt. 60(4), A38 (2021).
+- M. Delli Priscoli, P. Memmolo, G. Ciaparrone, V. Bianco, F. Merola, L. Miccio, F. Bardozzo, D. Pirone, M. Mugnano, F. Cimmino, M. Capasso, A. Iolascon, P. Ferraro, and R. Tagliaferri  
+*[Neuroblastoma Cells Classification Through Learning Approaches by Direct Analysis of Digital Holograms](https://doi.org/10.1109/JSTQE.2021.3059532)*  
+IEEE J. Select. Topics Quantum Electron. 27(5), 1–9 (2021).
+- Y. Zhu, C. Hang Yeung, and E. Y. Lam  
+*[Microplastic pollution monitoring with holographic classification and deep learning](https://doi.org/10.1088/2515-7647/abf250)*  
+J. Phys. Photonics 3(2), 024013 (2021).
+- D. Chen, Z. Wang, K. Chen, Q. Zeng, L. Wang, X. Xu, J. Liang, and X. Chen  
+*[Classification of unlabeled cells using lensless digital holographic images and deep neural networks](https://doi.org/10.21037/qims-21-16)*  
+Quant Imaging Med Surg 11(9), 4137–4148 (2021).
+- L. MacNeil, S. Missan, J. Luo, T. Trappenberg, and J. LaRoche  
+*[Plankton classification with high-throughput submersible holographic microscopy and transfer learning](https://doi.org/10.1186/s12862-021-01839-0)*  
+BMC Ecol Evo 21(1), 123 (2021).
+- Y. Zhu, H. K. A. Lo, C. H. Yeung, and E. Y. Lam  
+*[Microplastic pollution assessment with digital holography and zero-shot learningt](https://doi.org/10.1063/5.0093439)*  
+APL Photonics 7(7), 076102 (2022).
 
 <a name="DLppIMTRpapers"></a>
 #### Imaging modal transformation
 (Phase to bright-field or stained bright-field images)
-1.  Y. Wu, Y. Luo, G. Chaudhari, Y. Rivenson, A. Calis, K. de Haan, and A. Ozcan, "Bright-field holography: cross-modality deep learning enables snapshot 3D imaging with bright-field contrast using a single hologram," Light Sci Appl 8(1), 25 (2019).
-2.  T. Liu, Z. Wei, Y. Rivenson, K. Haan, Y. Zhang, Y. Wu, and A. Ozcan, "Deep learning‐based color holographic microscopy," J. Biophotonics 12(11), e201900107 (2019).
-3.  Y. Rivenson, T. Liu, Z. Wei, Y. Zhang, K. de Haan, and A. Ozcan, "PhaseStain: the digital staining of label-free quantitative phase microscopy images using deep learning," Light Sci Appl 8(1), 23 (2019).
-4.  Y. N. Nygate, M. Levi, S. K. Mirsky, N. A. Turko, M. Rubin, I. Barnea, G. Dardikman-Yoffe, M. Haifler, A. Shalev, and N. T. Shaked, "Holographic virtual staining of individual biological cells," Proc. Natl. Acad. Sci. U.S.A. 117(17), 9223–9231 (2020).
-5.  R. Wang, P. Song, S. Jiang, C. Yan, J. Zhu, C. Guo, Z. Bian, T. Wang, and G. Zheng, "Virtual brightfield and fluorescence staining for Fourier ptychography via unsupervised deep learning," Opt. Lett. 45(19), 5405 (2020).
-6.  D. Terbe, L. Orzó, and Á. Zarándy, "Deep-learning-based bright-field image generation from a single hologram using an unpaired dataset," Opt. Lett. 46(22), 5567 (2021).
+- Y. Wu, Y. Luo, G. Chaudhari, Y. Rivenson, A. Calis, K. de Haan, and A. Ozcan  
+*[Bright-field holography: cross-modality deep learning enables snapshot 3D imaging with bright-field contrast using a single hologram](https://doi.org/10.1038/s41377-019-0139-9)*  
+Light Sci Appl 8(1), 25 (2019).
+- T. Liu, Z. Wei, Y. Rivenson, K. Haan, Y. Zhang, Y. Wu, and A. Ozcan  
+*[Deep learning‐based color holographic microscopy](https://doi.org/10.1002/jbio.201900107)*  
+J. Biophotonics 12(11), e201900107 (2019).
+- Y. Rivenson, T. Liu, Z. Wei, Y. Zhang, K. de Haan, and A. Ozcan  
+*[PhaseStain: the digital staining of label-free quantitative phase microscopy images using deep learning](https://doi.org/10.1038/s41377-019-0129-y)*  
+Light Sci Appl 8(1), 23 (2019).
+- Y. N. Nygate, M. Levi, S. K. Mirsky, N. A. Turko, M. Rubin, I. Barnea, G. Dardikman-Yoffe, M. Haifler, A. Shalev, and N. T. Shaked  
+*[Holographic virtual staining of individual biological cells](https://doi.org/10.1073/pnas.1919569117)*  
+Proc. Natl. Acad. Sci. U.S.A. 117(17), 9223–9231 (2020).
+- R. Wang, P. Song, S. Jiang, C. Yan, J. Zhu, C. Guo, Z. Bian, T. Wang, and G. Zheng  
+*[Virtual brightfield and fluorescence staining for Fourier ptychography via unsupervised deep learning](https://doi.org/10.1364/OL.400244)*  
+Opt. Lett. 45(19), 5405 (2020).
+- D. Terbe, L. Orzó, and Á. Zarándy  
+*[Deep-learning-based bright-field image generation from a single hologram using an unpaired dataset](https://doi.org/10.1364/OL.440900)*
+Opt. Lett. 46(22), 5567 (2021).
 
 (Phase to fluorescence images)
-1.  S.-M. Guo, L.-H. Yeh, J. Folkesson, I. E. Ivanov, A. P. Krishnan, M. G. Keefe, E. Hashemi, D. Shin, B. B. Chhun, N. H. Cho, M. D. Leonetti, M. H. Han, T. J. Nowakowski, and S. B. Mehta, "Revealing architectural order with quantitative label-free imaging and deep learning," eLife 9, e55502 (2020).
-2.  M. E. Kandel, Y. R. He, Y. J. Lee, T. H.-Y. Chen, K. M. Sullivan, O. Aydin, M. T. A. Saif, H. Kong, N. Sobh, and G. Popescu, "Phase imaging with computational specificity (PICS) for measuring dry mass changes in sub-cellular compartments," Nat Commun 11(1), 6256 (2020).
-3.  M. E. Kandel, E. Kim, Y. J. Lee, G. Tracy, H. J. Chung, and G. Popescu, "Multiscale Assay of Unlabeled Neurite Dynamics Using Phase Imaging with Computational Specificity," ACS Sens. 6(5), 1864–1874 (2021).
-4.  S. Guo, Y. Ma, Y. Pan, Z. J. Smith, and K. Chu, "Organelle-specific phase contrast microscopy enables gentle monitoring and analysis of mitochondrial network dynamics," Biomed. Opt. Express 12(7), 4363 (2021).
-5.  X. Chen, M. E. Kandel, S. He, C. Hu, Y. J. Lee, K. Sullivan, G. Tracy, H. J. Chung, H. J. Kong, M. Anastasio, and G. Popescu, "Artificial confocal microscopy for deep label-free imaging," Preprint at https://doi.org/10.48550/arXiv.2110.14823 (2021).
-6.  X. Chen, M. E. Kandel, S. He, C. Hu, Y. J. Lee, K. Sullivan, G. Tracy, H. J. Chung, H. J. Kong, M. Anastasio, and G. Popescu, "Artificial confocal microscopy for deep label-free imaging," Nat. Photon. 17(3), 250–258 (2023).
+- S.-M. Guo, L.-H. Yeh, J. Folkesson, I. E. Ivanov, A. P. Krishnan, M. G. Keefe, E. Hashemi, D. Shin, B. B. Chhun, N. H. Cho, M. D. Leonetti, M. H. Han, T. J. Nowakowski, and S. B. Mehta  
+*[Revealing architectural order with quantitative label-free imaging and deep learning](https://doi.org/10.7554/eLife.55502)*  
+eLife 9, e55502 (2020).
+- M. E. Kandel, Y. R. He, Y. J. Lee, T. H.-Y. Chen, K. M. Sullivan, O. Aydin, M. T. A. Saif, H. Kong, N. Sobh, and G. Popescu  
+*[Phase imaging with computational specificity (PICS) for measuring dry mass changes in sub-cellular compartments](https://doi.org/10.1038/s41467-020-20062-x)*  
+Nat Commun 11(1), 6256 (2020).
+- M. E. Kandel, E. Kim, Y. J. Lee, G. Tracy, H. J. Chung, and G. Popescu  
+*[Multiscale Assay of Unlabeled Neurite Dynamics Using Phase Imaging with Computational Specificity](https://doi.org/10.1021/acssensors.1c00100)*  
+ACS Sens. 6(5), 1864–1874 (2021).
+- S. Guo, Y. Ma, Y. Pan, Z. J. Smith, and K. Chu  
+*[Organelle-specific phase contrast microscopy enables gentle monitoring and analysis of mitochondrial network dynamics](https://doi.org/10.1364/BOE.425848)*  
+Biomed. Opt. Express 12(7), 4363 (2021).
+- X. Chen, M. E. Kandel, S. He, C. Hu, Y. J. Lee, K. Sullivan, G. Tracy, H. J. Chung, H. J. Kong, M. Anastasio, and G. Popescu  
+*[Artificial confocal microscopy for deep label-free imaging](https://doi.org/10.48550/arXiv.2110.14823)*  
+Preprint at /arXiv (2021).
+- X. Chen, M. E. Kandel, S. He, C. Hu, Y. J. Lee, K. Sullivan, G. Tracy, H. J. Chung, H. J. Kong, M. Anastasio, and G. Popescu  
+*[Artificial confocal microscopy for deep label-free imaging](https://doi.org/10.1038/s41566-022-01140-6)*  
+Nat. Photon. 17(3), 250–258 (2023).
 
 (3D refractive index to fluorescence images)
-1.  Y. Jo, "Label-free multiplexed microtomography of endogenous subcellular dynamics using generalizable deep learning," Nature Cell Biology 23(12), 1329–1337 (2021).
+- Y. Jo, H. Cho, W. S. Park, G. Kim, D. Ryu, Y. S. Kim, M. Lee, S. Park, M. J. Lee, H. Joo, H. Jo, S. Lee, S. Lee, H. Min, W. D. Heo, and Y. Park  
+*[Label-free multiplexed microtomography of endogenous subcellular dynamics using generalizable deep learning](https://doi.org/10.1038/s41556-021-00802-x)*  
+Nat Cell Biol 23(12), 1329–1337 (2021).
 
 ****
 <a name="papers"></a>
