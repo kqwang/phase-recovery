@@ -20,6 +20,12 @@ optimization-based approaches (phase retrieval), deep-learning(DL)-based approac
      - [Transport of intensity equation](#TIERpapers)
      - [Wavefront-sensing-based approaches](#WSRpapers)
      - [Optimization-based approaches](#OPRpapers)
+       - [Alternating projection](#OPapRpapers)
+       - [Axial multi-intensity alternating projection](#OPaxmapRpapers)
+       - [Radial multi-intensity alternating projection](#OPrmapRpapers)
+       - [Angular multi-intensity alternating projection](#OPanmapRpapers)
+       - [Non-convex optimization](#OPncRpapers)
+       - [Convex optimization](#OPcRpapers)
    - [Deep-learning(DL)-based phase acquisition ](#DLRpapers)
      - [DL-pre-processing for phase acquisition](#DLpreRpapers)
        - [Super-resolution](#DLpreSRRpapers)
@@ -377,6 +383,8 @@ Opt. Express 17(15), 13080 (2009).
 
 <a name="ORpapers"></a>
 ### Optimization-based approaches
+
+<a name="OPapRpapers"></a>
 #### Alternating projection
 - R. W. Gerchberg  
 *[A practical algorithm for determination of phase from image and diffraction plane pictures](https://www.scinapse.io/papers/1484412996)*  
@@ -388,6 +396,7 @@ Opt. Lett. 3(1), 27 (1978).
 *[Phase retrieval algorithms: a comparison](https://doi.org/10.1364/AO.21.002758)*  
 Appl. Opt. 21(15), 2758 (1982).
 
+<a name="OPaxmapRpapers"></a>
 #### Axial multi-intensity alternating projection
 - L. J. Allen and M. P. Oxley  
 *[Phase retrieval from series of images obtained by defocus variation](https://doi.org/10.1364/10.1016/S0030-4018(01)01556-5)*  
@@ -399,6 +408,7 @@ Opt. Lett. 30(8), 833 (2005).
 *[Maskless imaging of dense samples using pixel super-resolution based multi-height lensfree on-chip microscopy](https://doi.org/10.1364/OE.20.003129)*  
 Opt. Express 20(3), 3129 (2012).
 
+<a name="OPrmapRpapers"></a>
 #### Radial multi-intensity alternating projection (Ptychographic iterative engine, PIE)
 - H. M. L. Faulkner and J. M. Rodenburg  
 *[Movable Aperture Lensless Transmission Microscopy: A Novel Phase Retrieval Algorithm](https://doi.org/10.1103/PhysRevLett.93.023903)*  
@@ -407,6 +417,7 @@ Phys. Rev. Lett. 93(2), 023903 (2004).
 *[A phase retrieval algorithm for shifting illumination](https://doi.org/10.1063/1.1823034)*  
 Appl. Phys. Lett. 85(20), 4795–4797 (2004).
 
+<a name="OPanmapRpapers"></a>
 #### Angular multi-intensity alternating projection (Fourier ptychography, FP)
 - G. Zheng, R. Horstmeyer, and C. Yang  
 *[Wide-field, high-resolution Fourier ptychographic microscopy](https://doi.org/10.1038/nphoton.2013.187)*  
@@ -415,6 +426,7 @@ Nature Photon 7(9), 739–745 (2013).
 *[Quantitative phase imaging via Fourier ptychographic microscopy](https://doi.org/10.1364/OL.38.004845)*  
 Opt. Lett. 38(22), 4845 (2013).
 
+<a name="OPncRpapers"></a>
 #### Non-convex optimization
 - E. J. Candes, X. Li, and M. Soltanolkotabi  
 *[Phase Retrieval via Wirtinger Flow: Theory and Algorithms](https://doi.org/10.1109/TIT.2015.2399924)*  
@@ -422,7 +434,8 @@ IEEE Trans. Inform. Theory 61(4), 1985–2007 (2015).
 - G. Wang, G. B. Giannakis, and Y. C. Eldar  
 *[Solving Systems of Random Quadratic Equations via Truncated Amplitude Flow](https://doi.org/10.1109/TIT.2017.2756858)*  
 IEEE Trans. Inform. Theory 64(2), 773–794 (2018).
- 
+
+<a name="OPcRpapers"></a>
 #### Convex optimization
 - E. J. Candès, T. Strohmer, and V. Voroninski  
 *[PhaseLift: Exact and Stable Signal Recovery from Magnitude Measurements via Convex Programming](https://doi.org/10.1002/cpa.21432)*  
