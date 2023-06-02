@@ -27,11 +27,11 @@ optimization-based approaches (phase retrieval), deep-learning(DL)-based approac
        - [Hologram generation](#DLpreHGRpapers)
        - [Autofocusing](#DLpreAFRpapers)
      - [DL-in-processing for phase acquisition](#DLinRpapers)
-       - [Dataset-driven network-only strategy](#DLinDDnoRpapers)
-       - [Physics-model-driven network-only strategy](#DLinPDnoRpapers)
-       - [Physics-model-connect-network strategy](#DLinPcNRpapers)
-       - [Network-in-physics-model strategy](#DLinNiPRpapers)
-       - [Physics-model-in-network strategy](#DLinPiNRpapers)
+       - [Dataset-driven (DD) network-only strategy](#DLinDDnoRpapers)
+       - [Physics-model-driven (PD) network-only strategy](#DLinPDnoRpapers)
+       - [Physics-model-connect-network (PcN) strategy](#DLinPcNRpapers)
+       - [Network-in-physics-model (NiP) strategy](#DLinNiPRpapers)
+       - [Physics-model-in-network (PiN) strategy](#DLinPiNRpapers)
      - [DL-post-processing for phase acquisition](#DLpostRpapers)
        - [Noise reduction](#DLpostNRRpapers)
        - [Resolution enhancement](#DLpostRERpapers)
@@ -555,7 +555,7 @@ Opt. Express 30(14), 24730 (2022).
 <a name="DLinRpapers"></a>
 ### DL-in-processing for phase acquisition
 <a name="DLinDDnoRpapers"></a>
-#### Dataset-driven network-only strategy  
+#### Dataset-driven (DD) network-only strategy  
 - A. Sinha, J. Lee, S. Li, and G. Barbastathis   
 *[Lensless computational imaging through deep learning](https://doi.org/10.1364/OPTICA.4.001117)*  
 Optica 4(9), 1117 (2017).
@@ -703,7 +703,7 @@ Front Inform Technol Electron Eng 22(10), 1277–1288 (2021).
 PhotoniX 2(1), 8 (2021).
 
 <a name="DLinPDnoRpapers"></a>
-#### Physics-model-driven network-only strategy 
+#### Physics-model-driven (PD) network-only strategy 
 (with untrained/initialized networks)
 - L. Boominathan, M. Maniparambil, H. Gupta, R. Baburajan, and K. Mitra   
 *[Phase retrieval for Fourier Ptychography under varying amount of measurements](https://doi.org/10.48550/arXiv.1805.03593)*  
@@ -743,7 +743,7 @@ Preprint at arXiv (2023).
 
 
 <a name="DLinPcNRpapers"></a>
-#### Physics-model-connect-network strategy 
+#### Physics-model-connect-network (PcN) strategy 
 - Y. Rivenson, Y. Zhang, H. Günaydın, D. Teng, and A. Ozcan    
 *[Phase recovery and holographic image reconstruction using deep learning in neural networks](https://doi.org/)*  
 Light Sci Appl 7(2), 17141 (2018).
@@ -767,12 +767,12 @@ Opt. Express 28(15), 21578 (2020).
 - I. Moon, K. Jaferzadeh, Y. Kim, and B. Javidi    
 *[Noise-free quantitative phase imaging in Gabor holography with conditional generative adversarial network](https://doi.org/)*  
 Opt. Express 28(18), 26284 (2020).
-- [Huang et al., ACS Photonics 2021](#Huang21acsp), 
+- [Huang et al., ACS Photonics 2021](#Huang21acsp),   
 *Holographic Image Reconstruction with Phase Recovery and Autofocusing Using Recurrent Neural Networks*
 
 
 <a name="DLinNiPRpapers"></a>
-#### Network-in-physics-model strategy 
+#### Network-in-physics-model (NiP) strategy 
 (trained networks as denoiser regularization)
 - C. A. Metzler, P. Schniter, A. Veeraraghavan, and R. G. Baraniuk    
 *[prDeep: Robust Phase Retrieval with a Flexible Deep Network](http://arxiv.org/abs/1803.00212)*  
@@ -795,7 +795,7 @@ eLight 1(1), 4 (2021).
 - S. Kumar    
 *[Phase retrieval with physics informed zero-shot network](https://doi.org/10.1364/OL.433625)*  
 Opt. Lett. 46(23), 5942 (2021).
-- 
+
 (untrained networks as structural-priori regularization)
 - G. Jagatap and C. Hegde    
 *[Phase Retrieval using Untrained Neural Network Priors](https://doi.org/)*  
@@ -846,7 +846,7 @@ IEEE Sensors J. 21(2), 2286–2298 (2021).
 Preprint at arXiv (2022).
 
 <a name="DLinPiNRpapers"></a>
-#### Physics-model-in-network strategy 
+#### Physics-model-in-network (PiN) strategy 
 - C.-J. Wang, C.-K. Wen, S.-H. Tsai, and S. Jin    
 *[Phase Retrieval With Learning Unfolded Expectation Consistent Signal Recovery Algorithm](https://doi.org/10.1109/LSP.2020.2990767)*  
 IEEE Signal Process. Lett. 27, 780–784 (2020).
