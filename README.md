@@ -300,7 +300,7 @@ Keywords: phase imaging and holography etc.
 
 - [Tomas Ekeberg](https://scholar.google.com/citations?user=VCuDPJMAAAAJ)(Uppsala University)
 Keywords: phase retrieval and coherent diffractive imaging etc.
-- 
+
 - [Pietro Ferraro](https://www.isasi.cnr.it/profile/pietro.ferraro/)(CNR-ISASI)  
 Keywords: holography etc.
 
