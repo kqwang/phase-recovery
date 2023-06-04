@@ -235,10 +235,13 @@ Keywords: phase retrieval, inverse problem and computational imaging etc.
 - [Jianwei (John) Miao ](https://www.physics.ucla.edu/research/imaging/)(University of California, Los Angeles)  
 Keywords: coherent diffractive imaging and atomic electron tomography etc.
 
+- [David Nolte](http://www.physics.purdue.edu/nlo/)(Purdue University)
+Keywords: interferometry and Holography etc.
+
 - [Aydogan Ozcan ](https://research.seas.ucla.edu/ozcan/)(University of California, Los Angeles)  
 Keywords: phase imaging, holography, lensless imaging and optical diffraction neural network etc.
 
-- [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/home/)(Virginia Polytechnic Institute and State University)  
+- [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/)(Virginia Polytechnic Institute and State University)  
 Keywords: holography etc.
 
 - [Gabriel Popescu ](https://light.ece.illinois.edu/)(University of Illinois at Urbana-Champaign)  
@@ -328,7 +331,13 @@ Keywords: phase retrieval and inverse problem etc.
 - [Filipe R N C Maia](http://lmb.icm.uu.se/)(Uppsala University)  
 Keywords: phase retrieval and coherent diffractive imaging etc.
 
+- [Pierre Marquet](http://www.labrnp.ca/)(Université Laval)  
+Keywords: holography (holographic microscopy) etc.
+
 - [Pasquale Memmolo](https://www.isasi.cnr.it/profile/pasquale.memmolo/)(CNR-ISASI)  
+Keywords: holography etc.
+
+- [Thomas J. Naughton](https://www.cs.nuim.ie/~tomn/)(National University of Ireland, Maynooth)  
 Keywords: holography etc.
 
 - [Figen S. Oktem](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)  
@@ -339,6 +348,12 @@ Keywords: holography, imaging through scattering media, and linear and non-linea
 
 - [Pascal Picart ](http://perso.univ-lemans.fr/~ppicart/rech/perso/BooksPP.html)(Le Mans University)  
 Keywords: holography and phase imaging etc.
+
+- [Benjamin Rappaz](https://scholar.google.com/citations?user=qlzmb34AAAAJ)(EPFL)  
+Keywords: holography (holographic microscopy) etc.
+
+- [Juergen Schnekenburger](http://www.biomed-tech.de/)(Muenster University)  
+Keywords: holography etc.
 
 - [Latychevskaia Tatiana ](https://coherentimaging.wordpress.com/)(University of Zurich)  
 Keywords: holography, phase retrieval and coherent diffractive imaging etc.
