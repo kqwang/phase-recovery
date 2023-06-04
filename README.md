@@ -2,7 +2,7 @@
 Here, we refer to the process of *“calculating the wavefront phase from 
 the amplitude/intensity measurement of the light field”* as phase acquisition (PA). 
 PA contains many techniques and algorithms, such as holography/interferometry, 
-transfer of intensity equations (TIE), wavefront-sensing-based approaches, 
+transport of intensity equation (TIE), wavefront-sensing-based approaches, 
 phase retrieval (optimization-based approaches), deep-learning(DL)-based approaches.
 ****
 ## Table of Contents:
@@ -81,13 +81,13 @@ This project exists thanks to all the people who contribute.
 (In alphabetical order according to surnames) 
 (Quick search by "Ctrl + F" with keywords:  
 phase imaging, holography, interferometry, phase retrieval, Fourier ptychography, inverse problem, 
-transport of intensity equations, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
+transport of intensity equation, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
 coherent diffraction imaging, computational imaging)
 
 <a name="groups-Asia"></a>
 ## Asia
 - [Anand Asundi ](https://www.doptron.com/)(d'Optron Pte Ltd)   
-Keywords: phase imaging, holography, and transport of intensity equations (TIE) etc.
+Keywords: phase imaging, holography, and transport of intensity equation (TIE) etc.
 
 - [Liheng Bian ](https://bianlab.github.io/)(Beijing Institute of Technology)  
 Keywords: multi-dimensional imaging (spectrum, phase) etc.
@@ -164,6 +164,9 @@ Keywords: interferometry, wavefront sensing, and biomedical imaging etc.
 - [Tomoyoshi Shimobaba](https://sites.google.com/site/tshimobaba/)(Chiba University)
 Keywords: holography and phase retrieval etc.
 
+- [Yoav Shechtman](https://www.clever-microscopy.com/)(Israel Institute of Technology)
+Keywords: phase retrieval etc.
+
 - [Guohai Situ ](https://people.ucas.edu.cn/~situ)(University of Chinese Academy of Sciences)  
 Keywords: phase imaging, holography, and computational imaging etc.
 
@@ -186,7 +189,7 @@ Keywords: holography and computational imaging etc.
 Keywords: phase imaging and biomedical imaging etc.
 
 - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology)  
-Keywords: transport of intensity equations (TIE), phase imaging and computational imaging etc.
+Keywords: transport of intensity equation (TIE), phase imaging and computational imaging etc.
 
 <a name="groups-Americas"></a>
 ## Americas
@@ -247,14 +250,20 @@ Keywords: fringe analysis phase retrieval and phase unwrapping etc.
 - [Ian Robinson](http://www.ucl.ac.uk/~ucapikr/)(Brookhaven National Laboratory)  
 Keywords: phase retrieval and coherent diffraction imaging etc.
 
-- [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
-Keywords: inverse problem and phase retrieval etc.
+-[Sujay Sanghavi](http://users.ece.utexas.edu/~sanghavi)(University of Texas, Austin)
+Keywords: phase retrieval etc.
 
 - [Philip Schniter](http://www2.ece.ohio-state.edu/~schniter/)(The Ohio State University)  
 Keywords: inverse problem and phase retrieval etc.
 
+- [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/)(University of Southern California)
+Keywords: phase retrieval and computational imaging etc.
+
+- [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
+Keywords: inverse problem and phase retrieval etc.
+
 - [Lei Tian ](https://sites.bu.edu/tianlab/)(Boston University)  
-Keywords: Fourier ptychography, transport of intensity equations (TIE), and imaging through scattering media etc.
+Keywords: Fourier ptychography, transport of intensity equation (TIE), and imaging through scattering media etc.
 
 - [Carlos Alejandro Trujillo](https://www.eafit.edu.co/docentes-investigadores/Paginas/carlos-alejandro-trujillo-anaya.aspx)(EAFIT University)  
 Keywords: holography and phase imaging etc.
@@ -266,7 +275,7 @@ Keywords: wavefront sensing, imaging through scattering media, and lensless imag
 Keywords: wavefront sensing, adaptive optics interferometry and holography etc.
 
 - [Laura Waller ](https://www.laurawaller.com/)(University of California, Berkeley)  
-Keywords: phase imaging, lensless imaging, and transport of intensity equations (TIE) etc.
+Keywords: phase imaging, lensless imaging, and transport of intensity equation (TIE) etc.
 
 - [Adam P. Wax ](http://bios.bme.duke.edu/)(Duke University)  
 Keywords: interferometry and biomedical imaging etc.
@@ -334,7 +343,7 @@ Keywords: holography and phase imaging etc.
 Keywords: holography, phase retrieval and coherent diffractive imaging etc.
 
 - [Michael Unser ](http://bigwww.epfl.ch/)(EPFL)  
-Keywords: phase retrieval, phase unwrapping, transport of intensity equations (TIE) and biomedical imaging etc.
+Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE) and biomedical imaging etc.
 
 <a name="groups-Oceania"></a> 
 ## Oceania
