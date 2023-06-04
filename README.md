@@ -296,10 +296,16 @@ Keywords: Fourier ptychography etc.
 ## Europe
 
 - [Martin Booth](https://eng.ox.ac.uk/dop/)(University of Oxford)  
-Keywords: wavefront sensing and adaptive optics etc. 
+Keywords: wavefront sensing and adaptive optics etc.
 
 - [Radim Chmelik ](https://www.vut.cz/en/people/radim-chmelik-2190)(Brno University of Technology)  
 Keywords: phase imaging and holography etc.
+
+- [Juergen Czarske](http://www.lasermetrology.de/)(Dresden University of Technology)  
+Keywords: holography and phase imaging etc.
+
+- [Loïc Denis](http://perso.univ-st-etienne.fr/deniloic/)(Université Jean Monnet)  
+Keywords: holography, phase retrieval, and wavefront sensing etc.
 
 - [Tomas Ekeberg](https://scholar.google.com/citations?user=VCuDPJMAAAAJ)(Uppsala University)  
 Keywords: phase retrieval and coherent diffractive imaging etc.
