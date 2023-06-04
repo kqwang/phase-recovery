@@ -119,9 +119,6 @@ Keywords: wavefront sensing, holography and computational imaging etc.
 - [Wolfgang Heidrich](https://vccimaging.org/)(King Abdullah University of Science and Technology)  
 Keywords: wavefront sensing, phase imaging and computational imaging etc.
 
-- [Cuifang Kuang ](https://person.zju.edu.cn/en/cfkuang)(Zhejiang University)  
-Keywords: three-dimensional super-resolution phase microscopy and super-resolution imaging etc.
-
 - [Edmund Y. Lam ](https://www.eee.hku.hk/~elam/)(The University of Hong Kong)  
 Keywords: phase retrieval, holography and computational imaging etc.
 
@@ -288,6 +285,9 @@ Keywords: synthetic wavelength holography and interferometry etc.
 
 - [Changhuei Yang ](https://biophot.caltech.edu/)(California Institute of Technology)  
 Keywords: Fourier ptychography, wavefront shaping and non-line-of-sight imaging etc.
+
+- [Zahid Yaqoob](https://scholar.google.com/citations?user=yOVcfLgAAAAJ)(Massachusetts Institute of Technology)  
+Keywords: phase imaging etc.
 
 - [Guoan Zheng ](https://smartimaging.uconn.edu/)(University of Connecticut)  
 Keywords: Fourier ptychography etc.
