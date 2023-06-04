@@ -1,9 +1,9 @@
 # Resources for phase acquisition
-Here, we refer to the process of “calculating the wavefront phase from 
-the amplitude/intensity measurement of the light field” as phase acquisition (PA). 
+Here, we refer to the process of *“calculating the wavefront phase from 
+the amplitude/intensity measurement of the light field”* as phase acquisition (PA). 
 PA contains many techniques and algorithms, such as holography/interferometry, 
 transfer of intensity equations (TIE), wavefront-sensing-based approaches, 
-optimization-based approaches (phase retrieval), deep-learning(DL)-based approaches.
+phase retrieval (optimization-based approaches), deep-learning(DL)-based approaches.
 ****
 ## Table of Contents:
 
@@ -836,7 +836,7 @@ eLight 1(1), 4 (2021).
 *[Phase retrieval with physics informed zero-shot network](https://doi.org/10.1364/OL.433625)*  
 Opt. Lett. 46(23), 5942 (2021).
 
-(untrained networks as structural-priori regularization)
+(untrained networks as structural-prior regularization)
 - G. Jagatap and C. Hegde    
 *[Phase Retrieval using Untrained Neural Network Priors](https://doi.org/)*  
 in NeurIPS 2019 Workshop on Solving Inverse Problems with Deep Networks (2019).
@@ -865,7 +865,7 @@ Preprint at arXiv (2022)
 *[Fourier ptychographic microscopy with untrained deep neural network priors](https://doi.org/)*  
 Opt. Express 30(22), 39597 (2022).
 
-(trained networks as generative-priori regularization)
+(trained networks as generative-prior regularization)
 - P. Hand, O. Leong, and V. Voroninski    
 *[Phase Retrieval Under a Generative Prior](https://doi.org/10.48550/arXiv.1807.04261)*  
 in Advances in Neural Information Processing Systems 31 (2018).
