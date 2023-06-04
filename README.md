@@ -70,9 +70,11 @@ Please use the following guidelines:
 ### Contributors  
 This project exists thanks to all the people who contribute.  
 
-<a href="https://github.com/kqwang/Phase_unwrapping_by_U-Net/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kqwang/Phase_unwrapping_by_U-Net" />
-</a>
+[//]: # (<a href="https://github.com/kqwang/Phase_unwrapping_by_U-Net/graphs/contributors">)
+
+[//]: # (  <img src="https://contrib.rocks/image?repo=kqwang/Phase_unwrapping_by_U-Net" />)
+
+[//]: # (</a>)
 
  
 ****
