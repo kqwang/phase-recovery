@@ -137,7 +137,7 @@ Keywords: phase imaging etc.
 Keywords: phase imaging and holograohy etc. 
 
 - [Inkyu Moon](https://iivs.dgist.ac.kr/)(Daegu Gyeongbuk Institute of Science and Technology)  
-Keywords: holograohy in cell imaging and analysis etc.
+Keywords: holograohy (in cell imaging and analysis) etc.
 
 - [An Pan ](https://www.sites.google.com/site/dranpanblog/)(Chinese Academy of Sciences)  
 Keywords: Fourier ptychography and biomedical imaging etc.
@@ -235,10 +235,10 @@ Keywords: phase retrieval, inverse problem and computational imaging etc.
 Keywords: coherent diffractive imaging and atomic electron tomography etc.
 
 - [David Nolte](http://www.physics.purdue.edu/nlo/)(Purdue University)
-Keywords: interferometry and Holography etc.
+Keywords: interferometry and holography etc.
 
 - [Aydogan Ozcan ](https://research.seas.ucla.edu/ozcan/)(University of California, Los Angeles)  
-Keywords: phase imaging, holography, lensless imaging and optical diffraction neural network etc.
+Keywords: phase imaging, holography and lensless imaging etc.
 
 - [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/)(Virginia Polytechnic Institute and State University)  
 Keywords: holography etc.
@@ -265,7 +265,7 @@ Keywords: phase retrieval and computational imaging etc.
 Keywords: inverse problem and phase retrieval etc.
 
 - [Lei Tian ](https://sites.bu.edu/tianlab/)(Boston University)  
-Keywords: Fourier ptychography, transport of intensity equation (TIE), and imaging through scattering media etc.
+Keywords: Fourier ptychography, transport of intensity equation (TIE) and computational imaging etc.
 
 - [Carlos Alejandro Trujillo](https://www.eafit.edu.co/docentes-investigadores/Paginas/carlos-alejandro-trujillo-anaya.aspx)(EAFIT University)  
 Keywords: holography and phase imaging etc.
