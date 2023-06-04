@@ -256,7 +256,7 @@ Keywords: phase retrieval etc.
 - [Philip Schniter](http://www2.ece.ohio-state.edu/~schniter/)(The Ohio State University)  
 Keywords: inverse problem and phase retrieval etc.
 
-- [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/)(University of Southern California)
+- [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/)(University of Southern California)  
 Keywords: phase retrieval and computational imaging etc.
 
 - [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
@@ -271,7 +271,7 @@ Keywords: holography and phase imaging etc.
 - [Ashok Veeraraghavan ](https://www.computationalimaging.org/)(Rice University)  
 Keywords: wavefront sensing, imaging through scattering media, and lensless imaging etc.
 
-- [Kent Wallace](https://scholar.google.com/citations?user=A7e_BKMAAAAJ)(Jet Propulsion Laboratory)
+- [Kent Wallace](https://scholar.google.com/citations?user=A7e_BKMAAAAJ)(Jet Propulsion Laboratory)  
 Keywords: wavefront sensing, adaptive optics interferometry and holography etc.
 
 - [Laura Waller ](https://www.laurawaller.com/)(University of California, Berkeley)  
@@ -292,14 +292,15 @@ Keywords: Fourier ptychography etc.
 <a name="groups-Europe"></a>
 ## Europe
 
-- [Martin Booth](https://eng.ox.ac.uk/dop/)(University of Oxford)
+- [Martin Booth](https://eng.ox.ac.uk/dop/)(University of Oxford)  
 Keywords: wavefront sensing and adaptive optics etc. 
 
 - [Radim Chmelik ](https://www.vut.cz/en/people/radim-chmelik-2190)(Brno University of Technology)  
 Keywords: phase imaging and holography etc.
 
--[Tomas Ekeberg](https://scholar.google.com/citations?user=VCuDPJMAAAAJ)(Uppsala University)
+- [Tomas Ekeberg](https://scholar.google.com/citations?user=VCuDPJMAAAAJ)(Uppsala University)
 Keywords: phase retrieval and coherent diffractive imaging etc.
+- 
 - [Pietro Ferraro](https://www.isasi.cnr.it/profile/pietro.ferraro/)(CNR-ISASI)  
 Keywords: holography etc.
 
@@ -309,7 +310,7 @@ Keywords: electron holography etc.
 - [Thierry Fusco](https://anr-wolf.com/index.php/falling-stars/biographies/thierry-fusco/)(ONERA)
 Keywords: wavefront sensing and adaptive optics etc.
 
-- [Manuel Guizar-Sicairos](https://sites.google.com/site/mguizar/)(EPFL)
+- [Manuel Guizar-Sicairos](https://sites.google.com/site/mguizar/)(EPFL)  
 Keywords: phase retrieval, coherent diffractive imaging and holography etc.
 
 - [Stefan Harmeling](https://www.cs.tu-dortmund.de/nps/de/Home/Personen/H/Harmeling__Stefan.html)(Technische Universität Dortmund)  
@@ -318,19 +319,19 @@ Keywords: phase retrieval etc.
 - [Maxime Jacquot](https://www.femto-st.fr/en/femto-people/maximejacquot)(Université Bourgogne Franche-Comté)  
 Keywords: holography etc.
 
-- [Aykut Koc](http://aykutkoclab.ee.bilkent.edu.tr/)(Bilkent University)
+- [Aykut Koc](http://aykutkoclab.ee.bilkent.edu.tr/)(Bilkent University)  
 Keywords: phase retrieval, inverse problem and computational imaging etc.
 
-- [Christoph T. Koch](https://www.physik.hu-berlin.de/sem)(Humboldt University of Berlin)
+- [Christoph T. Koch](https://www.physik.hu-berlin.de/sem)(Humboldt University of Berlin)  
 Keywords: phase retrieval and inverse problem etc.
 
-- [Filipe R N C Maia](http://lmb.icm.uu.se/)(Uppsala University)
+- [Filipe R N C Maia](http://lmb.icm.uu.se/)(Uppsala University)  
 Keywords: phase retrieval and coherent diffractive imaging etc.
 
 - [Pasquale Memmolo](https://www.isasi.cnr.it/profile/pasquale.memmolo/)(CNR-ISASI)
 Keywords: holography etc.
 
-- [Figen S. Oktem](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)
+- [Figen S. Oktem](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)  
 Keywords: phase retrieval, inverse problem and computational imaging etc.
 
 - [Demetri Psaltis ](https://www.epfl.ch/labs/lo/)(EPFL)  
