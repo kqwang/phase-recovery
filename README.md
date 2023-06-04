@@ -234,7 +234,7 @@ Keywords: phase retrieval, inverse problem and computational imaging etc.
 - [Jianwei (John) Miao ](https://www.physics.ucla.edu/research/imaging/)(University of California, Los Angeles)  
 Keywords: coherent diffractive imaging and atomic electron tomography etc.
 
-- [David Nolte](http://www.physics.purdue.edu/nlo/)(Purdue University)
+- [David Nolte](http://www.physics.purdue.edu/nlo/)(Purdue University)  
 Keywords: interferometry and holography etc.
 
 - [Aydogan Ozcan ](https://research.seas.ucla.edu/ozcan/)(University of California, Los Angeles)  
@@ -271,10 +271,10 @@ Keywords: Fourier ptychography, transport of intensity equation (TIE) and comput
 Keywords: holography and phase imaging etc.
 
 - [Ashok Veeraraghavan ](https://www.computationalimaging.org/)(Rice University)  
-Keywords: wavefront sensing, imaging through scattering media, and lensless imaging etc.
+Keywords: wavefront sensing and lensless imaging etc.
 
 - [Kent Wallace](https://scholar.google.com/citations?user=A7e_BKMAAAAJ)(Jet Propulsion Laboratory)  
-Keywords: wavefront sensing, adaptive optics interferometry and holography etc.
+Keywords: wavefront sensing, interferometry, and holography etc.
 
 - [Laura Waller ](https://www.laurawaller.com/)(University of California, Berkeley)  
 Keywords: phase imaging, lensless imaging, and transport of intensity equation (TIE) etc.
@@ -286,7 +286,7 @@ Keywords: interferometry and biomedical imaging etc.
 Keywords: synthetic wavelength holography and interferometry etc.
 
 - [Changhuei Yang ](https://biophot.caltech.edu/)(California Institute of Technology)  
-Keywords: Fourier ptychography, wavefront shaping and non-line-of-sight imaging etc.
+Keywords: Fourier ptychography, wavefront shaping, and non-line-of-sight imaging etc.
 
 - [Zahid Yaqoob](https://scholar.google.com/citations?user=yOVcfLgAAAAJ)(Massachusetts Institute of Technology)  
 Keywords: phase imaging etc.
