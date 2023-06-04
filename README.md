@@ -77,11 +77,11 @@ This project exists thanks to all the people who contribute.
 ****
 <a name="groups"></a>
 # People and groups
-(In alphabetical order according to surnames)  
+(In alphabetical order according to surnames) 
 (Quick search by "Ctrl + F" with keywords:  
 phase imaging, holography, interferometry, optical coherence tomography, phase retrieval, 
-Fourier ptychography, inverse problem, transport of intensity equations, wavefront sensing, phase unwrapping,
-fringe analysis, coherent diffraction imaging, computational imaging)
+Fourier ptychography, inverse problem, transport of intensity equations, wavefront sensing, 
+adaptive optics, phase unwrapping, fringe analysis, coherent diffraction imaging, computational imaging)
 <a name="groups-Americas"></a>
 ## Americas
 - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
@@ -100,7 +100,7 @@ Keywords: holography, phase imaging, and light field imaging etc.
 Keywords: phase retrieval etc.
 
 - [Ana Doblas](https://sites.google.com/view/oirl/home)(University of Memphis)  
-Keywords: holography, phase imaging etc.
+Keywords: holography and phase imaging etc.
 
 - [James R. Fienup ](https://labsites.rochester.edu/fienup/)(University of Rochester)  
 Keywords: phase retrieval, coherent diffraction imaging, and wavefront sensing etc.
@@ -283,6 +283,10 @@ Keywords: transport of intensity equations (TIE), phase imaging and computationa
     
 <a name="groups-Europe"></a>
 ## Europe
+
+- [Martin Booth](https://eng.ox.ac.uk/dop/)(University of Oxford)
+Keywords: wavefront sensing and adaptive optics etc. 
+
 - [Radim Chmelik ](https://www.vut.cz/en/people/radim-chmelik-2190)(Brno University of Technology)  
 Keywords: phase imaging and holography etc.
 
