@@ -80,9 +80,9 @@ This project exists thanks to all the people who contribute.
 # People and groups
 (In alphabetical order according to surnames) 
 (Quick search by "Ctrl + F" with keywords:  
-phase imaging, holography, interferometry, optical coherence tomography, phase retrieval, 
-Fourier ptychography, inverse problem, transport of intensity equations, wavefront sensing, 
-adaptive optics, phase unwrapping, fringe analysis, coherent diffraction imaging, computational imaging)
+phase imaging, holography, interferometry, phase retrieval, Fourier ptychography, inverse problem, 
+transport of intensity equations, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
+coherent diffraction imaging, computational imaging)
 
 <a name="groups-Asia"></a>
 ## Asia
@@ -159,7 +159,7 @@ Keywords: phase retrieval and holography etc.
 Keywords: holography etc.
 
 - [Natan T. Shaked](http://www.eng.tau.ac.il/~omni/index2.php/) (Tel Aviv University)  
-Keywords: interferometry, optical coherence tomography, and biomedical imaging etc.
+Keywords: interferometry, wavefront sensing, and biomedical imaging etc.
 
 - [Tomoyoshi Shimobaba](https://sites.google.com/site/tshimobaba/)(Chiba University)
 Keywords: holography and phase retrieval etc.
@@ -176,9 +176,6 @@ Keywords: holography etc.
 - [Yang Wang ](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-wang-yangwang)(The Hong Kong University of Science and Technology)  
 Keywords: phase retrieval etc.
 
-- [Yuan Wu ](http://www.bme.cuhk.edu.hk/yuan/)(The Chinese University of Hong Kong)  
-Keywords: optical coherence tomography and biomedical imaging etc.
-
 - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
 Keywords: holography and super-resolution imaging etc.
 
@@ -194,10 +191,10 @@ Keywords: transport of intensity equations (TIE), phase imaging and computationa
 <a name="groups-Americas"></a>
 ## Americas
 - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
-Keywords: computational imaging, phase imaging, and optical coherence tomography etc.
+Keywords: inverse problem, phase imaging, holography, and computational imaging etc.
 
 - [Stephen Boppart ](https://biophotonics.illinois.edu/)(University of Illinois Urbana-Champaign)    
-Keywords: optical coherence tomography, wavefront sensing, biomedical imaging etc.
+Keywords: wavefront sensing and biomedical imaging etc.
 
 - [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/)(Purdue University)  
 Keywords: wavefront sensing etc.
@@ -226,9 +223,6 @@ Keywords: phase retrieval etc.
 - [Roarke Horstmeyer ](http://horstmeyer.pratt.duke.edu/)(Duke University)  
 Keywords: Fourier ptychography and single-photon detection etc.
 
-- [Joseph A. Izatt ](http://biophotonics.pratt.duke.edu/)(Duke University)  
-Keywords: biomedical imaging, optical coherence tomography and high-resolution imaging etc.
-
 - [Rongguang Liang ](https://wp.optics.arizona.edu/ualiangaol/)(The University of Arizona)  
 Keywords: phase imaging, phase unwrapping and biomedical imaging etc.
 
@@ -253,9 +247,6 @@ Keywords: fringe analysis phase retrieval and phase unwrapping etc.
 - [Ian Robinson](http://www.ucl.ac.uk/~ucapikr/)(Brookhaven National Laboratory)  
 Keywords: phase retrieval and coherent diffraction imaging etc.
 
-- [Jannick Rolland ](http://www.odalab-spectrum.org/)(University of Rochester)  
-Keywords: optical coherence tomography etc.
-
 - [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
 Keywords: inverse problem and phase retrieval etc.
 
@@ -276,9 +267,6 @@ Keywords: wavefront sensing, adaptive optics interferometry and holography etc.
 
 - [Laura Waller ](https://www.laurawaller.com/)(University of California, Berkeley)  
 Keywords: phase imaging, lensless imaging, and transport of intensity equations (TIE) etc.
-
-- [Lihong Wang ](http://coilab.caltech.edu/)(California Institute of Technology)  
-Keywords: optical coherence tomography and biomedical imaging etc.
 
 - [Adam P. Wax ](http://bios.bme.duke.edu/)(Duke University)  
 Keywords: interferometry and biomedical imaging etc.
@@ -301,6 +289,8 @@ Keywords: wavefront sensing and adaptive optics etc.
 - [Radim Chmelik ](https://www.vut.cz/en/people/radim-chmelik-2190)(Brno University of Technology)  
 Keywords: phase imaging and holography etc.
 
+-[Tomas Ekeberg](https://scholar.google.com/citations?user=VCuDPJMAAAAJ)(Uppsala University)
+Keywords: phase retrieval and coherent diffractive imaging etc.
 - [Pietro Ferraro](https://www.isasi.cnr.it/profile/pietro.ferraro/)(CNR-ISASI)  
 Keywords: holography etc.
 
