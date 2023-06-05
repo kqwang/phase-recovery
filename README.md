@@ -3,7 +3,7 @@ Here, we refer to the process of *“calculating the wavefront phase from
 the amplitude/intensity measurement of the light field”* as phase acquisition (PA). 
 PA contains many techniques and algorithms, such as holography/interferometry, 
 transport of intensity equation (TIE), wavefront-sensing-based approaches, 
-phase retrieval (optimization-based approaches), deep-learning(DL)-based approaches.
+phase retrieval (optimization-based approaches), deep-learning-based approaches.
 ****
 ## Table of Contents:
 
