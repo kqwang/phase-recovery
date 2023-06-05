@@ -67,8 +67,8 @@ Please use the following guidelines:
 - Uniform the format of new additions with that of the existing.
 - Note the order of new additions (chronological or alphabetical).  
 
-### Contributors  
-This project exists thanks to all the people who contribute.  
+[//]: # (### Contributors  )
+[//]: # (This project exists thanks to all the people who contribute.  )
 
 [//]: # (<a href="https://github.com/kqwang/Phase_unwrapping_by_U-Net/graphs/contributors">)
 
@@ -80,7 +80,7 @@ This project exists thanks to all the people who contribute.
 ****
 <a name="groups"></a>
 # People and groups
-(In alphabetical order according to surnames) 
+(In alphabetical order according to surnames)  
 (Quick search by "Ctrl + F" with keywords:  
 phase imaging, holography, interferometry, phase retrieval, Fourier ptychography, inverse problem, 
 transport of intensity equation, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
@@ -139,8 +139,8 @@ Keywords: phase imaging and holograohy etc.
 - [Inkyu Moon](https://iivs.dgist.ac.kr/)(Daegu Gyeongbuk Institute of Science and Technology)  
 Keywords: holograohy (in cell imaging and analysis) etc.
 
-- [An Pan ](https://www.sites.google.com/site/dranpanblog/)(Chinese Academy of Sciences)  
-Keywords: Fourier ptychography and biomedical imaging etc.
+- [An Pan ](http://www.piclaboratory.com/)(Chinese Academy of Sciences)  
+Keywords: Fourier ptychography and phase imaging etc.
 
 - [Jung-Hoon Park ](https://www.biooptics.org/)(Ulsan National Institute of Science and Technology)  
 Keywords: phase imaging and biomedical imaging etc.
@@ -238,7 +238,7 @@ Keywords: coherent diffractive imaging and atomic electron tomography etc.
 Keywords: interferometry and holography etc.
 
 - [Aydogan Ozcan ](https://research.seas.ucla.edu/ozcan/)(University of California, Los Angeles)  
-Keywords: phase imaging, holography and lensless imaging etc.
+Keywords: phase imaging, holography, and lensless imaging etc.
 
 - [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/)(Virginia Polytechnic Institute and State University)  
 Keywords: holography etc.
@@ -247,7 +247,7 @@ Keywords: holography etc.
 Keywords: phase imaging and biomedical imaging etc.
 
 - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC)  
-Keywords: fringe analysis phase retrieval and phase unwrapping etc.
+Keywords: fringe analysis, phase retrieval, and phase unwrapping etc.
 
 - [Ian Robinson](http://www.ucl.ac.uk/~ucapikr/)(Brookhaven National Laboratory)  
 Keywords: phase retrieval and coherent diffraction imaging etc.
@@ -265,7 +265,7 @@ Keywords: phase retrieval and computational imaging etc.
 Keywords: inverse problem and phase retrieval etc.
 
 - [Lei Tian ](https://sites.bu.edu/tianlab/)(Boston University)  
-Keywords: Fourier ptychography, transport of intensity equation (TIE) and computational imaging etc.
+Keywords: Fourier ptychography, transport of intensity equation (TIE), and computational imaging etc.
 
 - [Carlos Alejandro Trujillo](https://www.eafit.edu.co/docentes-investigadores/Paginas/carlos-alejandro-trujillo-anaya.aspx)(EAFIT University)  
 Keywords: holography and phase imaging etc.
@@ -322,7 +322,7 @@ Keywords: electron holography etc.
 Keywords: wavefront sensing and adaptive optics etc.
 
 - [Manuel Guizar-Sicairos](https://sites.google.com/site/mguizar/)(EPFL)  
-Keywords: phase retrieval, coherent diffractive imaging and holography etc.
+Keywords: phase retrieval, coherent diffractive imaging, and holography etc.
 
 - [Stefan Harmeling](https://www.cs.tu-dortmund.de/nps/de/Home/Personen/H/Harmeling__Stefan.html)(Technische Universität Dortmund)  
 Keywords: phase retrieval etc.
@@ -331,7 +331,7 @@ Keywords: phase retrieval etc.
 Keywords: holography etc.
 
 - [Aykut Koc](http://aykutkoclab.ee.bilkent.edu.tr/)(Bilkent University)  
-Keywords: phase retrieval, inverse problem and computational imaging etc.
+Keywords: phase retrieval, inverse problem, and computational imaging etc.
 
 - [Christoph T. Koch](https://www.physik.hu-berlin.de/sem)(Humboldt University of Berlin)  
 Keywords: phase retrieval and inverse problem etc.
@@ -349,7 +349,7 @@ Keywords: holography etc.
 Keywords: holography etc.
 
 - [Figen S. Oktem](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)  
-Keywords: phase retrieval, inverse problem and computational imaging etc.
+Keywords: phase retrieval, inverse problem, and computational imaging etc.
 
 - [Demetri Psaltis ](https://www.epfl.ch/labs/lo/)(EPFL)  
 Keywords: holography, imaging through scattering media, and linear and non-linear multimode fibers etc.
@@ -364,10 +364,10 @@ Keywords: holography (holographic microscopy) etc.
 Keywords: holography etc.
 
 - [Latychevskaia Tatiana ](https://coherentimaging.wordpress.com/)(University of Zurich)  
-Keywords: holography, phase retrieval and coherent diffractive imaging etc.
+Keywords: holography, phase retrieval, and coherent diffractive imaging etc.
 
 - [Michael Unser ](http://bigwww.epfl.ch/)(EPFL)  
-Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE) and biomedical imaging etc.
+Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE), and biomedical imaging etc.
 
 <a name="groups-Oceania"></a> 
 ## Oceania
@@ -380,18 +380,28 @@ Keywords: phase retrieval, coherent diffraction imaging and phase imaging etc.
 # Companies
 (In alphabetical order)
 
-- [d'Optron](https://www.doptron.com/) 
-- [Holmarc Opto-Mechatronics](https://holmarc.com/)  
+- [d'Optron](https://www.doptron.com/)
+Keywords: digital Holography etc.
+- [Holmarc Opto-Mechatronics](https://holmarc.com/)
+Keywords: digital Holography, digital in-line Holography etc.
 - [Imaging Optic](https://www.imagine-optic.com/)  
-- [Lyncee Tec](https://www.lynceetec.com/)  
-- [Nanolive](https://www.nanolive.ch/)  
-- [Phase Holographic Imaging PHI AB](https://phiab.com/)  
+Keywords: wavefront sensing etc.
+- [Lyncee Tec](https://www.lynceetec.com/)
+Keywords: digital Holography etc.
+- [Nanolive](https://www.nanolive.ch/)
+Keywords: optical diffraction tomography (ODT) etc.
+- [Phase Holographic Imaging PHI AB](https://phiab.com/)
+Keywords: digital Holography etc.
 - [Phasics](https://www.phasics.com/)  
+Keywords: wavefront sensing and quadriwave lateral shearing interferometry (QWLSI) etc.
 - [Phi Optics](https://phioptics.com/)
+Keywords: digital Holography and spatial light interference microscopy (SLIM) etc.
 - [Telight](https://telight.eu/)
+Keywords: digital Holography
 - [Tomocube](https://www.tomocube.com/)
+Keywords: optical diffraction tomography (ODT) etc.
 - [Zygo](https://www.zygo.com/)  
-
+Keywords: interferometer and coherence scanning interferometric (CSI) profiler etc.  
 ****
 <a name="workshops"></a>
 # Workshops (video or slides available)
