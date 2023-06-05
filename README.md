@@ -124,6 +124,9 @@ Keywords: wavefront sensing, holography and computational imaging etc.
 - [Wolfgang Heidrich](https://vccimaging.org/)(King Abdullah University of Science and Technology)  
 Keywords: wavefront sensing, phase imaging and computational imaging etc.
 
+- [Kedar Khare](https://opc.iitd.ac.in/index.html)(Indian Institute of Technology Delhi)  
+Keywords: holography, phase imaging, and computational imaging etc.
+
 - [Edmund Y. Lam ](https://www.eee.hku.hk/~elam/)(The University of Hong Kong)  
 Keywords: phase retrieval, holography and computational imaging etc.
 
