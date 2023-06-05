@@ -84,7 +84,7 @@ Please use the following guidelines:
 (Quick search by "Ctrl + F" with keywords:  
 phase imaging, holography, interferometry, phase retrieval, Fourier ptychography, inverse problem, 
 transport of intensity equation, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
-coherent diffraction imaging, computational imaging)
+coherent diffraction imaging, optical diffraction tomography computational imaging)
 
 <a name="groups-Asia"></a>
 ## Asia
@@ -102,6 +102,9 @@ Keywords: holography and single-pixel imaging etc.
 
 - [Chau-Jern Cheng ](https://scholar.lib.ntnu.edu.tw/en/persons/chau-jern-cheng)(National Taiwan Normal University)  
 Keywords: holography etc.
+
+- [Wonshik Choi](https://www.bioimaging.korea.ac.kr/)(Korea university)
+Keywords: phase imaging and optical diffraction tomography etc.
 
 - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(The University of Science and Technology of China)  
 Keywords: phase imaging and super-resolution imaging etc.
@@ -146,7 +149,7 @@ Keywords: Fourier ptychography and phase imaging etc.
 Keywords: phase imaging and biomedical imaging etc.
 
 - [YongKeun Park ](https://bmokaist.wordpress.com/)(Korea Advanced Institute of Science and Technology)  
-Keywords: phase imaging and biomedical imaging etc.
+Keywords: phase imaging, optical diffraction tomography and biomedical imaging etc.
 
 - [Kemao Qian ](https://www3.ntu.edu.sg/home/mkmqian/)(Nanyang Technological University)  
 Keywords: phase unwrapping and fringe analysis etc.
@@ -185,10 +188,10 @@ Keywords: holography and super-resolution imaging etc.
 Keywords: holography and computational imaging etc.
 
 - [Renjie Zhou ](https://www.renjiezhou.com/)(The Chinese University of Hong Kong)  
-Keywords: phase imaging and biomedical imaging etc.
+Keywords: phase imaging, optical diffraction tomography, and biomedical imaging etc.
 
 - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology)  
-Keywords: transport of intensity equation (TIE), phase imaging and computational imaging etc.
+Keywords: transport of intensity equation (TIE), phase imaging, and computational imaging etc.
 
 <a name="groups-Americas"></a>
 ## Americas
@@ -244,7 +247,7 @@ Keywords: phase imaging, holography, and lensless imaging etc.
 Keywords: holography etc.
 
 - [Gabriel Popescu ](https://light.ece.illinois.edu/)(University of Illinois at Urbana-Champaign)  
-Keywords: phase imaging and biomedical imaging etc.
+Keywords: phase imaging, optical diffraction tomography and biomedical imaging etc.
 
 - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC)  
 Keywords: fringe analysis, phase retrieval, and phase unwrapping etc.
@@ -352,7 +355,7 @@ Keywords: holography etc.
 Keywords: phase retrieval, inverse problem, and computational imaging etc.
 
 - [Demetri Psaltis ](https://www.epfl.ch/labs/lo/)(EPFL)  
-Keywords: holography, imaging through scattering media, and linear and non-linear multimode fibers etc.
+Keywords: holography and optical diffraction tomography etc.
 
 - [Pascal Picart ](http://perso.univ-lemans.fr/~ppicart/rech/perso/BooksPP.html)(Le Mans University)  
 Keywords: holography and phase imaging etc.
@@ -393,7 +396,7 @@ Keywords: wavefront sensing etc
 Keywords: digital holographic microscopy etc.
 
 - [Nanolive](https://www.nanolive.ch/)  
-Keywords: optical diffraction tomography (ODT) etc.
+Keywords: optical diffraction tomography etc.
 
 - [Phase Holographic Imaging PHI AB](https://phiab.com/)  
 Keywords: digital holographic microscopy etc.
@@ -408,7 +411,7 @@ Keywords: holographic microscopy and spatial light interference microscopy (SLIM
 Keywords: holographic microscopy etc.
 
 - [Tomocube](https://www.tomocube.com/)  
-Keywords: optical diffraction tomography (ODT) etc.
+Keywords: optical diffraction tomography etc.
 
 - [Zygo](https://www.zygo.com/)  
 Keywords: interferometer and coherence scanning interferometric (CSI) profiler etc.  
