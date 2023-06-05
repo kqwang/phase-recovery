@@ -382,26 +382,37 @@ Keywords: phase retrieval, coherent diffraction imaging and phase imaging etc.
 
 - [d'Optron](https://www.doptron.com/)  
 Keywords: digital Holography etc.
+
 - [Holmarc Opto-Mechatronics](https://holmarc.com/)  
 Keywords: digital Holography, digital in-line Holography etc.
+
 - [Imaging Optic](https://www.imagine-optic.com/)  
-Keywords: wavefront sensing etc.
+Keywords: wavefront sensing etc
+
 - [Lyncee Tec](https://www.lynceetec.com/)  
 Keywords: digital Holography etc.
+
 - [Nanolive](https://www.nanolive.ch/)  
 Keywords: optical diffraction tomography (ODT) etc.
+
 - [Phase Holographic Imaging PHI AB](https://phiab.com/)  
 Keywords: digital Holography etc.
+
 - [Phasics](https://www.phasics.com/)  
 Keywords: wavefront sensing and quadriwave lateral shearing interferometry (QWLSI) etc.
+
 - [Phi Optics](https://phioptics.com/)  
 Keywords: digital Holography and spatial light interference microscopy (SLIM) etc.
+
 - [Telight](https://telight.eu/)  
-Keywords: digital Holography
+Keywords: digital Holography etc.
+
 - [Tomocube](https://www.tomocube.com/)  
 Keywords: optical diffraction tomography (ODT) etc.
+
 - [Zygo](https://www.zygo.com/)  
 Keywords: interferometer and coherence scanning interferometric (CSI) profiler etc.  
+
 ****
 <a name="workshops"></a>
 # Workshops (video or slides available)
