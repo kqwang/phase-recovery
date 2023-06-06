@@ -103,7 +103,7 @@ Keywords: holography and single-pixel imaging etc.
 - [Chau-Jern Cheng ](https://scholar.lib.ntnu.edu.tw/en/persons/chau-jern-cheng)(National Taiwan Normal University)  
 Keywords: holography etc.
 
-- [Wonshik Choi](https://www.bioimaging.korea.ac.kr/)(Korea university)
+- [Wonshik Choi](https://www.bioimaging.korea.ac.kr/)(Korea university)  
 Keywords: phase imaging and optical diffraction tomography etc.
 
 - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(The University of Science and Technology of China)  
