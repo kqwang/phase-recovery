@@ -1517,21 +1517,21 @@ IEEE Geosci. Remote Sens. Mag. 2–20 (2021).
 *[Deep learning in optical metrology: a review](https://doi.org/10.1038/s41377-022-00714-x),*  
 Light Sci. Appl. 11(1), 39 (2022).
 
-- Y. Guo, L. Zhong, L. Min, J. Wang, Y. Wu, K. Chen, K. Wei, and C. Rao  
-*[Adaptive optics based on machine learning: a review](https://doi.org/10.37188/lam.2022.013),*  
-Opto-Electronic Advances 5(7), 200082–200082 (2022).
-
 - T. Shimobaba, D. Blinder, T. Birnbaum, I. Hoshi, H. Shiomi, P. Schelkens, and T. Ito  
 *[Deep-Learning Computational Holography: A Review](https://doi.org/10.3389/fphot.2022.854391),*  
 Front. Photon. 3, 854391 (2022).
+
+- G. Situ  
+*[Deep holography](https://doi.org/10.37188/lam.2022.013),*  
+Light Advanced Manufacturing 3(2), 1 (2022).
 
 - A. Qayyum, I. Ilahi, F. Shamshad, F. Boussaid, M. Bennamoun, and J. Qadir  
 *[Untrained Neural Network Priors for Inverse Imaging Problems: A Survey](https://doi.org/10.1109/TPAMI.2022.3204527),*  
 IEEE Trans. Pattern Anal. Mach. Intell. 45(5), 6511–6536 (2022).
 
-- G. Situ  
-*[Deep holography](https://doi.org/10.37188/lam.2022.013),*  
-Light Advanced Manufacturing 3(2), 1 (2022).
+- Y. Guo, L. Zhong, L. Min, J. Wang, Y. Wu, K. Chen, K. Wei, and C. Rao  
+*[Adaptive optics based on machine learning: a review](https://doi.org/10.29026/oea.2022.200082),*  
+Opto-Electronic Advances 5(7), 200082–200082 (2022).
 
 - K. Wang, Q. Kemao, J. Di, and J. Zhao  
 *[Deep learning spatial phase unwrapping: a comparative review](https://doi.org/10.1117/1.APN.1.1.014001),*  
@@ -1540,7 +1540,6 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 - J. Dong, L. Valzania, A. Maillard, T. Pham, S. Gigan, and M. Unser  
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
-
 
 ****
 <a name="BK"></a>
