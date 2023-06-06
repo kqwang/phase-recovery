@@ -12,7 +12,7 @@ phase retrieval (optimization-based approaches), deep-learning-based approaches.
    - [Asia](#groups-Asia)
    - [Americas](#groups-Americas)
    - [Europe](#groups-Europe)
-   - [Oceania](groups-Oceania)
+   - [Oceania](#groups-Oceania)
 - [Companies](#companies)
 - [Workshops](#workshops) (video or slides available)
 - [Research papers](#Rpapers)
