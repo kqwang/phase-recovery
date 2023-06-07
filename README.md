@@ -222,9 +222,6 @@ Keywords: wavefront sensing and biomedical imaging etc.
 - [David J Brady ](http://www.davidbrady.net/)(University of Arizona)  
 Keywords: (compressive) holography and computational imaging etc.
 
-- [Artur Carnicer ](https://webgrec.ub.edu/webpages/000004/ang/artur.carnicer.ub.edu.html)(Universitat de Barcelona)  
-Keywords: holography etc.
-
 - [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/)(Purdue University)  
 Keywords: wavefront sensing etc.
 
@@ -348,6 +345,9 @@ Keywords: Fourier ptychography etc.
 - [Martin Booth ](https://eng.ox.ac.uk/dop/)(University of Oxford)  
 Keywords: wavefront sensing and adaptive optics etc.
 
+- [Artur Carnicer ](https://webgrec.ub.edu/webpages/000004/ang/artur.carnicer.ub.edu.html)(Universitat de Barcelona)  
+Keywords: holography etc.
+
 - [Radim Chmelik ](https://www.vut.cz/en/people/radim-chmelik-2190)(Brno University of Technology)  
 Keywords: phase imaging and holography etc.
 
@@ -390,7 +390,7 @@ Keywords: phase retrieval, inverse problem, and computational imaging etc.
 - [Christoph T. Koch ](https://www.physik.hu-berlin.de/sem)(Humboldt University of Berlin)  
 Keywords: phase retrieval and inverse problem etc.
 
-- [Malgorzata Kujawinska](https://repo.pw.edu.pl/info/team/WUTc4120a0915514bb7abc5da8cba14778a/Holographic+Microscopy+And+Tomography+Team?ps=20&tab=&lang=en&pn=1&cid=26848)(Warsaw University of Technology)  
+- [Malgorzata Kujawinska ](https://repo.pw.edu.pl/info/team/WUTc4120a0915514bb7abc5da8cba14778a/Holographic+Microscopy+And+Tomography+Team?ps=20&tab=&lang=en&pn=1&cid=26848)(Warsaw University of Technology)  
 Keywords: holography, phase imaging, and biomedical imaging etc.
 
 - [Filipe Maia ](http://lmb.icm.uu.se/)(Uppsala University)  
