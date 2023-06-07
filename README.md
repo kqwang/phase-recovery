@@ -210,6 +210,9 @@ Keywords: inverse problem, phase imaging, holography, and computational imaging 
 - [Stephen Boppart ](https://biophotonics.illinois.edu/)(University of Illinois Urbana-Champaign)    
 Keywords: wavefront sensing and biomedical imaging etc.
 
+- [David J Brady](http://www.davidbrady.net/)(University of Arizona)  
+Keywords: (compressive) holography and computational imaging etc.
+
 - [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/)(Purdue University)  
 Keywords: wavefront sensing etc.
 
