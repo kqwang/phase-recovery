@@ -88,6 +88,9 @@ coherent diffractive imaging, optical diffraction tomography computational imagi
 
 <a name="groups-Asia"></a>
 ## Asia
+- [Arun Anand ](https://www.spuvvn.edu/team/arun-anand/)(Sardar Patel University)  
+Keywords: holography and biomedical imaging etc.
+
 - [Anand Asundi ](https://www.doptron.com/)(d'Optron Pte Ltd)   
 Keywords: phase imaging, holography, and transport of intensity equation (TIE) etc.
 
@@ -109,7 +112,7 @@ Keywords: phase imaging and optical diffraction tomography etc.
 - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(The University of Science and Technology of China)  
 Keywords: phase imaging and super-resolution imaging etc.
 
-- [Shai Dekel](https://www.shaidekel.com/)(Tel-Aviv University)  
+- [Shai Dekel ](https://www.shaidekel.com/)(Tel-Aviv University)  
 Keywords: phase retrieval etc.
 
 - [Jianglei Di ](https://www.researchgate.net/profile/Jianglei-Di)(GuangDong University of Technology)  
@@ -147,6 +150,9 @@ Keywords: phase imaging and holograohy etc.
 
 - [Inkyu Moon ](https://iivs.dgist.ac.kr/)(Daegu Gyeongbuk Institute of Science and Technology)  
 Keywords: holograohy (in cell imaging and analysis) etc.
+
+- [Takanori Nomura ](http://www.wakayama-u.ac.jp/~nom/IPLe/index.html)(Wakayama University)  
+Keywords: holography etc.
 
 - [An Pan ](http://www.piclaboratory.com/)(Chinese Academy of Sciences)  
 Keywords: Fourier ptychography and phase imaging etc.
@@ -190,6 +196,9 @@ Keywords: holography etc.
 - [Yang Wang ](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-wang-yangwang)(The Hong Kong University of Science and Technology)  
 Keywords: phase retrieval etc.
 
+- [Masahiro Yamaguchi](http://www-oid.ip.titech.ac.jp/)(Tokyo Institute of Technology)  
+Keywords: holography (display) etc.
+
 - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
 Keywords: holography and super-resolution imaging etc.
 
@@ -210,8 +219,11 @@ Keywords: inverse problem, phase imaging, holography, and computational imaging 
 - [Stephen Boppart ](https://biophotonics.illinois.edu/)(University of Illinois Urbana-Champaign)    
 Keywords: wavefront sensing and biomedical imaging etc.
 
-- [David J Brady](http://www.davidbrady.net/)(University of Arizona)  
+- [David J Brady ](http://www.davidbrady.net/)(University of Arizona)  
 Keywords: (compressive) holography and computational imaging etc.
+
+- [Artur Carnicer ](https://webgrec.ub.edu/webpages/000004/ang/artur.carnicer.ub.edu.html)(Universitat de Barcelona)  
+Keywords: holography etc.
 
 - [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/)(Purdue University)  
 Keywords: wavefront sensing etc.
@@ -231,6 +243,9 @@ Keywords: phase retrieval, coherent diffractive imaging, and wavefront sensing e
 - [Jason W. Fleischer ](https://www.princeton.edu/~jasonf/)(Mississippi State University)  
 Keywords: phase retrieval etc.
 
+- [Joseph Goodman ](https://scholar.google.com/citations?user=joYrFnYAAAAJ)(Stanford University)  
+Keywords: holography etc.
+
 - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
 Keywords: inverse problem and phase retrieval etc.
 
@@ -239,6 +254,9 @@ Keywords: phase retrieval etc.
 
 - [Roarke Horstmeyer ](http://horstmeyer.pratt.duke.edu/)(Duke University)  
 Keywords: Fourier ptychography and single-photon detection etc.
+
+- [Bahram Javidi ](https://mosis.engr.uconn.edu/)(University of Connecticut)  
+Keywords: holography etc.
 
 - [Rongguang Liang ](https://wp.optics.arizona.edu/ualiangaol/)(The University of Arizona)  
 Keywords: phase imaging, phase unwrapping and biomedical imaging etc.
@@ -276,8 +294,14 @@ Keywords: inverse problem and phase retrieval etc.
 - [Mahdi Soltanolkotabi ](http://www-bcf.usc.edu/~soltanol/)(University of Southern California)  
 Keywords: phase retrieval and computational imaging etc.
 
+- [Adrian Stern](https://wwwee.ee.bgu.ac.il/~stern/)(Ben-Gurion University of the Negev)  
+Keywords: holography etc.
+
 - [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
 Keywords: inverse problem and phase retrieval etc.
+
+- [Enrique Tajahuerce ](https://scholar.google.com/citations?user=wvDwqPQAAAAJ&hl)(Universitat Jaume I)  
+Keywords: holography and computational imaging etc.
 
 - [Michael Teitell ](http://teitell-lab.dgsom.ucla.edu/)(University of California, Los Angeles)  
 Keywords: phase imaging and biomedical imaging etc.
@@ -299,6 +323,9 @@ Keywords: phase imaging, lensless imaging, and transport of intensity equation (
 
 - [Adam P. Wax ](http://bios.bme.duke.edu/)(Duke University)  
 Keywords: interferometry and biomedical imaging etc.
+
+- [Gordon Wetzstein ](https://www.computationalimaging.org/)(Stanford University)  
+Keywords: holography (display) and computational imaging etc.
 
 - [Florian Willomitzer ](https://3dim.northwestern.edu/)(University of Arizona)  
 Keywords: synthetic wavelength holography and interferometry etc.
@@ -363,6 +390,9 @@ Keywords: phase retrieval, inverse problem, and computational imaging etc.
 - [Christoph T. Koch ](https://www.physik.hu-berlin.de/sem)(Humboldt University of Berlin)  
 Keywords: phase retrieval and inverse problem etc.
 
+- [Malgorzata Kujawinska](https://repo.pw.edu.pl/info/team/WUTc4120a0915514bb7abc5da8cba14778a/Holographic+Microscopy+And+Tomography+Team?ps=20&tab=&lang=en&pn=1&cid=26848)(Warsaw University of Technology)  
+Keywords: holography, phase imaging, and biomedical imaging etc.
+
 - [Filipe Maia ](http://lmb.icm.uu.se/)(Uppsala University)  
 Keywords: phase retrieval and coherent diffractive imaging etc.
 
@@ -378,7 +408,7 @@ Keywords: holography etc.
 - [Figen S. Oktem ](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)  
 Keywords: phase retrieval, inverse problem, and computational imaging etc.
 
-- [Nikolay V. Petrov ](https://scholar.google.com.hk/citations?user=W1B-hagAAAAJ)(ITMO University)  
+- [Nikolay V. Petrov ](https://scholar.google.com/citations?user=W1B-hagAAAAJ)(ITMO University)  
 Keywords: phase retrieval and holography etc.
 
 - [Demetri Psaltis ](https://www.epfl.ch/labs/lo/)(EPFL)  
@@ -389,6 +419,9 @@ Keywords: holography and phase imaging etc.
 
 - [Benjamin Rappaz ](https://scholar.google.com/citations?user=qlzmb34AAAAJ)(EPFL)  
 Keywords: holography (holographic microscopy) etc.
+
+- [Genaro Saavedra](https://www.uv.es/imaging3/)(Universitat de Valéncia)  
+Keywords: holography, 3D imaging and 3D display etc.
 
 - [Juergen Schnekenburger ](http://www.biomed-tech.de/)(Muenster University)  
 Keywords: holography etc.
@@ -401,12 +434,15 @@ Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TI
 
 <a name="groups-Oceania"></a> 
 ## Oceania
+- [Rainer Leitgeb](https://mpbmt.meduniwien.ac.at/en/about-us/research-groups/leitgeb-drexler-group/)(Medical University of Vienna)  
+Keywords: holography and biomedical imaging etc.
 
 - [David Paganin ](https://www.monash.edu/science/schools/physics/research/research-areas?a=64532)(Monash University)  
 Keywords: phase retrieval, coherent diffractive imaging, and phase imaging etc.
 
 - [Konstantin Pavlov ](https://www.canterbury.ac.nz/science/contact-us/people/konstantin-pavlov.html)(University of Canterbury)  
 Keywords: phase retrieval and coherent diffractive imaging etc.
+
 ****
 <a name="companies"></a>
 # Companies
