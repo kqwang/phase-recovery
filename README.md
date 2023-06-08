@@ -282,6 +282,9 @@ Keywords: fringe analysis, phase retrieval, and phase unwrapping etc.
 - [Ian Robinson ](http://www.ucl.ac.uk/~ucapikr/)(Brookhaven National Laboratory)  
 Keywords: phase retrieval and coherent diffractive imaging etc.
 
+- [Austin Roorda](http://roorda.vision.berkeley.edu/)(University of California, Berkeley)  
+Keywords: wavefront sensing and adaptive optics etc.
+
 - [Sujay Sanghavi ](http://users.ece.utexas.edu/~sanghavi)(University of Texas, Austin)  
 Keywords: phase retrieval etc.
 
@@ -1631,7 +1634,7 @@ in Progress in Optics (Elsevier, 2012), 57, pp. 133–217.
 
 - B. Javidi, E. Tajahuerce, and P. Andres  
 *[Multi-Dimensional Imaging](https://ieeexplore.ieee.org/servlet/opac?bknumber=6798070),*  
-(Cambridge University Press, (John Wiley & Sons Inc, 2014).
+(Cambridge University Press, John Wiley & Sons Inc, 2014).
 
 - T.-C. Poon and J.-P. Liu  
 *[Introduction to Modern Digital Holography: With MATLAB](https://doi.org/10.1017/CBO9781139061346),*  
