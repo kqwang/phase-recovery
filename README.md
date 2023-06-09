@@ -82,9 +82,9 @@ Please use the following guidelines:
 # People and groups
 (In alphabetical order according to surnames)  
 (Quick search by "Ctrl + F" with keywords:  
-phase imaging, holography, interferometry, phase retrieval, Fourier ptychography, inverse problem, 
+*phase imaging, holography, interferometry, phase retrieval, Fourier ptychography, inverse problem, 
 transport of intensity equation, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
-coherent diffractive imaging, optical diffraction tomography computational imaging)
+coherent diffractive imaging, optical diffraction tomography computational imaging*)
 
 <a name="groups-Asia"></a>
 ## Asia
