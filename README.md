@@ -297,7 +297,7 @@ Keywords: fringe analysis, phase retrieval, and phase unwrapping etc.
 - [Ian Robinson ](http://www.ucl.ac.uk/~ucapikr/)(Brookhaven National Laboratory)  
 Keywords: phase retrieval and coherent diffractive imaging etc.
 
-- [Austin Roorda](http://roorda.vision.berkeley.edu/)(University of California, Berkeley)  
+- [Austin Roorda ](http://roorda.vision.berkeley.edu/)(University of California, Berkeley)  
 Keywords: wavefront sensing and adaptive optics etc.
 
 - [Sujay Sanghavi ](http://users.ece.utexas.edu/~sanghavi)(University of Texas, Austin)  
