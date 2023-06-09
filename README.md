@@ -67,16 +67,17 @@ Please use the following guidelines:
 - Uniform the format of new additions with that of the existing.
 - Note the order of new additions (chronological or alphabetical).  
 
-[//]: # (### Contributors  )
-[//]: # (This project exists thanks to all the people who contribute.  )
+## Contributors  
+All those who contributed via ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) will be shown below.
 
-[//]: # (<a href="https://github.com/kqwang/Phase_unwrapping_by_U-Net/graphs/contributors">)
+<a href="https://github.com/kqwang/Phase_unwrapping_by_U-Net/graphs/contributors">
 
-[//]: # (  <img src="https://contrib.rocks/image?repo=kqwang/Phase_unwrapping_by_U-Net" />)
+  <img src="https://contrib.rocks/image?repo=kqwang/Phase_unwrapping_by_U-Net" />
 
-[//]: # (</a>)
+</a>
 
- 
+
+
 ****
 <a name="groups"></a>
 # People and groups
