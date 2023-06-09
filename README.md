@@ -398,6 +398,9 @@ Keywords: electron holography etc.
 - [Thierry Fusco ](https://anr-wolf.com/index.php/falling-stars/biographies/thierry-fusco/)(ONERA)  
 Keywords: wavefront sensing and adaptive optics etc.
 
+- [Sylvain Gigan ](http://www.lkb.upmc.fr/opticalimaging/sylvain-gigan/)(Sorbonne Université)  
+Keywords: phase retrieval, imaging through scattering media, and computational imaging etc.
+
 - [Manuel Guizar-Sicairos ](https://sites.google.com/site/mguizar/)(EPFL)  
 Keywords: phase retrieval, coherent diffractive imaging, and holography etc.
 
