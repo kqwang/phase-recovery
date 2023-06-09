@@ -67,14 +67,18 @@ Please use the following guidelines:
 - Uniform the format of new additions with that of the existing.
 - Note the order of new additions (chronological or alphabetical).  
 
-## Contributors  
-All those who contributed via ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) will be shown below.
+[//]: # (## Contributors  )
 
-<a href="https://github.com/kqwang/Phase_unwrapping_by_U-Net/graphs/contributors">
+[//]: # (All those who contributed via ["fork and pull request"]&#40;https://docs.github.com/en/get-started/quickstart/contributing-to-projects&#41; will be shown below.)
 
-  <img src="https://contrib.rocks/image?repo=kqwang/Phase_unwrapping_by_U-Net" />
+[//]: # ()
+[//]: # (<a href="https://github.com/kqwang/Phase_unwrapping_by_U-Net/graphs/contributors">)
 
-</a>
+[//]: # ()
+[//]: # (<img src="https://contrib.rocks/image?repo=kqwang/Phase_unwrapping_by_U-Net" />)
+
+[//]: # ()
+[//]: # (</a>)
 
 
 
