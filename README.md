@@ -207,6 +207,9 @@ Keywords: holography etc.
 - [Yang Wang ](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-wang-yangwang)(The Hong Kong University of Science and Technology)  
 Keywords: phase retrieval etc.
 
+- [Dayong Wang ](https://slxy.bjut.edu.cn/info/1084/2153.htm)(Beijing University of Technology)  
+Keywords: holography etc.
+
 - [Masahiro Yamaguchi ](http://www-oid.ip.titech.ac.jp/)(Tokyo Institute of Technology)  
 Keywords: holography (display) etc.
 
