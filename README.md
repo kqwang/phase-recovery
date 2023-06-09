@@ -214,6 +214,9 @@ Keywords: holography etc.
 - [Fucai Zhang ](http://zhangfc-research-group.com/)(Southern University of Science and Technology)  
 Keywords: phase retrieval, wavefront sensing, and holography etc.
 
+- [Shaohui Zhang ](https://scholar.google.nl/citations?hl=en&user=GDQ23eAAAAAJ)(Beijing Institute of Technology)  
+Keywords: phase retrieval and Fourier ptychography etc.
+
 - [Jianlin Zhao ](https://teacher.nwpu.edu.cn/m/en/1982000067.html)(Northwestern Polytechnical University)  
 Keywords: holography and computational imaging etc.
 
