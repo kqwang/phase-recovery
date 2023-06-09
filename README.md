@@ -169,10 +169,16 @@ Keywords: phase unwrapping and fringe analysis etc.
 - [Chenggen Quan ](https://scholar.google.com/citations?user=CA9pJgwAAAAJ)(Phase Retrieval)  
 Keywords: phase retrieval and holography etc.
 
+- [Liyong Ren ](http://aoi.snnu.edu.cn/)(Shaanxi Normal University)  
+Keywords: phase unwrapping etc.
+
+- [Lu Rong ](https://scholar.google.com/citations?&user=7BvlhfgAAAAJ)(Beijing University of Technology)  
+Keywords: phase retrieval, coherent diffractive imaging, and holography etc.
+
 - [Joseph Rosen ](https://www.ee.bgu.ac.il/~rosen/)(Ben-Gurion University of the Negev)  
 Keywords: holography etc.
 
-- [Natan T. Shaked ](http://www.eng.tau.ac.il/~omni/index2.php/) (Tel Aviv University)  
+- [Natan T. Shaked ](http://www.eng.tau.ac.il/~omni/index2.php/)(Tel Aviv University)  
 Keywords: interferometry, wavefront sensing, and biomedical imaging etc.
 
 - [Tomoyoshi Shimobaba ](https://sites.google.com/site/tshimobaba/)(Chiba University)  
@@ -196,11 +202,17 @@ Keywords: holography etc.
 - [Yang Wang ](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-wang-yangwang)(The Hong Kong University of Science and Technology)  
 Keywords: phase retrieval etc.
 
-- [Masahiro Yamaguchi](http://www-oid.ip.titech.ac.jp/)(Tokyo Institute of Technology)  
+- [Masahiro Yamaguchi ](http://www-oid.ip.titech.ac.jp/)(Tokyo Institute of Technology)  
 Keywords: holography (display) etc.
 
 - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
 Keywords: holography and super-resolution imaging etc.
+
+- [Masayuki Yokota ](http://www.ecs.shimane-u.ac.jp/~yokota/english/)(Shimane University)  
+Keywords: holography etc.
+
+- [Fucai Zhang ](http://zhangfc-research-group.com/)(Southern University of Science and Technology)  
+Keywords: phase retrieval, wavefront sensing, and holography etc.
 
 - [Jianlin Zhao ](https://teacher.nwpu.edu.cn/m/en/1982000067.html)(Northwestern Polytechnical University)  
 Keywords: holography and computational imaging etc.
@@ -225,7 +237,7 @@ Keywords: (compressive) holography and computational imaging etc.
 - [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/)(Purdue University)  
 Keywords: wavefront sensing etc.
 
-- [Ni Chen ](https://ni-chen.github.io)(University of Arizona)  
+- [Ni Chen ](https://ni-chen.github.io/)(University of Arizona)  
 Keywords: holography, phase imaging, and light field imaging etc.
 
 - [Mathew Cherukara ](https://www.mathewcherukara.com/)(Argonne National Laboratory)  
@@ -294,7 +306,7 @@ Keywords: inverse problem and phase retrieval etc.
 - [Mahdi Soltanolkotabi ](http://www-bcf.usc.edu/~soltanol/)(University of Southern California)  
 Keywords: phase retrieval and computational imaging etc.
 
-- [Adrian Stern](https://wwwee.ee.bgu.ac.il/~stern/)(Ben-Gurion University of the Negev)  
+- [Adrian Stern ](https://wwwee.ee.bgu.ac.il/~stern/)(Ben-Gurion University of the Negev)  
 Keywords: holography etc.
 
 - [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
@@ -423,6 +435,9 @@ Keywords: holography and phase imaging etc.
 - [Benjamin Rappaz ](https://scholar.google.com/citations?user=qlzmb34AAAAJ)(EPFL)  
 Keywords: holography (holographic microscopy) etc.
 
+- [John Rodenburg ](https://www.rodenburg.org/)(The University of Sheffield)  
+Keywords: phase retrieval, coherent diffractive imaging, and ptychography etc.
+
 - [Genaro Saavedra](https://www.uv.es/imaging3/)(Universitat de Valéncia)  
 Keywords: holography, 3D imaging and 3D display etc.
 
@@ -437,7 +452,7 @@ Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TI
 
 <a name="groups-Oceania"></a> 
 ## Oceania
-- [Rainer Leitgeb](https://mpbmt.meduniwien.ac.at/en/about-us/research-groups/leitgeb-drexler-group/)(Medical University of Vienna)  
+- [Rainer Leitgeb ](https://mpbmt.meduniwien.ac.at/en/about-us/research-groups/leitgeb-drexler-group/)(Medical University of Vienna)  
 Keywords: holography and biomedical imaging etc.
 
 - [David Paganin ](https://www.monash.edu/science/schools/physics/research/research-areas?a=64532)(Monash University)  
