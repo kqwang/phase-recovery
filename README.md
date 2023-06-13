@@ -2,8 +2,8 @@
 Here, we refer to the process of *“calculating the wavefront phase from 
 the amplitude/intensity measurement of the light field”* as phase acquisition (PA). 
 PA contains many techniques and algorithms, such as holography/interferometry, 
-transport of intensity equation (TIE), wavefront-sensing-based approaches, 
-phase retrieval (optimization-based approaches), deep-learning-based approaches.
+transport of intensity equation (TIE), phase retrieval (optimization-based approaches), 
+wavefront-sensing-based approaches,  deep-learning-based approaches.
 ****
 ## Table of Contents:
 
@@ -569,11 +569,11 @@ J. Opt. Soc. Am. 73(11), 1434 (1983).
 ### Wavefront-sensing-based approaches
 (Mainly refers to the approaches of obtaining the phase gradient first and then integrating to calculate the phase)
 - J. Hartmann  
-*Bemerkungen uber den Bau und die Justirung von Spektrographen*  
+*[Bemerkungen uber den Bau und die Justirung von Spektrographen](https://archive.org/details/zeitschriftfrin06gergoog/page/n31/mode/2up)*  
 Zeitschrift fuer Instrumentenkunde 20, 47–58 (1900).
 - R. V. Shack and B. C. Platt  
-*Production and use of a lenticular Hartmann screen*  
-J. Opt. Soc. Am. 61, 656–660 (1971).
+*[Production and use of a lenticular Hartmann screen](https://doi.org/10.1364/JOSA.61.000648)*  
+J. Opt. Soc. Am. 61, 656 (1971).
 - J. S. Hartman, R. L. Gordon, and D. L. Lessor  
 *[Development Of Nomarski Microscopy For Quantitative Determination Of Surface Topography(A)](https://doi.org/10.1117/12.957861)*  
 in G. W. Hopkins, ed. (1979), pp. 223–230. (Conference)
