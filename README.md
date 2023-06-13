@@ -398,7 +398,7 @@ Keywords: electron holography etc.
 - [Thierry Fusco ](https://anr-wolf.com/index.php/falling-stars/biographies/thierry-fusco/)(ONERA)  
 Keywords: wavefront sensing and adaptive optics etc.
 
--[Guillermo Gallego](http://www.guillermogallego.es/)(Technische Universität Berlin)
+-[Guillermo Gallego](http://www.guillermogallego.es/)(Technische Universität Berlin)  
 Keywords: 3D surface reconstruction etc.
 
 - [Sylvain Gigan ](http://www.lkb.upmc.fr/opticalimaging/sylvain-gigan/)(Sorbonne Université)  
