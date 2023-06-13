@@ -3,7 +3,7 @@ Here, we refer to the process of *“calculating the wavefront phase from
 the amplitude/intensity measurement of the light field”* as phase acquisition (PA). 
 PA contains many techniques and algorithms, such as holography/interferometry, 
 transport of intensity equation (TIE), phase retrieval (optimization-based approaches), 
-wavefront-sensing-based approaches,  deep-learning-based approaches.
+wavefront-sensing-based approaches, deep-learning-based approaches.
 ****
 ## Table of Contents:
 
@@ -397,6 +397,9 @@ Keywords: electron holography etc.
 
 - [Thierry Fusco ](https://anr-wolf.com/index.php/falling-stars/biographies/thierry-fusco/)(ONERA)  
 Keywords: wavefront sensing and adaptive optics etc.
+
+-[Guillermo Gallego](http://www.guillermogallego.es/)(Technische Universität Berlin)
+Keywords: 3D surface reconstruction etc.
 
 - [Sylvain Gigan ](http://www.lkb.upmc.fr/opticalimaging/sylvain-gigan/)(Sorbonne Université)  
 Keywords: phase retrieval, imaging through scattering media, and computational imaging etc.
