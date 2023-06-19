@@ -365,6 +365,9 @@ Keywords: phase imaging and biomedical imaging etc.
 - [Guoan Zheng ](https://smartimaging.uconn.edu/)(University of Connecticut)  
 Keywords: Fourier ptychography etc.
 
+- [Yunhui Zhu ](https://renayuki.wixsite.com/3doptics/)(Virginia Polytechnic Institute and State University)  
+Ketwords: transport of intensity equation (TIE) and phase imaging etc.
+- 
 <a name="groups-Europe"></a>
 ## Europe
 
