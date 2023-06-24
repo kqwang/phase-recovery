@@ -1,4 +1,4 @@
-# Resources for phase recovery (phase imaging or phase retrieval)
+# Resources for phase recovery
 Here, we refer to the process of *“calculating the wavefront phase from 
 the amplitude/intensity measurement of the light field”* as phase recovery (PR). 
 PR contains many techniques and algorithms, such as holography/interferometry, 
