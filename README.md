@@ -1,7 +1,7 @@
-# Resources for phase acquisition
+# Resources for phase recovery (phase imaging or phase retrieval)
 Here, we refer to the process of *“calculating the wavefront phase from 
-the amplitude/intensity measurement of the light field”* as phase acquisition (PA). 
-PA contains many techniques and algorithms, such as holography/interferometry, 
+the amplitude/intensity measurement of the light field”* as phase recovery (PR). 
+PR contains many techniques and algorithms, such as holography/interferometry, 
 transport of intensity equation (TIE), phase retrieval (optimization-based approaches), 
 wavefront-sensing-based approaches, deep-learning-based approaches.
 ****
@@ -16,7 +16,7 @@ wavefront-sensing-based approaches, deep-learning-based approaches.
 - [Companies](#companies)
 - [Workshops](#workshops) (video or slides available)
 - [Research papers](#Rpapers)
-   - [Conventional phase acquisition](#PARpapers)
+   - [Conventional phase recovery](#PLRpapers)
      - [Holography/Interferometry](#HoloRpapers)
      - [Transport of intensity equation](#TIERpapers)
      - [Wavefront-sensing-based approaches](#WSRpapers)
@@ -27,19 +27,19 @@ wavefront-sensing-based approaches, deep-learning-based approaches.
        - [Angular multi-intensity AP](#OPanmapRpapers)
        - [Non-convex optimization](#OPncRpapers)
        - [Convex optimization](#OPcRpapers)
-   - [Deep-learning(DL)-based phase acquisition ](#DLRpapers)
-     - [DL-pre-processing for phase acquisition](#DLpreRpapers)
+   - [Deep-learning(DL)-based phase recovery ](#DLRpapers)
+     - [DL-pre-processing for phase recovery](#DLpreRpapers)
        - [Super-resolution](#DLpreSRRpapers)
        - [Noise reduction](#DLpreNRRpapers)
        - [Hologram generation](#DLpreHGRpapers)
        - [Autofocusing](#DLpreAFRpapers)
-     - [DL-in-processing for phase acquisition](#DLinRpapers)
+     - [DL-in-processing for phase recovery](#DLinRpapers)
        - [Dataset-driven (DD) network-only strategy](#DLinDDnoRpapers)
        - [Physics-driven (PD) network-only strategy](#DLinPDnoRpapers)
        - [Physics-connect-network (PcN) strategy](#DLinPcNRpapers)
        - [Network-in-physics (NiP) strategy](#DLinNiPRpapers)
        - [Physics-in-network (PiN) strategy](#DLinPiNRpapers)
-     - [DL-post-processing for phase acquisition](#DLpostRpapers)
+     - [DL-post-processing for phase recovery](#DLpostRpapers)
        - [Noise reduction](#DLpostNRRpapers)
        - [Resolution enhancement](#DLpostRERpapers)
        - [Aberration correction](#DLpostACRpapers)
@@ -49,8 +49,8 @@ wavefront-sensing-based approaches, deep-learning-based approaches.
        - [Classification](#DLppCRpapers)
        - [Imaging modal transformation](#DLppIMTRpapers)
 - [Review / Tutorial papers](#papers)
-   - [Conventional phase acquisition](#PApapers) 
-   - [Deep-learning-based phase acquisition](#DLpapers)
+   - [Conventional phase recovery](#PLpapers) 
+   - [Deep-learning-based phase recovery](#DLpapers)
 - [Books](#BK)
 - [Dissertations and Thesis](#DT)
 ****
@@ -535,8 +535,8 @@ Keywords: interferometer and coherence scanning interferometric (CSI) profiler e
 # Research papers
 (In chronological order)
 
-<a name="PARpapers"></a>
-## Conventional phase acquisition 
+<a name="PLRpapers"></a>
+## Conventional phase recovery 
 (Here, we mention only the classic pioneering papers)
 <a name="HoloRpapers"></a>
 ### Holography/Interferometry
@@ -650,9 +650,9 @@ Comm. Pure Appl. Math. 66(8), 1241–1274 (2013).
 
 
 <a name="DLRpapers"></a>
-## Deep-learning(DL)-based phase acquisition
+## Deep-learning(DL)-based phase recovery
 <a name="DLpreRpapers"></a>
-### DL-pre-processing for phase acquisition
+### DL-pre-processing for phase recovery
 <a name="DLpreSRRpapers"></a>
 #### Super-resolution
 - Z. Luo, A. Yurt, R. Stahl, A. Lambrechts, V. Reumers, D. Braeken, and L. Lagae  
@@ -773,7 +773,7 @@ in 2022 2nd International Conference on Computer, Control and Robotics (ICCCR) (
 Opt. Express 30(14), 24730 (2022).
 
 <a name="DLinRpapers"></a>
-### DL-in-processing for phase acquisition
+### DL-in-processing for phase recovery
 <a name="DLinDDnoRpapers"></a>
 #### Dataset-driven (DD) network-only strategy  
 - A. Sinha, J. Lee, S. Li, and G. Barbastathis   
@@ -1090,7 +1090,7 @@ Opt. Express 30(24), 43398 (2022).
 Digital Signal Processing 132, 103797 (2022).
 
 <a name="DLpostRpapers"></a>
-### DL-post-processing for phase acquisition
+### DL-post-processing for phase recovery
 <a name="DLpostNRRpapers"></a>
 #### Noise reduction
 - W. Jeon, W. Jeong, K. Son, and H. Yang    
@@ -1532,8 +1532,8 @@ Nat Cell Biol 23(12), 1329–1337 (2021).
 # Review/Tutorial papers
 (In chronological order)
 
-<a name="PApapers"></a>
-## Conventional phase acquisition
+<a name="PLpapers"></a>
+## Conventional phase recovery
 
 - Y. Shechtman, Y. C. Eldar, O. Cohen, H. N. Chapman, J. Miao, and M. Segev  
 *[Phase Retrieval with Application to Optical Imaging: A contemporary overview](https://doi.org/10.1109/MSP.2014.2352673),*  
@@ -1588,7 +1588,7 @@ ACS Nano 16(8), 11516–11544 (2022).
 ACS Photonics 10(2), 322–339 (2023).
 
 <a name="DLpapers"></a>
-## Deep-learning-based phase acquisition
+## Deep-learning-based phase recovery
 
 - Y. Jo, H. Cho, S. Y. Lee, G. Choi, G. Kim, H. Min, and Y. Park  
 *[Quantitative Phase Imaging and Artificial Intelligence: A Review](https://doi.org/10.1109/JSTQE.2018.2859234),*  
