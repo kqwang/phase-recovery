@@ -2,8 +2,8 @@
 Here, we refer to the process of *“calculating the wavefront phase from 
 the amplitude/intensity measurement of the light field”* as phase recovery (PR). 
 PR contains many techniques and algorithms, such as holography/interferometry, 
-transport of intensity equation (TIE), phase retrieval (optimization-based approaches), 
-wavefront-sensing-based approaches, deep-learning-based approaches.
+transport of intensity equation (TIE), optimization-based approaches (phase retrieval), 
+wavefront-sensing-based approaches, and deep-learning-based approaches.
 ****
 ## Table of Contents:
 
@@ -72,10 +72,10 @@ Please use the following guidelines:
 [//]: # (All those who contributed via ["fork and pull request"]&#40;https://docs.github.com/en/get-started/quickstart/contributing-to-projects&#41; will be shown below.)
 
 [//]: # ()
-[//]: # (<a href="https://github.com/kqwang/Phase_unwrapping_by_U-Net/graphs/contributors">)
+[//]: # (<a href="https://github.com/kqwang/phase-recovery/graphs/contributors">)
 
 [//]: # ()
-[//]: # (<img src="https://contrib.rocks/image?repo=kqwang/Phase_unwrapping_by_U-Net" />)
+[//]: # (<img src="https://contrib.rocks/image?repo=kqwang/phase-recovery" />)
 
 [//]: # ()
 [//]: # (</a>)
