@@ -29,7 +29,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
        - [Convex optimization](#OPcRpapers)
    - [Deep-learning(DL)-based phase recovery ](#DLRpapers)
      - [DL-pre-processing for phase recovery](#DLpreRpapers)
-       - [Super-resolution](#DLpreSRRpapers)
+       - [Pixel super-resolution](#DLpreSRRpapers)
        - [Noise reduction](#DLpreNRRpapers)
        - [Hologram generation](#DLpreHGRpapers)
        - [Autofocusing](#DLpreAFRpapers)
@@ -654,7 +654,7 @@ Comm. Pure Appl. Math. 66(8), 1241–1274 (2013).
 <a name="DLpreRpapers"></a>
 ### DL-pre-processing for phase recovery
 <a name="DLpreSRRpapers"></a>
-#### Super-resolution
+#### Pixel super-resolution
 - Z. Luo, A. Yurt, R. Stahl, A. Lambrechts, V. Reumers, D. Braeken, and L. Lagae  
 *[Pixel super-resolution for lens-free holographic microscopy using deep learning neural networks](https://doi.org/10.1364/OE.27.013581)*  
 Opt. Express 27(10), 13581 (2019).
