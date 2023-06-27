@@ -367,7 +367,7 @@ Keywords: Fourier ptychography etc.
 
 - [Yunhui Zhu ](https://renayuki.wixsite.com/3doptics/)(Virginia Polytechnic Institute and State University)  
 Ketwords: transport of intensity equation (TIE) and phase imaging etc.
-- 
+
 <a name="groups-Europe"></a>
 ## Europe
 
@@ -401,7 +401,7 @@ Keywords: electron holography etc.
 - [Thierry Fusco ](https://anr-wolf.com/index.php/falling-stars/biographies/thierry-fusco/)(ONERA)  
 Keywords: wavefront sensing and adaptive optics etc.
 
--[Guillermo Gallego](http://www.guillermogallego.es/)(Technische Universität Berlin)  
+- [Guillermo Gallego ](http://www.guillermogallego.es/)(Technische Universität Berlin)  
 Keywords: 3D surface reconstruction etc.
 
 - [Sylvain Gigan ](http://www.lkb.upmc.fr/opticalimaging/sylvain-gigan/)(Sorbonne Université)  
@@ -458,7 +458,7 @@ Keywords: holography (holographic microscopy) etc.
 - [John Rodenburg ](https://www.rodenburg.org/)(The University of Sheffield)  
 Keywords: phase retrieval, coherent diffractive imaging, and ptychography etc.
 
-- [Genaro Saavedra](https://www.uv.es/imaging3/)(Universitat de Valéncia)  
+- [Genaro Saavedra ](https://www.uv.es/imaging3/)(Universitat de Valéncia)  
 Keywords: holography, 3D imaging and 3D display etc.
 
 - [Juergen Schnekenburger ](http://www.biomed-tech.de/)(Muenster University)  
