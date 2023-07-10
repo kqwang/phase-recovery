@@ -449,7 +449,7 @@ Keywords: phase retrieval and holography etc.
 - [Demetri Psaltis ](https://www.epfl.ch/labs/lo/)(EPFL)  
 Keywords: holography and optical diffraction tomography etc.
 
-- [Pascal Picart ](http://perso.univ-lemans.fr/~ppicart/rech/perso/BooksPP.html)(Le Mans University)  
+- [Pascal Picart ](http://perso.univ-lemans.fr/~ppicart/rech/perso/CV_ppicart.htm)(Le Mans University)  
 Keywords: holography and phase imaging etc.
 
 - [Benjamin Rappaz ](https://scholar.google.com/citations?user=qlzmb34AAAAJ)(EPFL)  
