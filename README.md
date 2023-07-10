@@ -266,6 +266,9 @@ Keywords: phase retrieval etc.
 - [Joseph Goodman ](https://scholar.google.com/citations?user=joYrFnYAAAAJ)(Stanford University)  
 Keywords: holography etc.
 
+- [Peter de Groot  ](https://scholar.google.com/citations?user=y1wTRV4AAAAJ&hl)(Zygo Corporation)  
+Ketwords: interferometry etc.
+
 - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
 Keywords: inverse problem and phase retrieval etc.
 
