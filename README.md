@@ -1610,7 +1610,7 @@ arXiv:2005.06001 (2020).
 *[Deep learning for digital holography: a review](https://doi.org/10.1364/OE.443367),*  
 Opt. Express 29(24), 40572 (2021).
 
-- L. Zhou, H. Yu, Y. Lan, and  m. Xing  
+- L. Zhou, H. Yu, Y. Lan, and  M. Xing  
 *[Artificial Intelligence In Interferometric Synthetic Aperture Radar Phase Unwrapping: A Review](https://doi.org/10.1109/MGRS.2021.3065811),*  
 IEEE Geosci. Remote Sens. Mag. 2–20 (2021).
 
