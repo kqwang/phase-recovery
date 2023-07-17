@@ -53,7 +53,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 - [Review / Tutorial papers](#papers)
    - [Conventional phase recovery](#PLpapers) 
    - [Deep-learning-based phase recovery](#DLpapers)
-- [Books](#BK)
+- [Books](#bk)
 - [Dissertations and Thesis](#DT)
 ****
    
@@ -1643,7 +1643,7 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
 
 ****
-<a name="BK"></a>
+<a name="bk"></a>
 # Books
 (In chronological order)  
 
