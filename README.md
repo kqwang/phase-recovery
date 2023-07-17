@@ -11,50 +11,50 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 
 - [Contributing](#contributing)
 - [People and groups](#groups) (More people and groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
-   - [Asia](#groups-Asia)
-   - [Americas](#groups-Americas)
-   - [Europe](#groups-Europe)
-   - [Oceania](#groups-Oceania)
+   - [Asia](#groups_asia)
+   - [Americas](#groups-americas)
+   - [Europe](#groups-europe)
+   - [Oceania](#groups-oceania)
 - [Companies](#companies)
 - [Workshops](#workshops) (video or slides available)
-- [Research papers](#Rpapers)
-   - [Conventional phase recovery](#PLRpapers)
-     - [Holography/Interferometry](#HoloRpapers)
-     - [Transport of intensity equation](#TIERpapers)
-     - [Wavefront-sensing-based approaches](#WSRpapers)
-     - [Optimization-based approaches](#OPRpapers)
-       - [Alternating projection (AP)](#OPapRpapers)
-       - [Axial multi-intensity AP](#OPaxmapRpapers)
-       - [Radial multi-intensity AP](#OPrmapRpapers)
-       - [Angular multi-intensity AP](#OPanmapRpapers)
-       - [Non-convex optimization](#OPncRpapers)
-       - [Convex optimization](#OPcRpapers)
-   - [Deep-learning(DL)-based phase recovery ](#DLRpapers)
-     - [DL-pre-processing for phase recovery](#DLpreRpapers)
-       - [Pixel super-resolution](#DLpreSRRpapers)
-       - [Noise reduction](#DLpreNRRpapers)
-       - [Hologram generation](#DLpreHGRpapers)
-       - [Autofocusing](#DLpreAFRpapers)
-     - [DL-in-processing for phase recovery](#DLinRpapers)
-       - [Dataset-driven (DD) network-only strategy](#DLinDDnoRpapers)
-       - [Physics-driven (PD) network-only strategy](#DLinPDnoRpapers)
-       - [Physics-connect-network (PcN) strategy](#DLinPcNRpapers)
-       - [Network-in-physics (NiP) strategy](#DLinNiPRpapers)
-       - [Physics-in-network (PiN) strategy](#DLinPiNRpapers)
-     - [DL-post-processing for phase recovery](#DLpostRpapers)
-       - [Noise reduction](#DLpostNRRpapers)
-       - [Resolution enhancement](#DLpostRERpapers)
-       - [Aberration correction](#DLpostACRpapers)
-       - [Phase unwrapping](#DLpostPURpapers)
-     - [DL for phase processing](#DLppRpapers)
-       - [Segmentation](#DLppSRpapers)
-       - [Classification](#DLppCRpapers)
-       - [Imaging modal transformation](#DLppIMTRpapers)
-- [Review / Tutorial papers](#papers)
-   - [Conventional phase recovery](#PLpapers) 
-   - [Deep-learning-based phase recovery](#DLpapers)
+- [Research papers](#papers)
+   - [Conventional phase recovery](#pr-papers)
+     - [Holography/Interferometry](#holo-papers)
+     - [Transport of intensity equation](#tie-papers)
+     - [Wavefront-sensing-based approaches](#ws-papers)
+     - [Optimization-based approaches](#op-papers)
+       - [Alternating projection (AP)](#op-ap-papers)
+       - [Axial multi-intensity AP](#op-am-papers)
+       - [Radial multi-intensity AP](#op-rm-papers)
+       - [Angular multi-intensity AP](#op-anm-papers)
+       - [Non-convex optimization](#op-nc-papers)
+       - [Convex optimization](#op-c-papers)
+   - [Deep-learning(DL)-based phase recovery ](#dl-papers)
+     - [DL-pre-processing for phase recovery](#dl-papers-pre)
+       - [Pixel super-resolution](#dl-papers-pre-sr)
+       - [Noise reduction](#dl-papers-pre-nr)
+       - [Hologram generation](#dl-papers-pre-hg)
+       - [Autofocusing](#dl-papers-pre-af)
+     - [DL-in-processing for phase recovery](#dl-papers-in)
+       - [Dataset-driven (DD) network-only strategy](#dl-papers-in-dd)
+       - [Physics-driven (PD) network-only strategy](#dl-papers-in-pd)
+       - [Physics-connect-network (PcN) strategy](#dl-papers-in-pcn)
+       - [Network-in-physics (NiP) strategy](#dl-papers-in-nip)
+       - [Physics-in-network (PiN) strategy](#dl-papers-in-pin)
+     - [DL-post-processing for phase recovery](#dl-papers-post)
+       - [Noise reduction](#dl-papers-post-nr)
+       - [Resolution enhancement](#dl-papers-post-re)
+       - [Aberration correction](#dl-papers-post-ac)
+       - [Phase unwrapping](#dl-papers-post-pu)
+     - [DL for phase processing](#dl-papers-pp)
+       - [Segmentation](#dl-papers-pp-s)
+       - [Classification](#dl-papers-pp-c)
+       - [Imaging modal transformation](#dl-papers-pp-imt)
+- [Review / Tutorial papers](#review)
+   - [Conventional phase recovery](#pr-review) 
+   - [Deep-learning-based phase recovery](#dl-review)
 - [Books](#bk)
-- [Dissertations and Thesis](#DT)
+- [Dissertations and Thesis](#dt)
 ****
    
 <a name="contributing"></a>
@@ -92,7 +92,7 @@ Please use the following guidelines:
 transport of intensity equation, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
 coherent diffractive imaging, optical diffraction tomography, computational imaging, biomedical imaging*)
 
-<a name="groups-Asia"></a>
+<a name="groups_asia"></a>
 ## Asia
 - [Arun Anand ](https://www.spuvvn.edu/team/arun-anand/)(Sardar Patel University)  
 Keywords: holography and biomedical imaging etc.
@@ -235,7 +235,7 @@ Keywords: phase imaging, optical diffraction tomography, and biomedical imaging 
 - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology)  
 Keywords: transport of intensity equation (TIE), phase imaging, and computational imaging etc.
 
-<a name="groups-Americas"></a>
+<a name="groups-americas"></a>
 ## Americas
 - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
 Keywords: inverse problem, phase imaging, holography, and computational imaging etc.
@@ -372,7 +372,7 @@ Keywords: Fourier ptychography etc.
 - [Yunhui Zhu ](https://renayuki.wixsite.com/3doptics/)(Virginia Polytechnic Institute and State University)  
 Ketwords: transport of intensity equation (TIE) and phase imaging etc.
 
-<a name="groups-Europe"></a>
+<a name="groups-europe"></a>
 ## Europe
 
 - [Martin Booth ](https://eng.ox.ac.uk/dop/)(University of Oxford)  
@@ -474,7 +474,7 @@ Keywords: holography, phase retrieval, and coherent diffractive imaging etc.
 - [Michael Unser ](http://bigwww.epfl.ch/)(EPFL)  
 Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE), and biomedical imaging etc.
 
-<a name="groups-Oceania"></a> 
+<a name="groups-oceania"></a> 
 ## Oceania
 - [Rainer Leitgeb ](https://mpbmt.meduniwien.ac.at/en/about-us/research-groups/leitgeb-drexler-group/)(Medical University of Vienna)  
 Keywords: holography and biomedical imaging etc.
@@ -535,14 +535,14 @@ Keywords: interferometer and coherence scanning interferometric (CSI) profiler e
    
 
 ****
-<a name="Rpapers"></a>
+<a name="papers"></a>
 # Research papers
 (In chronological order)
 
-<a name="PLRpapers"></a>
+<a name="pr-papers"></a>
 ## Conventional phase recovery 
 (Here, we mention only the classic pioneering papers)
-<a name="HoloRpapers"></a>
+<a name="holo-papers"></a>
 ### Holography/Interferometry
 
 - D. Gabor  
@@ -562,7 +562,7 @@ Opt. Lett. 31(6), 775 (2006).
 Opt. Express 19(2), 1016 (2011).
 
 
-<a name="TIERpapers"></a>
+<a name="tie-papers"></a>
 ### Transport of intensity equation
 - J. P. Guigay  
 *[Fourier transform analysis of Fresnel diffraction patterns and in-line holograms](https://www.researchgate.net/publication/285917772_FOURIER_TRANSFORM_ANALYSIS_OF_FRESNEL_DIFFRACTION_PATTERNS_AND_IN-LINE_HOLOGRAMS)*  
@@ -575,7 +575,7 @@ Phys. Rev. Lett. 80(12), 2586–2589 (1998).
 J. Opt. Soc. Am. 73(11), 1434 (1983).
 
 
-<a name="WSRpapers"></a>
+<a name="ws-papers"></a>
 ### Wavefront-sensing-based approaches
 (Mainly refers to the approaches of obtaining the phase gradient first and then integrating to calculate the phase)
 - J. Hartmann  
@@ -592,10 +592,10 @@ in G. W. Hopkins, ed. (1979), pp. 223–230. (Conference)
 Opt. Express 17(15), 13080 (2009).
 
 
-<a name="ORpapers"></a>
+<a name="Opapers"></a>
 ### Optimization-based approaches
 
-<a name="OPapRpapers"></a>
+<a name="op-ap-papers"></a>
 #### Alternating projection
 - R. W. Gerchberg  
 *[A practical algorithm for determination of phase from image and diffraction plane pictures](https://www.scinapse.io/papers/1484412996)*  
@@ -607,7 +607,7 @@ Opt. Lett. 3(1), 27 (1978).
 *[Phase retrieval algorithms: a comparison](https://doi.org/10.1364/AO.21.002758)*  
 Appl. Opt. 21(15), 2758 (1982).
 
-<a name="OPaxmapRpapers"></a>
+<a name="op-am-papers"></a>
 #### Axial multi-intensity alternating projection
 - L. J. Allen and M. P. Oxley  
 *[Phase retrieval from series of images obtained by defocus variation](https://doi.org/10.1364/10.1016/S0030-4018(01)01556-5)*  
@@ -619,7 +619,7 @@ Opt. Lett. 30(8), 833 (2005).
 *[Maskless imaging of dense samples using pixel super-resolution based multi-height lensfree on-chip microscopy](https://doi.org/10.1364/OE.20.003129)*  
 Opt. Express 20(3), 3129 (2012).
 
-<a name="OPrmapRpapers"></a>
+<a name="op-rm-papers"></a>
 #### Radial multi-intensity alternating projection (Ptychographic iterative engine, PIE)
 - H. M. L. Faulkner and J. M. Rodenburg  
 *[Movable Aperture Lensless Transmission Microscopy: A Novel Phase Retrieval Algorithm](https://doi.org/10.1103/PhysRevLett.93.023903)*  
@@ -628,7 +628,7 @@ Phys. Rev. Lett. 93(2), 023903 (2004).
 *[A phase retrieval algorithm for shifting illumination](https://doi.org/10.1063/1.1823034)*  
 Appl. Phys. Lett. 85(20), 4795–4797 (2004).
 
-<a name="OPanmapRpapers"></a>
+<a name="op-anm-papers"></a>
 #### Angular multi-intensity alternating projection (Fourier ptychography, FP)
 - G. Zheng, R. Horstmeyer, and C. Yang  
 *[Wide-field, high-resolution Fourier ptychographic microscopy](https://doi.org/10.1038/nphoton.2013.187)*  
@@ -637,7 +637,7 @@ Nature Photon 7(9), 739–745 (2013).
 *[Quantitative phase imaging via Fourier ptychographic microscopy](https://doi.org/10.1364/OL.38.004845)*  
 Opt. Lett. 38(22), 4845 (2013).
 
-<a name="OPncRpapers"></a>
+<a name="op-nc-papers"></a>
 #### Non-convex optimization
 - E. J. Candes, X. Li, and M. Soltanolkotabi  
 *[Phase Retrieval via Wirtinger Flow: Theory and Algorithms](https://doi.org/10.1109/TIT.2015.2399924)*  
@@ -646,18 +646,18 @@ IEEE Trans. Inform. Theory 61(4), 1985–2007 (2015).
 *[Solving Systems of Random Quadratic Equations via Truncated Amplitude Flow](https://doi.org/10.1109/TIT.2017.2756858)*  
 IEEE Trans. Inform. Theory 64(2), 773–794 (2018).
 
-<a name="OPcRpapers"></a>
+<a name="op-c-papers"></a>
 #### Convex optimization
 - E. J. Candès, T. Strohmer, and V. Voroninski  
 *[PhaseLift: Exact and Stable Signal Recovery from Magnitude Measurements via Convex Programming](https://doi.org/10.1002/cpa.21432)*  
 Comm. Pure Appl. Math. 66(8), 1241–1274 (2013).
 
 
-<a name="DLRpapers"></a>
+<a name="dl-papers"></a>
 ## Deep-learning(DL)-based phase recovery
-<a name="DLpreRpapers"></a>
+<a name="dl-papers-pre"></a>
 ### DL-pre-processing for phase recovery
-<a name="DLpreSRRpapers"></a>
+<a name="dl-papers-pre-sr"></a>
 #### Pixel super-resolution
 - Z. Luo, A. Yurt, R. Stahl, A. Lambrechts, V. Reumers, D. Braeken, and L. Lagae  
 *[Pixel super-resolution for lens-free holographic microscopy using deep learning neural networks](https://doi.org/10.1364/OE.27.013581)*  
@@ -671,7 +671,7 @@ IEEE Trans. Ind. Inf. 15(11), 6179–6186 (2019).
 - L. Xin, X. Liu, Z. Yang, X. Zhang, Z. Gao, and Z. Liu  
 *[Three-dimensional reconstruction of super-resolved white-light interferograms based on deep learning](https://doi.org/10.1016/j.optlaseng.2021.106663)*  
 Optics and Lasers in Engineering 145, 106663 (2021).
-<a name="DLpreNRRpapers"></a>
+<a name="dl-papers-pre-nr"></a>
 #### Noise reduction
 - K. Yan, Y. Yu, C. Huang, L. Sui, K. Qian, and A. Asundi  
 *[Fringe pattern denoising based on deep learning](https://doi.org/10.1016/j.optcom.2018.12.058)*  
@@ -694,7 +694,7 @@ Appl. Opt. 60(7), 2022 (2021).
 - J. Gurrola-Ramos, O. Dalmau, and T. Alarcón  
 *[U-Net based neural network for fringe pattern denoising](https://doi.org/10.1016/j.optlaseng.2021.106829)*  
 Optics and Lasers in Engineering 149, 106829 (2022).
-<a name="DLpreHGRpapers"></a>
+<a name="dl-papers-pre-hg"></a>
 #### Hologram generation
 (for phase-shifting)
 - Q. Zhang, S. Lu, J. Li, W. Li, D. Li, X. Lu, L. Zhong, and J. Tian   
@@ -731,7 +731,7 @@ Opt. Express 29(21), 34656 (2021).
 - X. Xu, M. Xie, Y. Ji, and Y. Wang   
 *[Dual-wavelength interferogram decoupling method for three-frame generalized dual-wavelength phase-shifting interferometry based on deep learning](https://doi.org/10.1364/JOSAA.412433)*  
 J. Opt. Soc. Am. A 38(3), 321 (2021).
-<a name="DLpreAFRpapers"></a>
+<a name="dl-papers-pre-af"></a>
 #### Autofocusing 
 (by classification)
 - T. Pitkäaho, A. Manninen, and T. J. Naughton   
@@ -776,9 +776,9 @@ in 2022 2nd International Conference on Computer, Control and Robotics (ICCCR) (
 *[Fast autofocusing using tiny transformer networks for digital holographic microscopy](https://doi.org/10.1364/OE.458948)*  
 Opt. Express 30(14), 24730 (2022).
 
-<a name="DLinRpapers"></a>
+<a name="dl-papers-in"></a>
 ### DL-in-processing for phase recovery
-<a name="DLinDDnoRpapers"></a>
+<a name="dl-papers-in-dd"></a>
 #### Dataset-driven (DD) network-only strategy  
 - A. Sinha, J. Lee, S. Li, and G. Barbastathis   
 *[Lensless computational imaging through deep learning](https://doi.org/10.1364/OPTICA.4.001117)*  
@@ -926,7 +926,7 @@ Front Inform Technol Electron Eng 22(10), 1277–1288 (2021).
 *[Deep learning wavefront sensing and aberration correction in atmospheric turbulence](https://doi.org/10.1186/s43074-021-00030-4)*  
 PhotoniX 2(1), 8 (2021).
 
-<a name="DLinPDnoRpapers"></a>
+<a name="dl-papers-in-pd"></a>
 #### Physics-driven (PD) network-only strategy 
 (with untrained/initialized networks)
 - L. Boominathan, M. Maniparambil, H. Gupta, R. Baburajan, and K. Mitra   
@@ -966,7 +966,7 @@ Preprint at arXiv (2022).
 Preprint at arXiv (2023).
 
 
-<a name="DLinPcNRpapers"></a>
+<a name="dl-papers-in-pcn"></a>
 #### Physics-connect-network (PcN) strategy 
 - Y. Rivenson, Y. Zhang, H. Günaydın, D. Teng, and A. Ozcan    
 *[Phase recovery and holographic image reconstruction using deep learning in neural networks](https://doi.org/)*  
@@ -995,7 +995,7 @@ Opt. Express 28(18), 26284 (2020).
 *Holographic Image Reconstruction with Phase Recovery and Autofocusing Using Recurrent Neural Networks*
 
 
-<a name="DLinNiPRpapers"></a>
+<a name="dl-papers-in-nip"></a>
 #### Network-in-physics (NiP) strategy 
 (trained networks as denoiser regularization)
 - C. A. Metzler, P. Schniter, A. Veeraraghavan, and R. G. Baraniuk    
@@ -1069,7 +1069,7 @@ IEEE Sensors J. 21(2), 2286–2298 (2021).
 *[Optimizing Intermediate Representations of Generative Models for Phase Retrieval](https://doi.org/10.48550/arXiv.2205.15617)*  
 Preprint at arXiv (2022).
 
-<a name="DLinPiNRpapers"></a>
+<a name="dl-papers-in-pin"></a>
 #### Physics-in-network (PiN) strategy 
 - C.-J. Wang, C.-K. Wen, S.-H. Tsai, and S. Jin    
 *[Phase Retrieval With Learning Unfolded Expectation Consistent Signal Recovery Algorithm](https://doi.org/10.1109/LSP.2020.2990767)*  
@@ -1093,9 +1093,9 @@ Opt. Express 30(24), 43398 (2022).
 *[HIONet: Deep priors based deep unfolded network for phase retrieval](https://doi.org/10.1016/j.dsp.2022.103797)*  
 Digital Signal Processing 132, 103797 (2022).
 
-<a name="DLpostRpapers"></a>
+<a name="dl-papers-post"></a>
 ### DL-post-processing for phase recovery
-<a name="DLpostNRRpapers"></a>
+<a name="dl-papers-post-nr"></a>
 #### Noise reduction
 - W. Jeon, W. Jeong, K. Son, and H. Yang    
 *[Speckle noise reduction for digital holographic images using multi-scale convolutional neural networks](https://doi.org/7)*  
@@ -1130,7 +1130,7 @@ Remote Sensing 14(19), 4956 (2022).
 
 
 
-<a name="DLpostRERpapers"></a>
+<a name="dl-papers-post-re"></a>
 #### Resolution enhancement
 - T. Liu, K. de Haan, Y. Rivenson, Z. Wei, X. Zeng, Y. Zhang, and A. Ozcan    
 *[Deep learning-based super-resolution in coherent imaging systems](https://doi.org/10.1038/s41598-019-40554-1)*  
@@ -1157,7 +1157,7 @@ IEEE Trans. Med. Imaging 40(11), 3229–3237 (2021).
 *[High throughput hemogram of T cells using digital holographic microscopy and deep learning](https://doi.org/10.1364/OPTCON.479857)*  
 Opt. Continuum 2(3), 670 (2023).
 
-<a name="DLpostACRpapers"></a>
+<a name="dl-papers-post-ac"></a>
 #### Aberration correction
 - T. Nguyen, V. Bui, V. Lam, C. B. Raub, L.-C. Chang, and G. Nehmetallah    
 *[Automatic phase aberration compensation for digital holographic microscopy based on deep learning background detection](https://doi.org/10.1364/OE.25.015043)*  
@@ -1175,7 +1175,7 @@ Meas. Sci. Technol. 32(10), 105203 (2021).
 *[Deep learning-assisted wavefront correction with sparse data for holographic tomography](https://doi.org/10.1016/j.optlaseng.2022.107010)*  
 Optics and Lasers in Engineering 154, 107010 (2022).
 
-<a name="DLpostPURpapers"></a>
+<a name="dl-papers-post-pu"></a>
 #### Phase unwrapping
 (Deep-learning-performed regression method, dRG)
 - G. Dardikman and N. T. Shaked  
@@ -1289,9 +1289,9 @@ IEEE Trans. Geosci. Remote Sensing 60, 1–16 (2021).
 *[InSAR Phase Unwrapping by Deep Learning Based on Gradient Information Fusion](https://doi.org/10.1109/LGRS.2021.3127318)*  
 IEEE Geosci. Remote Sensing Lett. 19, 1–5 (2021).
 
-<a name="DLppRpapers"></a>
+<a name="dl-papers-pp"></a>
 ### Deep learning for phase processing
-<a name="DLppSRpapers"></a>
+<a name="dl-papers-pp-s"></a>
 #### Segmentation
 - T. H. Nguyen, S. Sridharan, V. Macias, A. Kajdacsy-Balla, J. Melamed, M. N. Do, and G. Popescu  
 *[Automatic Gleason grading of prostate cancer using quantitative phase imaging and machine learning](https://doi.org/10.1117/1.JBO.22.3.036015)*  
@@ -1330,7 +1330,7 @@ ACS Photonics 9(4), 1264–1273 (2022).
 *[High-throughput digital pathology via a handheld, multiplexed, and AI-powered ptychographic whole slide scanner](https://doi.org/10.1039/D2LC00084A)*  
 Lab. Chip 22(14), 2657–2670 (2022).
 
-<a name="DLppCRpapers"></a>
+<a name="dl-papers-pp-c"></a>
 #### Classification
 (via conventional machine learning)
 - C. L. Chen, A. Mahjoubfar, L.-C. Tai, I. K. Blaby, A. Huang, K. R. Niazi, and B. Jalali  
@@ -1484,7 +1484,7 @@ BMC Ecol Evo 21(1), 123 (2021).
 *[Microplastic pollution assessment with digital holography and zero-shot learningt](https://doi.org/10.1063/5.0093439)*  
 APL Photonics 7(7), 076102 (2022).
 
-<a name="DLppIMTRpapers"></a>
+<a name="dl-papers-pp-imt"></a>
 #### Imaging modal transformation
 (Phase to bright-field or stained bright-field images)
 - Y. Wu, Y. Luo, G. Chaudhari, Y. Rivenson, A. Calis, K. de Haan, and A. Ozcan  
@@ -1532,11 +1532,11 @@ Nat. Photon. 17(3), 250–258 (2023).
 Nat Cell Biol 23(12), 1329–1337 (2021).
 
 ****
-<a name="papers"></a>
+<a name="review"></a>
 # Review/Tutorial papers
 (In chronological order)
 
-<a name="PLpapers"></a>
+<a name="pr-review"></a>
 ## Conventional phase recovery
 
 - Y. Shechtman, Y. C. Eldar, O. Cohen, H. N. Chapman, J. Miao, and M. Segev  
@@ -1591,7 +1591,7 @@ ACS Nano 16(8), 11516–11544 (2022).
 *[Wavefront Microscopy Using Quadriwave Lateral Shearing Interferometry: From Bioimaging to Nanophotonics](https://doi.org/10.1021/acsphotonics.2c01238),*  
 ACS Photonics 10(2), 322–339 (2023).
 
-<a name="DLpapers"></a>
+<a name="dl-review"></a>
 ## Deep-learning-based phase recovery
 
 - Y. Jo, H. Cho, S. Y. Lee, G. Choi, G. Kim, H. Min, and Y. Park  
@@ -1691,7 +1691,7 @@ in Progress in Optics (Elsevier, 2012), 57, pp. 133–217.
 
 
 ****
-<a name="DT"></a>
+<a name="dt"></a>
 # Dissertations and Thesis
 (In chronological order)
 
