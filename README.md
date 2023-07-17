@@ -11,7 +11,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 
 - [Contributing](#contributing)
 - [People and groups](#groups) (More people and groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
-   - [Asia](#groups_Asia)
+   - [Asia](#groups-Asia)
    - [Americas](#groups-Americas)
    - [Europe](#groups-Europe)
    - [Oceania](#groups-Oceania)
@@ -92,7 +92,7 @@ Please use the following guidelines:
 transport of intensity equation, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
 coherent diffractive imaging, optical diffraction tomography, computational imaging, biomedical imaging*)
 
-<a name="groups_Asia"></a>
+<a name="groups-Asia"></a>
 ## Asia
 - [Arun Anand ](https://www.spuvvn.edu/team/arun-anand/)(Sardar Patel University)  
 Keywords: holography and biomedical imaging etc.
