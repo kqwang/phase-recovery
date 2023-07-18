@@ -83,7 +83,7 @@ Please use the following guidelines:
 [//]: # ()
 [//]: # (</a>)
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 ****
 <a name="groups"></a>
 # People and groups
@@ -236,7 +236,8 @@ Keywords: phase imaging, optical diffraction tomography, and biomedical imaging 
 
 - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology)  
 Keywords: transport of intensity equation (TIE), phase imaging, and computational imaging etc.  
-[Bach to Table of contents](#toc)  
+
+[Back to Table of contents](#toc)  
 
 <a name="groups-americas"></a>
 ## Americas
@@ -375,7 +376,7 @@ Keywords: Fourier ptychography etc.
 - [Yunhui Zhu ](https://renayuki.wixsite.com/3doptics/)(Virginia Polytechnic Institute and State University)  
 Ketwords: transport of intensity equation (TIE) and phase imaging etc.  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 <a name="groups-europe"></a>
 ## Europe
@@ -479,7 +480,7 @@ Keywords: holography, phase retrieval, and coherent diffractive imaging etc.
 - [Michael Unser ](http://bigwww.epfl.ch/)(EPFL)  
 Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE), and biomedical imaging etc.  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 <a name="groups-oceania"></a> 
 ## Oceania
@@ -492,7 +493,7 @@ Keywords: phase retrieval, coherent diffractive imaging, and phase imaging etc.
 - [Konstantin Pavlov ](https://www.canterbury.ac.nz/science/contact-us/people/konstantin-pavlov.html)(University of Canterbury)  
 Keywords: phase retrieval and coherent diffractive imaging etc.  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 ****
 <a name="companies"></a>
@@ -532,7 +533,7 @@ Keywords: optical diffraction tomography etc.
 - [Zygo](https://www.zygo.com/)  
 Keywords: interferometer and coherence scanning interferometric (CSI) profiler etc.  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 ****
 <a name="workshops"></a>
@@ -544,7 +545,7 @@ Keywords: interferometer and coherence scanning interferometric (CSI) profiler e
    - ["Computational Microscopy Tutorials"](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
    - ["Diffractive Imaging with Phase Retrieval"](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)  
    
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 ****
 <a name="papers"></a>
@@ -603,7 +604,7 @@ in G. W. Hopkins, ed. (1979), pp. 223–230. (Conference)
 *[Quadriwave lateral shearing interferometry for quantitative phase microscopy of living cells](https://doi.org/10.1364/OE.17.0130804)*  
 Opt. Express 17(15), 13080 (2009).  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 <a name="Opapers"></a>
 ### Optimization-based approaches
@@ -665,7 +666,7 @@ IEEE Trans. Inform. Theory 64(2), 773–794 (2018).
 *[PhaseLift: Exact and Stable Signal Recovery from Magnitude Measurements via Convex Programming](https://doi.org/10.1002/cpa.21432)*  
 Comm. Pure Appl. Math. 66(8), 1241–1274 (2013).  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 <a name="dl-papers"></a>
 ## Deep-learning(DL)-based phase recovery
@@ -790,7 +791,7 @@ in 2022 2nd International Conference on Computer, Control and Robotics (ICCCR) (
 *[Fast autofocusing using tiny transformer networks for digital holographic microscopy](https://doi.org/10.1364/OE.458948)*  
 Opt. Express 30(14), 24730 (2022). 
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 <a name="dl-papers-in"></a>
 ### DL-in-processing for phase recovery
@@ -1109,7 +1110,7 @@ Opt. Express 30(24), 43398 (2022).
 *[HIONet: Deep priors based deep unfolded network for phase retrieval](https://doi.org/10.1016/j.dsp.2022.103797)*  
 Digital Signal Processing 132, 103797 (2022).  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 <a name="dl-papers-post"></a>
 ### DL-post-processing for phase recovery
@@ -1307,7 +1308,7 @@ IEEE Trans. Geosci. Remote Sensing 60, 1–16 (2021).
 *[InSAR Phase Unwrapping by Deep Learning Based on Gradient Information Fusion](https://doi.org/10.1109/LGRS.2021.3127318)*  
 IEEE Geosci. Remote Sensing Lett. 19, 1–5 (2021).  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 <a name="dl-papers-pp"></a>
 ### Deep learning for phase processing
@@ -1551,7 +1552,7 @@ Nat. Photon. 17(3), 250–258 (2023).
 *[Label-free multiplexed microtomography of endogenous subcellular dynamics using generalizable deep learning](https://doi.org/10.1038/s41556-021-00802-x)*  
 Nat Cell Biol 23(12), 1329–1337 (2021).  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 ****
 <a name="review"></a>
@@ -1664,7 +1665,7 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 ****
 <a name="bk"></a>
@@ -1711,7 +1712,7 @@ in Progress in Optics (Elsevier, 2012), 57, pp. 133–217.
 *[Computational Optical Phase Imaging, Progress in Optical Science and Photonics](https://link.springer.com/book/10.1007/978-981-19-1641-0),*  
 (Springer Singapore, 2022), 21.  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
 
 ****
 <a name="dt"></a>
@@ -1822,4 +1823,4 @@ Ph.D. Thesis, University of California, Los Angeles, 2022.
 *[Solving the phase retrieval problem using an artificial neural network](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
 Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarworks.calstate.edu/downloads/44558m79w)  
 
-[Bach to Table of contents](#toc)
+[Back to Table of contents](#toc)
