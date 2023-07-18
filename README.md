@@ -7,7 +7,8 @@ It contains many techniques and algorithms, such as holography/interferometry,
 transport of intensity equation (TIE), optimization-based approaches (phase retrieval), 
 wavefront-sensing-based approaches, and deep-learning-based approaches.
 ****
-## Table of Contents:
+<a name="toc"></a>
+## Table of contents:
 
 - [Contributing](#contributing)
 - [People and groups](#groups) (More people and groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
@@ -82,7 +83,7 @@ Please use the following guidelines:
 [//]: # ()
 [//]: # (</a>)
 
-
+[Bach to Table of contents](#toc)
 ****
 <a name="groups"></a>
 # People and groups
@@ -90,7 +91,8 @@ Please use the following guidelines:
 (Quick search by "Ctrl + F" with keywords:  
 *phase imaging, holography, interferometry, phase retrieval, Fourier ptychography, inverse problem, 
 transport of intensity equation, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
-coherent diffractive imaging, optical diffraction tomography, computational imaging, biomedical imaging*)
+coherent diffractive imaging, optical diffraction tomography, computational imaging, biomedical imaging*)  
+
 
 <a name="groups_asia"></a>
 ## Asia
@@ -233,7 +235,8 @@ Keywords: holography and computational imaging etc.
 Keywords: phase imaging, optical diffraction tomography, and biomedical imaging etc.
 
 - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology)  
-Keywords: transport of intensity equation (TIE), phase imaging, and computational imaging etc.
+Keywords: transport of intensity equation (TIE), phase imaging, and computational imaging etc.  
+[Bach to Table of contents](#toc)  
 
 <a name="groups-americas"></a>
 ## Americas
@@ -370,7 +373,9 @@ Keywords: phase imaging and biomedical imaging etc.
 Keywords: Fourier ptychography etc.
 
 - [Yunhui Zhu ](https://renayuki.wixsite.com/3doptics/)(Virginia Polytechnic Institute and State University)  
-Ketwords: transport of intensity equation (TIE) and phase imaging etc.
+Ketwords: transport of intensity equation (TIE) and phase imaging etc.  
+
+[Bach to Table of contents](#toc)
 
 <a name="groups-europe"></a>
 ## Europe
@@ -472,7 +477,9 @@ Keywords: holography etc.
 Keywords: holography, phase retrieval, and coherent diffractive imaging etc.
 
 - [Michael Unser ](http://bigwww.epfl.ch/)(EPFL)  
-Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE), and biomedical imaging etc.
+Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE), and biomedical imaging etc.  
+
+[Bach to Table of contents](#toc)
 
 <a name="groups-oceania"></a> 
 ## Oceania
@@ -483,7 +490,9 @@ Keywords: holography and biomedical imaging etc.
 Keywords: phase retrieval, coherent diffractive imaging, and phase imaging etc.
 
 - [Konstantin Pavlov ](https://www.canterbury.ac.nz/science/contact-us/people/konstantin-pavlov.html)(University of Canterbury)  
-Keywords: phase retrieval and coherent diffractive imaging etc.
+Keywords: phase retrieval and coherent diffractive imaging etc.  
+
+[Bach to Table of contents](#toc)
 
 ****
 <a name="companies"></a>
@@ -523,6 +532,8 @@ Keywords: optical diffraction tomography etc.
 - [Zygo](https://www.zygo.com/)  
 Keywords: interferometer and coherence scanning interferometric (CSI) profiler etc.  
 
+[Bach to Table of contents](#toc)
+
 ****
 <a name="workshops"></a>
 # Workshops (video or slides available)
@@ -531,8 +542,9 @@ Keywords: interferometer and coherence scanning interferometric (CSI) profiler e
 - ["Phase Retrieval"](https://www.bioxfel.org/phase-retrieval-2021) in BioXFEL (October 18 - 19, 2021)  
 - ["Computational Microscopy"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview) in IPAM (September 12 - December 16, 2022)
    - ["Computational Microscopy Tutorials"](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
-   - ["Diffractive Imaging with Phase Retrieval"](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
+   - ["Diffractive Imaging with Phase Retrieval"](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)  
    
+[Bach to Table of contents](#toc)
 
 ****
 <a name="papers"></a>
@@ -589,8 +601,9 @@ J. Opt. Soc. Am. 61, 656 (1971).
 in G. W. Hopkins, ed. (1979), pp. 223–230. (Conference)
 - P. Bon, G. Maucort, B. Wattellier, and S. Monneret  
 *[Quadriwave lateral shearing interferometry for quantitative phase microscopy of living cells](https://doi.org/10.1364/OE.17.0130804)*  
-Opt. Express 17(15), 13080 (2009).
+Opt. Express 17(15), 13080 (2009).  
 
+[Bach to Table of contents](#toc)
 
 <a name="Opapers"></a>
 ### Optimization-based approaches
@@ -650,8 +663,9 @@ IEEE Trans. Inform. Theory 64(2), 773–794 (2018).
 #### Convex optimization
 - E. J. Candès, T. Strohmer, and V. Voroninski  
 *[PhaseLift: Exact and Stable Signal Recovery from Magnitude Measurements via Convex Programming](https://doi.org/10.1002/cpa.21432)*  
-Comm. Pure Appl. Math. 66(8), 1241–1274 (2013).
+Comm. Pure Appl. Math. 66(8), 1241–1274 (2013).  
 
+[Bach to Table of contents](#toc)
 
 <a name="dl-papers"></a>
 ## Deep-learning(DL)-based phase recovery
@@ -774,7 +788,9 @@ in Three-Dimensional Imaging, Visualization, and Display 2020, (SPIE, 2020), p. 
 in 2022 2nd International Conference on Computer, Control and Robotics (ICCCR) (IEEE, 2022), pp. 235–240.
 - S. Cuenat, L. Andréoli, A. N. André, P. Sandoz, G. J. Laurent, R. Couturier, and M. Jacquot   
 *[Fast autofocusing using tiny transformer networks for digital holographic microscopy](https://doi.org/10.1364/OE.458948)*  
-Opt. Express 30(14), 24730 (2022).
+Opt. Express 30(14), 24730 (2022). 
+
+[Bach to Table of contents](#toc)
 
 <a name="dl-papers-in"></a>
 ### DL-in-processing for phase recovery
@@ -1091,7 +1107,9 @@ in 2022 IEEE International Conference on Image Processing (ICIP) (IEEE, 2022), p
 Opt. Express 30(24), 43398 (2022).
 - Y. Yang, Q. Lian, X. Zhang, D. Zhang, and H. Zhang    
 *[HIONet: Deep priors based deep unfolded network for phase retrieval](https://doi.org/10.1016/j.dsp.2022.103797)*  
-Digital Signal Processing 132, 103797 (2022).
+Digital Signal Processing 132, 103797 (2022).  
+
+[Bach to Table of contents](#toc)
 
 <a name="dl-papers-post"></a>
 ### DL-post-processing for phase recovery
@@ -1287,7 +1305,9 @@ IEEE Trans. Geosci. Remote Sensing 60, 1–15 (2021).
 IEEE Trans. Geosci. Remote Sensing 60, 1–16 (2021).
 - L. Li, H. Zhang, Y. Tang, C. Wang, and F. Gu  
 *[InSAR Phase Unwrapping by Deep Learning Based on Gradient Information Fusion](https://doi.org/10.1109/LGRS.2021.3127318)*  
-IEEE Geosci. Remote Sensing Lett. 19, 1–5 (2021).
+IEEE Geosci. Remote Sensing Lett. 19, 1–5 (2021).  
+
+[Bach to Table of contents](#toc)
 
 <a name="dl-papers-pp"></a>
 ### Deep learning for phase processing
@@ -1529,7 +1549,9 @@ Nat. Photon. 17(3), 250–258 (2023).
 (3D refractive index to fluorescence images)
 - Y. Jo, H. Cho, W. S. Park, G. Kim, D. Ryu, Y. S. Kim, M. Lee, S. Park, M. J. Lee, H. Joo, H. Jo, S. Lee, S. Lee, H. Min, W. D. Heo, and Y. Park  
 *[Label-free multiplexed microtomography of endogenous subcellular dynamics using generalizable deep learning](https://doi.org/10.1038/s41556-021-00802-x)*  
-Nat Cell Biol 23(12), 1329–1337 (2021).
+Nat Cell Biol 23(12), 1329–1337 (2021).  
+
+[Bach to Table of contents](#toc)
 
 ****
 <a name="review"></a>
@@ -1640,7 +1662,9 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 
 - J. Dong, L. Valzania, A. Maillard, T. Pham, S. Gigan, and M. Unser  
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
-IEEE Signal Process. Mag. 40(1), 45–57 (2023).
+IEEE Signal Process. Mag. 40(1), 45–57 (2023).  
+
+[Bach to Table of contents](#toc)
 
 ****
 <a name="bk"></a>
@@ -1685,10 +1709,9 @@ in Progress in Optics (Elsevier, 2012), 57, pp. 133–217.
 
 - C. Liu, S. Wang, and S. P. Veetil  
 *[Computational Optical Phase Imaging, Progress in Optical Science and Photonics](https://link.springer.com/book/10.1007/978-981-19-1641-0),*  
-(Springer Singapore, 2022), 21.
+(Springer Singapore, 2022), 21.  
 
-
-
+[Bach to Table of contents](#toc)
 
 ****
 <a name="dt"></a>
@@ -1797,4 +1820,6 @@ Ph.D. Thesis, University of California, Los Angeles, 2022.
 
 - Marissa A. Morado,  
 *[Solving the phase retrieval problem using an artificial neural network](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
-Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarworks.calstate.edu/downloads/44558m79w)
+Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarworks.calstate.edu/downloads/44558m79w)  
+
+[Bach to Table of contents](#toc)
