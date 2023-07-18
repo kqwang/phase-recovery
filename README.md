@@ -141,7 +141,7 @@ Keywords: holography, phase imaging, and computational imaging etc.
 - [Edmund Y. Lam ](https://www.eee.hku.hk/~elam/)(The University of Hong Kong)  
 Keywords: phase retrieval, holography and computational imaging etc.
 
-- [Byoungho Lee ](http://oeqelab.snu.ac.kr/)(Seoul National University)
+- [Byoungho Lee ](http://oeqelab.snu.ac.kr/)(Seoul National University)  
 Keywords: phase retrieval and holography etc.
 
 - [Cheng Liu ](http://science.jiangnan.edu.cn/content_js.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=5799)(Jiangnan University)  
