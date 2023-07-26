@@ -24,7 +24,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
      - [Transport of intensity equation](#tie-papers)
      - [Wavefront-sensing-based approaches](#ws-papers)
      - [Optimization-based approaches](#op-papers)
-       - [<font size=5>Alternating projection (AP)</font>](#op-ap-papers)
+       - [<font size=3>Alternating projection (AP)</font>](#op-ap-papers)
        - [Axial multi-intensity AP](#op-am-papers)
        - [Radial multi-intensity AP](#op-rm-papers)
        - [Angular multi-intensity AP](#op-anm-papers)
