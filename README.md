@@ -10,7 +10,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 <a name="toc"></a>
 ## Table of contents:
 
-- [Contributing](#contributing)  
+- [Contributing](#contributing)
 
 - [People and groups](#groups) (More people and groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
    - [Asia](#groups_asia)
@@ -18,7 +18,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
    - [Europe](#groups-europe)
    - [Oceania](#groups-oceania)  
 
-- [Companies](#companies)  
+- [Companies](#companies)
 
 - [Workshops](#workshops) (video or slides available)
 
