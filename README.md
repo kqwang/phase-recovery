@@ -11,13 +11,17 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 ## Table of contents:
 
 - [Contributing](#contributing)  
+
 - [People and groups](#groups) (More people and groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
    - [Asia](#groups_asia)
    - [Americas](#groups-americas)
    - [Europe](#groups-europe)
    - [Oceania](#groups-oceania)  
+
 - [Companies](#companies)  
-- [Workshops](#workshops) (video or slides available)  
+
+- [Workshops](#workshops) (video or slides available)
+
 - [Research papers](#papers)
    - [Conventional phase recovery](#pr-papers)
      - [Holography/Interferometry](#holo-papers)
@@ -51,10 +55,13 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
        - [Segmentation](#dl-papers-pp-s)
        - [Classification](#dl-papers-pp-c)
        - [Imaging modal transformation](#dl-papers-pp-imt)  
+
 - [Review / Tutorial papers](#review)
    - [Conventional phase recovery](#pr-review) 
    - [Deep-learning-based phase recovery](#dl-review)  
+
 - [Books](#bk)  
+
 - [Dissertations and Thesis](#dt)
 ****
    
