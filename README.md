@@ -1832,5 +1832,5 @@ Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarwo
 
 [Back to Top](#toc)
 
-
+****
 The format of this resource is inspired by https://github.com/uzh-rpg/event-based_vision_resources
