@@ -1831,6 +1831,3 @@ Ph.D. Thesis, University of California, Los Angeles, 2022.
 Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarworks.calstate.edu/downloads/44558m79w)  
 
 [Back to Top](#toc)
-
-****
-The format of this resource is inspired by https://github.com/uzh-rpg/event-based_vision_resources
