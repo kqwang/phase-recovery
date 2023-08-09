@@ -154,6 +154,10 @@ Keywords: phase retrieval and holography etc.
 - [Cheng Liu ](http://science.jiangnan.edu.cn/content_js.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=5799)(Jiangnan University)  
 Keywords: phase imaging etc.
 
+- [Ne-Te Duane Loh ](http://www.duaneloh.com/)(National University of Singapore)  
+Keywords: phase retrieval and wavefront sensing etc.
+
+
 - [Daniel P.K. Lun ](https://staff.eie.polyu.edu.hk/enpklun/)(The Hong Kong Polytechnic University)  
 Keywords: phase retrieval and computational imaging etc.
 
