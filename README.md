@@ -448,6 +448,9 @@ Keywords: phase retrieval and inverse problem etc.
 - [Malgorzata Kujawinska ](https://repo.pw.edu.pl/info/team/WUTc4120a0915514bb7abc5da8cba14778a/Holographic+Microscopy+And+Tomography+Team?ps=20&tab=&lang=en&pn=1&cid=26848)(Warsaw University of Technology)  
 Keywords: holography, phase imaging, and biomedical imaging etc.
 
+- [Tatiana Latychevskaia ](https://coherentimaging.wordpress.com/)(University of Zurich)
+Keywords: phase retrieval and holography etc.
+
 - [Filipe Maia ](http://lmb.icm.uu.se/)(Uppsala University)  
 Keywords: phase retrieval and coherent diffractive imaging etc.
 
