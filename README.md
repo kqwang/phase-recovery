@@ -86,10 +86,10 @@ Please use the following guidelines:
 <a name="groups"></a>
 # People and groups
 (In alphabetical order according to surnames)  
-(Quick search by "Ctrl + F" with keywords:  
+Quick search by "Ctrl + F" with keywords:  
 *phase imaging, holography, interferometry, phase retrieval, Fourier ptychography, inverse problem, 
 transport of intensity equation, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
-coherent diffractive imaging, optical diffraction tomography, computational imaging, biomedical imaging*)  
+coherent diffractive imaging, optical diffraction tomography, computational imaging, biomedical imaging*  
 
 
 <a name="groups_asia"></a>
