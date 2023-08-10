@@ -68,27 +68,18 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 <a name="contributing"></a>
 # Contributing
 
-***Anyone is welcome to join the list of contributors***, by adding or modifying relevant content via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
+***You are welcome to join the list of contributors***, by adding or modifying relevant content via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
+
+<a href="https://github.com/kqwang/phase-recovery/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=kqwang/phase-recovery" />
+</a>
 
 Please use the following guidelines:
 - Edit the raw file with [Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
 - Avoid typos.
 - Don't add what's already there.
 - Uniform the format of new additions with that of the existing.
-- Note the order of new additions (chronological or alphabetical).  
-
-[//]: # (## Contributors  )
-
-[//]: # (All those who contributed via ["fork and pull request"]&#40;https://docs.github.com/en/get-started/quickstart/contributing-to-projects&#41; will be shown below.)
-
-[//]: # ()
-[//]: # (<a href="https://github.com/kqwang/phase-recovery/graphs/contributors">)
-
-[//]: # ()
-[//]: # (<img src="https://contrib.rocks/image?repo=kqwang/phase-recovery" />)
-
-[//]: # ()
-[//]: # (</a>)
+- Note the order of new additions (chronological or alphabetical).
 
 [Back to Top](#toc)
 ****
