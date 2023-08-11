@@ -75,7 +75,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 </a>  
 
 
-[<img src="https://github.com/{{ kqwang }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ kqwang }}">{{ kqwang }}</a></sub>](https://github.com/{{ kqwang }}/{{ phase-recovery }}
+[<img src="https://github.com/kqwang.png" width="60px;"/><br /><sub><ahref="https://github.com/kqwang">kqwang</a></sub>](https://github.com/kqwang/phase-recovery)
 
 
 Please use the following guidelines:
