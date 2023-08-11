@@ -74,6 +74,10 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 <img src="https://contrib.rocks/image?repo=kqwang/phase-recovery" />
 </a>  
 
+
+[<img src="https://github.com/{{ kqwang }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ kqwang }}">{{ kqwang }}</a></sub>](https://github.com/{{ kqwang }}/{{ phase-recovery }}
+
+
 Please use the following guidelines:
 - Edit the raw file with [Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
 - Avoid typos.
