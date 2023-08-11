@@ -537,6 +537,9 @@ Keywords: holographic microscopy etc.
 - [Tomocube](https://www.tomocube.com/)  
 Keywords: optical diffraction tomography etc.
 
+- [Trioptics](https://trioptics.com/)  
+Keywords: wavefront sensing and interferometry etc.
+
 - [Zygo](https://www.zygo.com/)  
 Keywords: interferometer and coherence scanning interferometric (CSI) profiler etc.  
 
