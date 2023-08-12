@@ -1,7 +1,7 @@
 [//]: # (Created by Kaiqiang Wang)
 
 # Resources for phase recovery
-Here, I refer to the process of *“calculating the phase of a light field from 
+Here, we refer to the process of *“calculating the phase of a light field from 
 its amplitude/intensity measurements”* as phase recovery (PR). 
 It contains many techniques and algorithms, such as holography/interferometry, 
 transport of intensity equation (TIE), optimization-based approaches (phase retrieval), 
