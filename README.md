@@ -68,11 +68,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 <a name="contributing"></a>
 # Contributing
 
-***You are welcome to join the list of contributors***, by adding or modifying relevant content via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
-
-<a href="https://github.com/kqwang/phase-recovery/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=kqwang/phase-recovery" />
-</a>  
+***You are welcome to join as a contributor***, by adding or modifying relevant content via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
 
 Please use the following guidelines:
 - Edit the raw file with [Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
@@ -80,6 +76,10 @@ Please use the following guidelines:
 - Don't add what's already there.
 - Uniform the format of new additions with that of the existing.
 - Note the order of new additions (chronological or alphabetical).
+
+<a href="https://github.com/kqwang/phase-recovery/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=kqwang/phase-recovery" />
+</a>  
 
 [Back to Top](#toc)
 ****
