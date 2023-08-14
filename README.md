@@ -12,7 +12,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 
 - [Contributing](#contributing)
 
-- [People and groups](#groups) (More people and groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
+- [People or groups](#groups) (More people and groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
    - [Asia](#groups_asia)
    - [Americas](#groups-americas)
    - [Europe](#groups-europe)
@@ -20,7 +20,7 @@ wavefront-sensing-based approaches, and deep-learning-based approaches.
 
 - [Companies](#companies)
 
-- [Workshops](#workshops) (video or slides available)
+- [Workshops or courses](#workshops) (video or slides available)
 
 - [Research papers](#papers)
    - [Conventional phase recovery](#pr-papers)
@@ -550,7 +550,7 @@ Keywords: interferometer and coherence scanning interferometric (CSI) profiler e
 
 ****
 <a name="workshops"></a>
-# Workshops (video or slides available)
+# Workshops or courses (video or slides available)
 (In chronological order)
 
 - ["Phase Retrieval"](https://www.bioxfel.org/phase-retrieval-2021) in BioXFEL (October 18 - 19, 2021)  
