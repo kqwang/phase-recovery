@@ -78,8 +78,8 @@ Please use the following guidelines:
 - Note the order of new additions (chronological or alphabetical).
 
 <a href="https://github.com/kqwang/phase-recovery/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=kqwang/phase-recovery" />
-</a>  
+  <img src="https://contrib.rocks/image?repo=kqwang/phase-recovery" />
+</a>
 
 [Back to Top](#toc)
 ****
