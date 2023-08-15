@@ -299,9 +299,6 @@ Keywords: coherent diffractive imaging and atomic electron tomography etc.
 - [David Nolte ](http://www.physics.purdue.edu/nlo/)(Purdue University)  
 Keywords: interferometry and holography etc.
 
-- [Wolfgang Osten ](https://www.ito.uni-stuttgart.de/)(University of Stuttgart)  
-Keywords: interferometry and holography etc.
-
 - [Aydogan Ozcan ](https://research.seas.ucla.edu/ozcan/)(University of California, Los Angeles)  
 Keywords: phase imaging, holography, and lensless imaging etc.
 
@@ -462,6 +459,9 @@ Keywords: holography etc.
 
 - [Figen S. Oktem ](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)  
 Keywords: phase retrieval, inverse problem, and computational imaging etc.
+
+- [Wolfgang Osten ](https://www.ito.uni-stuttgart.de/)(University of Stuttgart)  
+Keywords: interferometry and holography etc.
 
 - [Nikolay V. Petrov ](https://scholar.google.com/citations?user=W1B-hagAAAAJ)(ITMO University)  
 Keywords: phase retrieval and holography etc.
