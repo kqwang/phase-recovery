@@ -4,8 +4,7 @@
 Here, we refer to the process of *“calculating the phase of a light field from 
 its amplitude/intensity measurements”* as phase recovery (PR). 
 It contains many techniques and algorithms, such as holography/interferometry, 
-transport of intensity equation (TIE), optimization-based approaches (phase retrieval), 
-wavefront sensing, and deep-learning-based approaches.
+transport of intensity equation (TIE),  phase retrieval (optimization-based approaches), wavefront sensing, and deep-learning-based approaches.
 ****
 <a name="toc"></a>
 ## Table of contents:
