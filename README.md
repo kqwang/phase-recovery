@@ -530,11 +530,11 @@ Keywords: optical diffraction tomography etc.
 - [Phase Holographic Imaging PHI AB](https://phiab.com/)  
 Keywords: digital holographic microscopy etc.
 
-- [Phasics](https://www.phasics.com/)  
-Keywords: wavefront sensing and quadriwave lateral shearing interferometry (QWLSI) etc.
-
 - [Phase Focus](https://www.phasefocus.com/)  
 Keywords: phase retrieval etc.
+
+- [Phasics](https://www.phasics.com/)  
+Keywords: wavefront sensing and quadriwave lateral shearing interferometry (QWLSI) etc.
 
 - [Phi Optics](https://phioptics.com/)  
 Keywords: holographic microscopy and spatial light interference microscopy (SLIM) etc.
