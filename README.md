@@ -459,6 +459,9 @@ Keywords: holography etc.
 - [Figen S. Oktem ](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)  
 Keywords: phase retrieval, inverse problem, and computational imaging etc.
 
+- [Wolfgang Osten ](https://www.ito.uni-stuttgart.de/)(University of Stuttgart)  
+Keywords: interferometry and holography etc.
+
 - [Nikolay V. Petrov ](https://scholar.google.com/citations?user=W1B-hagAAAAJ)(ITMO University)  
 Keywords: phase retrieval and holography etc.
 
@@ -529,6 +532,9 @@ Keywords: digital holographic microscopy etc.
 
 - [Phasics](https://www.phasics.com/)  
 Keywords: wavefront sensing and quadriwave lateral shearing interferometry (QWLSI) etc.
+
+- [Phase Focus](https://www.phasefocus.com/)  
+Keywords: phase retrieval etc.
 
 - [Phi Optics](https://phioptics.com/)  
 Keywords: holographic microscopy and spatial light interference microscopy (SLIM) etc.
