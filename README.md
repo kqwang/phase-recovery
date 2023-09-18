@@ -174,7 +174,7 @@ Keywords: phase imaging, optical diffraction tomography and biomedical imaging e
 - [Kemao Qian ](https://www3.ntu.edu.sg/home/mkmqian/)(Nanyang Technological University)  
 Keywords: phase unwrapping and fringe analysis etc.
 
-- [Chenggen Quan ](https://scholar.google.com/citations?user=CA9pJgwAAAAJ)(Phase Retrieval)  
+- [Chenggen Quan ](https://scholar.google.com/citations?user=CA9pJgwAAAAJ)(National University of Singapore)  
 Keywords: phase retrieval and holography etc.
 
 - [Liyong Ren ](http://aoi.snnu.edu.cn/)(Shaanxi Normal University)  
