@@ -572,7 +572,7 @@ Keywords: interferometer and coherence scanning interferometric (CSI) profiler e
 
 <a name="pr-papers"></a>
 ## Conventional phase recovery 
-(Here, we mention only the classic pioneering papers)
+(Here, we only mention the classic pioneering papers)
 <a name="holo-papers"></a>
 ### Holography/Interferometry
 
