@@ -652,7 +652,7 @@ Opt. Lett. 30(8), 833 (2005).
 Opt. Express 20(3), 3129 (2012).
 
 <a name="op-rm-papers"></a>
-#### Radial multi-intensity alternating projection (real-space ptychography)
+#### Radial multi-intensity alternating projection (Real-space ptychography)
 - H. M. L. Faulkner and J. M. Rodenburg  
 *[Movable Aperture Lensless Transmission Microscopy: A Novel Phase Retrieval Algorithm](https://doi.org/10.1103/PhysRevLett.93.023903)*  
 Phys. Rev. Lett. 93(2), 023903 (2004).
