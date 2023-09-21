@@ -222,11 +222,20 @@ Keywords: holography and super-resolution imaging etc.
 - [Masayuki Yokota ](http://www.ecs.shimane-u.ac.jp/~yokota/english/)(Shimane University)  
 Keywords: holography etc.
 
+- [Yingjie Yu ](https://auto.shu.edu.cn/info/1343/11077.htm)(Shanghai University)  
+Keywords: holography and computational imaging etc.
+
+- [Caojin Yuan ](http://physics.njnu.edu.cn/info/1050/1928.htm)(Nanjing Normal University)  
+Keywords: holography etc.
+
 - [Fucai Zhang ](http://zhangfc-research-group.com/)(Southern University of Science and Technology)  
 Keywords: phase retrieval, wavefront sensing, and holography etc.
 
 - [Shaohui Zhang ](https://scholar.google.nl/citations?hl=en&user=GDQ23eAAAAAJ)(Beijing Institute of Technology)  
 Keywords: phase retrieval and Fourier ptychography etc.
+
+- [Yaping Zhang ](https://lxy.kmust.edu.cn/info/1137/1762.htm)(Kunming University of Science and Technology)  
+Keywords: holography etc.
 
 - [Jianlin Zhao ](https://teacher.nwpu.edu.cn/m/en/1982000067.html)(Northwestern Polytechnical University)  
 Keywords: holography and computational imaging etc.
