@@ -640,7 +640,7 @@ Opt. Lett. 3(1), 27 (1978).
 Appl. Opt. 21(15), 2758 (1982).
 
 <a name="op-am-papers"></a>
-#### Axial multi-intensity alternating projection
+#### Axial multi-intensity alternating projection (Multi-height phase retrieval)
 - L. J. Allen and M. P. Oxley  
 *[Phase retrieval from series of images obtained by defocus variation](https://doi.org/10.1364/10.1016/S0030-4018(01)01556-5)*  
 Optics Communications 199(1–4), 65–75 (2001).
@@ -652,7 +652,7 @@ Opt. Lett. 30(8), 833 (2005).
 Opt. Express 20(3), 3129 (2012).
 
 <a name="op-rm-papers"></a>
-#### Radial multi-intensity alternating projection (Ptychographic iterative engine, PIE)
+#### Radial multi-intensity alternating projection (real-space ptychography)
 - H. M. L. Faulkner and J. M. Rodenburg  
 *[Movable Aperture Lensless Transmission Microscopy: A Novel Phase Retrieval Algorithm](https://doi.org/10.1103/PhysRevLett.93.023903)*  
 Phys. Rev. Lett. 93(2), 023903 (2004).
@@ -661,7 +661,7 @@ Phys. Rev. Lett. 93(2), 023903 (2004).
 Appl. Phys. Lett. 85(20), 4795–4797 (2004).
 
 <a name="op-anm-papers"></a>
-#### Angular multi-intensity alternating projection (Fourier ptychography, FP)
+#### Angular multi-intensity alternating projection (Fourier ptychography)
 - G. Zheng, R. Horstmeyer, and C. Yang  
 *[Wide-field, high-resolution Fourier ptychographic microscopy](https://doi.org/10.1038/nphoton.2013.187)*  
 Nature Photon 7(9), 739–745 (2013).
