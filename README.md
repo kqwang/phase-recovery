@@ -489,6 +489,9 @@ Keywords: holography, phase retrieval, and coherent diffractive imaging etc.
 - [Michael Unser ](http://bigwww.epfl.ch/)(EPFL)  
 Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE), and biomedical imaging etc.  
 
+- [Giovanni Volpe ](http://www.softmatterlab.org/)(Giovanni Volpe)  
+Keywords: holography in biomedical and particle analysis etc.  
+
 [Back to Top](#toc)
 
 <a name="groups-oceania"></a> 
