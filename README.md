@@ -459,7 +459,7 @@ Keywords: holography etc.
 - [Figen S. Oktem ](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)  
 Keywords: phase retrieval, inverse problem, and computational imaging etc.
 
-- [Wolfgang Osten ](https://www.ito.uni-stuttgart.de/)(University of Stuttgart)  
+- [Wolfgang Osten ](https://www.archida.uni-stuttgart.de/scientists/Osten-00005/)(University of Stuttgart)  
 Keywords: interferometry and holography etc.
 
 - [Nikolay V. Petrov ](https://scholar.google.com/citations?user=W1B-hagAAAAJ)(ITMO University)  
