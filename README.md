@@ -117,11 +117,14 @@ Keywords: phase imaging and optical diffraction tomography etc.
 - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(The University of Science and Technology of China)  
 Keywords: phase imaging and super-resolution imaging etc.
 
+- [Qionghai Dai ](http://media.au.tsinghua.edu.cn/english/index/index.html)(Tsinghua university)  
+Keywords: computational imaging and phase imaging etc.
+
 - [Shai Dekel ](https://www.shaidekel.com/)(Tel-Aviv University)  
 Keywords: phase retrieval etc.
 
 - [Jianglei Di ](https://www.researchgate.net/profile/Jianglei-Di)(GuangDong University of Technology)  
-Keywords: computational imaging and holography etc.
+Keywords: holography etc.
 
 - [Peng Gao ](https://faculty.xidian.edu.cn/GP3/zh_CN/index.htm)(Xidian University)  
 Keywords: phase imaging and super-resolution imaging etc.
