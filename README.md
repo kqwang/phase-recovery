@@ -240,7 +240,7 @@ Keywords: phase retrieval and Fourier ptychography etc.
 - [Yaping Zhang ](https://lxy.kmust.edu.cn/info/1137/1762.htm)(Kunming University of Science and Technology)  
 Keywords: holography etc.
 
-- [Jianlin Zhao ](https://teacher.nwpu.edu.cn/m/en/1982000067.html)(Northwestern Polytechnical University)  
+- [Jianlin Zhao ](https://scholar.google.com/citations?user=i0cHhBQAAAAJ)(Northwestern Polytechnical University)  
 Keywords: holography and computational imaging etc.
 
 - [Renjie Zhou ](https://www.renjiezhou.com/)(The Chinese University of Hong Kong)  
