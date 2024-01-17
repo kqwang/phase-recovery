@@ -1698,6 +1698,15 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).  
 
+- J. Park, B. Bai, D. Ryu, T. Liu, C. Lee, Y. Luo, M. J. Lee, L. Huang, J. Shin, Y. Zhang, D. Ryu, Y. Li, G. Kim, H. Min, A. Ozcan, and Y. Park  
+*[Artificial intelligence-enabled quantitative phase imaging methods for life sciences](https://doi.org/10.1038/s41592-023-02041-4),*  
+Nat Methods 20, 1645–1660 (2023).  
+
+- K. Wang, L. Song, C. Wang, Z. Ren, G. Zhao, J. Dou, J. Di, G. Barbastathis, R. Zhou, J. Zhao, and E. Y. Lam  
+*[On the use of deep learning for phase recover](https://doi.org/10.1038/s41377-023-01340-x),*  
+Light Sci Appl 13(1), 4 (2024).
+
+
 [Back to Top](#toc)
 
 ****
