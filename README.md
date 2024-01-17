@@ -1853,6 +1853,10 @@ Ph.D. Thesis, University of California, Berkeley, 2020.  [PDF](http://www2.eecs.
 *[Analysis and Development of Phase Retrieval Algorithms for Ptychography](https://etheses.whiterose.ac.uk/30033/)*,   
 Ph.D. Thesis, University of Sheffield, 2021. [PDF](https://etheses.whiterose.ac.uk/30033/1/zhuoqun_zhang_thesis_160251201_Corrected.pdf)
 
+- Baoliang Ge,  
+*[Single-shot quantitative interferometric microscopy for imaging high-speed dynamics](https://dspace.mit.edu/handle/1721.1/138988/)*,   
+Ph.D. Thesis, Massachusetts Institute of Technology, 2021. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/138988/ge-baoliang-phd-me-2021-thesis.pdf)
+
 - Obed A. Ayisi,  
 *[Multiple-Wavelength Phase Retrieval With Digital Holographic Microscopy](https://openknowledge.nau.edu/id/eprint/5717)*,   
 Masters Thesis, Northern Arizona University, 2021.
