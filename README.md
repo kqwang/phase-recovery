@@ -10,17 +10,13 @@ transport of intensity equation (TIE),  phase retrieval (optimization-based appr
 ## Table of contents:
 
 - [Contributing](#contributing)
-
 - [People or groups](#groups) (More people and groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
    - [Asia](#groups_asia)
    - [Americas](#groups-americas)
    - [Europe](#groups-europe)
-   - [Oceania](#groups-oceania)  
-
+   - [Oceania](#groups-oceania)
 - [Companies](#companies)
-
 - [Workshops or courses](#workshops) (video or slides available)
-
 - [Research papers](#papers)
    - [Conventional phase recovery](#pr-papers)
      - [Holography/Interferometry](#holo-papers)
@@ -53,14 +49,11 @@ transport of intensity equation (TIE),  phase retrieval (optimization-based appr
      - [DL for phase processing](#dl-papers-pp)
        - [Segmentation](#dl-papers-pp-s)
        - [Classification](#dl-papers-pp-c)
-       - [Imaging modal transformation](#dl-papers-pp-imt)  
-
+       - [Imaging modal transformation](#dl-papers-pp-imt)
 - [Review / Tutorial papers](#review)
    - [Conventional phase recovery](#pr-review) 
-   - [Deep-learning-based phase recovery](#dl-review)  
-
-- [Books](#bk)  
-
+   - [Deep-learning-based phase recovery](#dl-review)
+- [Books](#bk)
 - [Dissertations and Thesis](#dt)
 ****
    
