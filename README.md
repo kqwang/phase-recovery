@@ -259,13 +259,13 @@ Keywords: (compressive) holography and computational imaging etc.
 Keywords: wavefront sensing etc.
 
 - [Ni Chen ](https://ni-chen.github.io/)(University of Arizona)  
-Keywords: holography, phase imaging, and light field imaging etc.
+Keywords: differentiable holography, coherent diffraction imaging, differentiable imaging, and phase imaging etc.
 
 - [Mathew Cherukara ](https://www.mathewcherukara.com/)(Argonne National Laboratory)  
 Keywords: phase retrieval etc.
 
 - [Ana Doblas ](https://sites.google.com/view/oirl/home)(University of Memphis)  
-Keywords: differentiable holography, coherent diffraction imaging, differentiable imaging, and phase imaging etc.
+Keywords: holography and phase imaging etc.
 
 - [James R. Fienup ](https://labsites.rochester.edu/fienup/)(University of Rochester)  
 Keywords: phase retrieval, coherent diffractive imaging, and wavefront sensing etc.
