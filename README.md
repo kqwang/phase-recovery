@@ -11,7 +11,7 @@ transport of intensity equation (TIE),  phase retrieval (optimization-based appr
 ## Table of contents:
 
 - [Contributing](#contributing)
-- [People or groups](#groups) (More people and groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
+- [People or groups](#groups) (More groups in [Computational Imaging](https://github.com/kqwang/computational-imaging))
    - [Asia](#groups_asia)
    - [Americas](#groups-americas)
    - [Europe](#groups-europe)
