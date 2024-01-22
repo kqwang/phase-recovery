@@ -1,6 +1,7 @@
 [//]: # (Created by Kaiqiang Wang)
 
 # Resources for phase recovery
+This is a resource repository on phase recovery, released from [this review paper](https://doi.org/10.1038/s41377-023-01340-x).
 Here, we refer to the process of *“calculating the phase of a light field from 
 its amplitude/intensity measurements”* as phase recovery (PR). 
 It contains many techniques and algorithms, such as holography/interferometry, 
