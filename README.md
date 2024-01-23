@@ -996,6 +996,9 @@ Opt. Express 30(20), 35647 (2022).
 Appl. Phys. Lett. 122(13), 133701 (2023).
 
 (with trained networks)
+- L. Wu, S. Yoo, A. F. Suzana, T. A. Assefa, J. C. Diao, R. J. Harder, W. Cha and I. K. Robinson    
+*[Three-dimensional coherent X-ray diffraction imaging via deep convolutional neural networks](https://doi.org/10.1038/s41524-021-00644-z)*  
+npj Comput Mater 7(1), 124 (2022).
 - Y. Yao, H. Chan, S. Sankaranarayanan, P. Balaprakash, R. J. Harder, and M. J. Cherukara    
 *[AutoPhaseNN: unsupervised physics-aware deep learning of 3D nanoscale Bragg coherent diffraction imagin](https://doi.org/10.1038/s41524-022-00803-w)*  
 npj Comput Mater 8(1), 124 (2022).
@@ -1202,6 +1205,9 @@ IEEE Trans. Med. Imaging 40(11), 3229–3237 (2021).
 - R. K. Gupta, N. Hempler, G. P. A. Malcolm, K. Dholakia, and S. J. Powis    
 *[High throughput hemogram of T cells using digital holographic microscopy and deep learning](https://doi.org/10.1364/OPTCON.479857)*  
 Opt. Continuum 2(3), 670 (2023).
+- L. Wu, S. Bak, Y. H. Shin, Y. S. Chu, S. Yoo, I. K. Robinson and X. J. Huang    
+*[Resolution-enhanced X-ray fluorescence microscopy via deep residual networks](https://doi.org/10.1038/s41524-021-00644-z)*    
+Npj Computational Materials 9, 43 (2023).
 
 <a name="dl-papers-post-ac"></a>
 #### Aberration correction
