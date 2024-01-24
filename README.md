@@ -1206,7 +1206,7 @@ IEEE Trans. Med. Imaging 40(11), 3229–3237 (2021).
 *[High throughput hemogram of T cells using digital holographic microscopy and deep learning](https://doi.org/10.1364/OPTCON.479857)*  
 Opt. Continuum 2(3), 670 (2023).
 - L. Wu, S. Bak, Y. H. Shin, Y. S. Chu, S. Yoo, I. K. Robinson and X. J. Huang    
-*[Resolution-enhanced X-ray fluorescence microscopy via deep residual networks](https://doi.org/10.1038/s41524-021-00644-z)*    
+*[Resolution-enhanced X-ray fluorescence microscopy via deep residual networks](https://doi.org/10.1038/s41524-023-00995-9)*    
 Npj Computational Materials 9, 43 (2023).
 
 <a name="dl-papers-post-ac"></a>
