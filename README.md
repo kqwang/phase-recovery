@@ -80,7 +80,7 @@ Please use the following guidelines:
 # People and groups
 (In alphabetical order according to surnames)  
 Quick search by "Ctrl + F" with the following keywords:  
-*phase imaging, holography, interferometry, phase retrieval, (Fourier) Ptychography, inverse problem, 
+*phase imaging, holography, interferometry, phase retrieval, (Fourier) ptychography, inverse problem, 
 transport of intensity equation, wavefront sensing, adaptive optics, phase unwrapping, fringe analysis, 
 coherent diffractive imaging, optical diffraction tomography, computational imaging, biomedical imaging*  
 
@@ -287,7 +287,7 @@ Keywords: inverse problem and phase retrieval etc.
 Keywords: phase retrieval etc.
 
 - [Xiaojing Huang ](https://sites.google.com/site/xiaojinghuang/)(Brookhaven National Laboratory)  
-Keywords: phase retrieval, coherent diffractive imaging and Ptychography etc.
+Keywords: coherent diffraction imaging and ptychography etc.
 
 - [Roarke Horstmeyer ](http://horstmeyer.pratt.duke.edu/)(Duke University)  
 Keywords: Fourier ptychography and single-photon detection etc.
