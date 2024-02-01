@@ -2,8 +2,8 @@
 
 # Resources for phase recovery
 # Released from [here](https://doi.org/10.1038/s41377-023-01340-x)
-Here, we refer to \`\`\`diff - *“recovering the phase of a light field from 
-its amplitude/intensity measurements”* \`\`\` as phase recovery (PR), which contains many techniques and algorithms, such as holography/interferometry, 
+Here, we refer to *“calculating the phase of a light field from 
+its amplitude/intensity measurements”* as phase recovery (PR), which contains many techniques and algorithms, such as holography/interferometry, 
 transport of intensity equation (TIE),  phase retrieval (optimization-based approaches), wavefront sensing, and deep-learning-based approaches.
 ****
 <a name="toc"></a>
