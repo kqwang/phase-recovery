@@ -873,11 +873,11 @@ npj Comput Mater 8(1), 124 (2022).
 *[Physics-enhanced neural network for phase retrieval from two diffraction patterns](https://doi.org/10.1364/OE.469080)*  
 Opt. Express 30(18), 32680 (2022).
 - L. Huang, H. Chen, T. Liu, and A. Ozcan    
-*[GedankenNet: Self-supervised learning of hologram reconstruction using physics consistency](https://doi.org/10.48550/arXiv.2209.08288)*  
-Preprint at arXiv (2022).
+*[GedankenNet: Self-supervised learning of hologram reconstruction using physics consistency](https://doi.org/10.1038/s42256-023-00704-7)*  
+Nat Mach Intell 5, 895–907 (2023).
 - L. Bouchama, B. Dorizzi, J. Klossa, and Y. Gottesman    
 *[A physics-inspired deep learning framework for an efficient FPM reconstruction under low overlap conditions](https://doi.org/10.1364/opticaopen.22310506.v1)*  
-Preprint at arXiv (2023).
+Preprint at preprints.opticaopen.org (2023).
 
 
 <a name="dl-papers-in-pcn"></a>
