@@ -861,9 +861,6 @@ Opt. Express 30(20), 35647 (2022).
 - A. S. Galande, V. Thapa, H. P. R. Gurram, and R. John   
 *[Untrained deep network powered with explicit denoiser for phase recovery in inline holography](https://doi.org/10.1063/5.0144795)*  
 Appl. Phys. Lett. 122(13), 133701 (2023).
-- O. Hoidn, A. Mishra, and A. Mehta    
-*[Physics constrained unsupervised deep learning for rapid, high resolution scanning coherent diffraction reconstruction](https://doi.org/10.1038/s41598-023-48351-7)*   
-Sci Rep 13, 22789 (2023).
 
 (with trained networks)
 - L. Wu, S. Yoo, A. F. Suzana, T. A. Assefa, J. C. Diao, R. J. Harder, W. Cha and I. K. Robinson    
@@ -881,7 +878,9 @@ Nat Mach Intell 5, 895–907 (2023).
 - L. Bouchama, B. Dorizzi, J. Klossa, and Y. Gottesman    
 *[A physics-inspired deep learning framework for an efficient FPM reconstruction under low overlap conditions](https://doi.org/10.1364/opticaopen.22310506.v1)*  
 Preprint at preprints.opticaopen.org (2023).
-
+- O. Hoidn, A. Mishra, and A. Mehta    
+*[Physics constrained unsupervised deep learning for rapid, high resolution scanning coherent diffraction reconstruction](https://doi.org/10.1038/s41598-023-48351-7)*   
+Sci Rep 13, 22789 (2023).
 
 <a name="dl-papers-in-pcn"></a>
 #### Physics-connect-network (PcN) strategy 
