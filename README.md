@@ -1547,7 +1547,7 @@ IEEE Signal Process. Mag. 40(1), 45–57 (2023).
 *[Artificial intelligence-enabled quantitative phase imaging methods for life sciences](https://doi.org/10.1038/s41592-023-02041-4),*  
 Nat Methods 20, 1645–1660 (2023).
 - K. Wang, L. Song, C. Wang, Z. Ren, G. Zhao, J. Dou, J. Di, G. Barbastathis, R. Zhou, J. Zhao, and E. Y. Lam  
-*[On the use of deep learning for phase recover](https://doi.org/10.1038/s41377-023-01340-x),*  
+*[On the use of deep learning for phase recovery](https://doi.org/10.1038/s41377-023-01340-x),*  
 Light Sci Appl 13(1), 4 (2024).
 
 [Back to Top](#toc)
