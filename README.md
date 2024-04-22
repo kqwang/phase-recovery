@@ -353,6 +353,8 @@ Keywords: phase retrieval and holography etc.
 Keywords: holography and optical diffraction tomography etc.
 - [Pascal Picart ](http://perso.univ-lemans.fr/~ppicart/rech/perso/CV_ppicart.htm)(Le Mans University)  
 Keywords: holography and phase imaging etc.
+- [Rocco Pierri ](https://scholar.google.it/citations?user=4AlpepEAAAAJ&hl)(University of Campania Luigi Vanvitelli)  
+Keywords: phase retrieval and inverse problem etc.
 - [Benjamin Rappaz ](https://scholar.google.com/citations?user=qlzmb34AAAAJ)(EPFL)  
 Keywords: holography (holographic microscopy) etc.
 - [John Rodenburg ](https://www.rodenburg.org/)(The University of Sheffield)  
