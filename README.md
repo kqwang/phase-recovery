@@ -368,6 +368,10 @@ Keywords: holography, 3D imaging and 3D display etc.
 Keywords: holography etc.
 - [Latychevskaia Tatiana ](https://coherentimaging.wordpress.com/)(University of Zurich)  
 Keywords: holography, phase retrieval, and coherent diffractive imaging etc.
+
+- [Maciej Trusiak ](https://qcilab.mchtr.pw.edu.pl/)(Warsaw University of Technology)  
+Keywords: phase imaging and holography etc.
+
 - [Michael Unser ](http://bigwww.epfl.ch/)(EPFL)  
 Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE), and biomedical imaging etc.
 - [Giovanni Volpe ](http://www.softmatterlab.org/)(Giovanni Volpe)  
