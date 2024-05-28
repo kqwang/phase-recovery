@@ -267,6 +267,10 @@ Keywords: Fourier ptychography, transport of intensity equation (TIE), and compu
 Keywords: holography and phase imaging etc.
 - [Ashok Veeraraghavan ](https://www.computationalimaging.org/)(Rice University)  
 Keywords: wavefront sensing and lensless imaging etc.
+
+- [Dushan N. Wadduwage ](https://www.wadduwagelab.com/)(Harvard University)  
+Keywords: computational imaging and phase imaging etc.
+
 - [Kent Wallace ](https://scholar.google.com/citations?user=A7e_BKMAAAAJ)(Jet Propulsion Laboratory)  
 Keywords: wavefront sensing, interferometry, and holography etc.
 - [Laura Waller ](https://www.laurawaller.com/)(University of California, Berkeley)  
