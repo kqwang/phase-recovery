@@ -293,6 +293,9 @@ Ketwords: transport of intensity equation (TIE) and phase imaging etc.
 [Back to Top](#toc)
 <a name="groups-europe"></a>
 ## Europe
+- [Guillaume Baffou ](http://guillaume.baffou.com/)(Aix Marseille University, CNRS)  
+Keywords: phase imaging and quadriwave lateral shearing interferometry etc.
+
 - [Martin Booth ](https://eng.ox.ac.uk/dop/)(University of Oxford)  
 Keywords: wavefront sensing and adaptive optics etc.
 - [Artur Carnicer ](https://webgrec.ub.edu/webpages/000004/ang/artur.carnicer.ub.edu.html)(Universitat de Barcelona)  
