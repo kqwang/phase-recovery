@@ -1674,6 +1674,9 @@ Ph.D. Thesis, University of California, Los Angeles, 2019.  [PDF](https://eschol
 - Michael Kellman,  
 *[Physics-based Learning for Large-scale Computational Imaging](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-167.html)*,   
 Ph.D. Thesis, University of California, Berkeley, 2020.  [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-167.pdf)
+- Michael Chen,  
+*[Coded Illumination for Multidimensional Quantitative Phase Imaging](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-37.pdf)*,   
+Ph.D. Thesis, University of California, Berkeley, 2020.  [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-167.pdf)
 - Zhuoqun Zhang,  
 *[Analysis and Development of Phase Retrieval Algorithms for Ptychography](https://etheses.whiterose.ac.uk/30033/)*,   
 Ph.D. Thesis, University of Sheffield, 2021. [PDF](https://etheses.whiterose.ac.uk/30033/1/zhuoqun_zhang_thesis_160251201_Corrected.pdf)
