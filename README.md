@@ -1681,13 +1681,17 @@ Ph.D. Thesis, University of Sheffield, 2021. [PDF](https://etheses.whiterose.ac.
 *[Single-shot quantitative interferometric microscopy for imaging high-speed dynamics](https://dspace.mit.edu/handle/1721.1/138988/)*,   
 Ph.D. Thesis, Massachusetts Institute of Technology, 2021. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/138988/ge-baoliang-phd-me-2021-thesis.pdf)
 - Obed A. Ayisi,  
-*[Multiple-Wavelength Phase Retrieval With Digital Holographic Microscopy](https://openknowledge.nau.edu/id/eprint/5717)*,   
+*[Multiple-Wavelength Phase Retrieval With Digital Holographic Microscopy](https://openknowledge.nau.edu/id/eprint/5717)*,  
 Masters Thesis, Northern Arizona University, 2021.
 - Tairan Liu,  
 *[Deep Learning in Optical Microscopy, Holographic Imaging and Sensing](https://escholarship.org/uc/item/8k03d1g2)*,   
 Ph.D. Thesis, University of California, Los Angeles, 2022.
 - Marissa A. Morado,  
 *[Solving the phase retrieval problem using an artificial neural network](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
-Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarworks.calstate.edu/downloads/44558m79w)  
+Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarworks.calstate.edu/downloads/44558m79w)
+-Regina Eckert,  
+*[Robust 3D Quantitative Phase Imaging](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
+Ph.D. Thesis, University of California, Berkeley, 2022. [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-29.pdf)
+
 
 [Back to Top](#toc)
