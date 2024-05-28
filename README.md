@@ -1692,7 +1692,7 @@ Ph.D. Thesis, University of California, Los Angeles, 2022.
 - Marissa A. Morado,  
 *[Solving the phase retrieval problem using an artificial neural network](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
 Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarworks.calstate.edu/downloads/44558m79w)
--Regina Eckert,  
+- Regina Eckert,  
 *[Robust 3D Quantitative Phase Imaging](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
 Ph.D. Thesis, University of California, Berkeley, 2022. [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-29.pdf)
 
