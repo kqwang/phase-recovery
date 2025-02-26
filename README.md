@@ -106,7 +106,7 @@ Keywords: phase imaging and super-resolution imaging etc.
 Keywords: computational imaging and phase imaging etc.
 - [Shai Dekel ](https://www.shaidekel.com/)(Tel-Aviv University)  
 Keywords: phase retrieval etc.
-- [Jianglei Di ](https://www.researchgate.net/profile/Jianglei-Di)(GuangDong University of Technology)  
+- [Jianglei Di ](https://iptl.gdut.edu.cn/info/1020/1256.htm)(GuangDong University of Technology)  
 Keywords: holography etc.
 - [Peng Gao ](https://faculty.xidian.edu.cn/GP3/zh_CN/index.htm)(Xidian University)  
 Keywords: phase imaging and super-resolution imaging etc.
@@ -194,6 +194,8 @@ Keywords: holography etc.
 Keywords: holography and computational imaging etc.
 - [Renjie Zhou ](https://www.renjiezhou.com/)(The Chinese University of Hong Kong)  
 Keywords: phase imaging, optical diffraction tomography, and biomedical imaging etc.
+- [Liyun Zhong ](https://iptl.gdut.edu.cn/info/1020/1118.htm)(GuangDong University of Technology)  
+Keywords: phase imaging and holography etc.
 - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology)  
 Keywords: transport of intensity equation (TIE), phase imaging, and computational imaging etc.  
 
