@@ -255,8 +255,11 @@ Keywords: fringe analysis, phase retrieval, and phase unwrapping etc.
 Keywords: phase retrieval and coherent diffractive imaging etc.
 - [Austin Roorda ](http://roorda.vision.berkeley.edu/)(University of California, Berkeley)  
 Keywords: wavefront sensing and adaptive optics etc.
-- [Sujay Sanghavi ](http://users.ece.utexas.edu/~sanghavi)(University of Texas, Austin)  
-Keywords: phase retrieval etc.
+
+- [Shwetadwip Chowdhury](https://sites.utexas.edu/shwetadwip/)(University of Michigan)
+  Keywords: 3D phase imaging, coherent imaging, tomography
+- [Kevin C. Zhou](https://computationaloptics.engin.umich.edu/team/)(University of Texas, Austin)
+  Keywords: 3D phase imaging, inverse scattering, tomography
 - [Philip Schniter ](http://www2.ece.ohio-state.edu/~schniter/)(The Ohio State University)  
 Keywords: inverse problem and phase retrieval etc.
 - [Mahdi Soltanolkotabi ](http://www-bcf.usc.edu/~soltanol/)(University of Southern California)  
