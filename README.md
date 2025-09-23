@@ -1031,7 +1031,16 @@ in 2022 IEEE International Conference on Image Processing (ICIP) (IEEE, 2022), p
 Opt. Express 30(24), 43398 (2022).
 - Y. Yang, Q. Lian, X. Zhang, D. Zhang, and H. Zhang    
 *[HIONet: Deep priors based deep unfolded network for phase retrieval](https://doi.org/10.1016/j.dsp.2022.103797)*  
-Digital Signal Processing 132, 103797 (2022).  
+Digital Signal Processing 132, 103797 (2022).
+- Mehmet Onurcan Kaya and Figen S. Oktem    
+*[DDRM-PR: Fourier phase retrieval using denoising diffusion restoration models](https://opg.optica.org/ao/fulltext.cfm?uri=ao-64-5-A95&id=567917)*  
+Appl. Opt. 64(5), A95 (2025).
+- Mehmet Onurcan Kaya and Figen S. Oktem    
+*[I2I-PR: Deep Iterative Refinement for Phase Retrieval using Image-to-Image Diffusion Models](https://arxiv.org/abs/2507.09609)*  
+Preprint at arXiv (2025).
+- Mehmet Onurcan Kaya and Figen S. Oktem    
+*[prNet: Data-Driven Phase Retrieval via Stochastic Refinement](https://arxiv.org/abs/2507.09608)*  
+Preprint at arXiv (2025).
 
 [Back to Top](#toc)
 
@@ -1706,6 +1715,8 @@ Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarwo
 - Regina Eckert,  
 *[Robust 3D Quantitative Phase Imaging](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
 Ph.D. Thesis, University of California, Berkeley, 2022. [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-29.pdf)
-
+- Mehmet Onurcan Kaya,
+*[Data-driven phase retrieval using deep generative models](https://open.metu.edu.tr/handle/11511/110069)*,   
+M.Sc. Thesis, Middle East Technical University, 2024. [PDF](https://open.metu.edu.tr/bitstream/handle/11511/110069/OnurcanThesisDraft_shared%20(38).pdf)
 
 [Back to Top](#toc)
