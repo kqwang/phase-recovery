@@ -1715,7 +1715,7 @@ Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarwo
 - Regina Eckert,  
 *[Robust 3D Quantitative Phase Imaging](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
 Ph.D. Thesis, University of California, Berkeley, 2022. [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-29.pdf)
-- Mehmet Onurcan Kaya,
+- Mehmet Onurcan Kaya,  
 *[Data-driven phase retrieval using deep generative models](https://open.metu.edu.tr/handle/11511/110069)*,   
 M.Sc. Thesis, Middle East Technical University, 2024. [PDF](https://open.metu.edu.tr/bitstream/handle/11511/110069/OnurcanThesisDraft_shared%20(38).pdf)
 
