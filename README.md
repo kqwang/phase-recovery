@@ -1008,6 +1008,9 @@ IEEE Sensors J. 21(2), 2286–2298 (2021).
 - T. Uelwer, S. Konietzny, and S. Harmeling    
 *[Optimizing Intermediate Representations of Generative Models for Phase Retrieval](https://doi.org/10.48550/arXiv.2205.15617)*  
 Preprint at arXiv (2022).
+- Mehmet Onurcan Kaya and Figen S. Oktem    
+*[DDRM-PR: Fourier phase retrieval using denoising diffusion restoration models](https://opg.optica.org/ao/fulltext.cfm?uri=ao-64-5-A95&id=567917)*  
+Appl. Opt. 64(5), A95 (2025).
 
 <a name="dl-papers-in-pin"></a>
 #### Physics-in-network (PiN) strategy 
@@ -1032,9 +1035,6 @@ Opt. Express 30(24), 43398 (2022).
 - Y. Yang, Q. Lian, X. Zhang, D. Zhang, and H. Zhang    
 *[HIONet: Deep priors based deep unfolded network for phase retrieval](https://doi.org/10.1016/j.dsp.2022.103797)*  
 Digital Signal Processing 132, 103797 (2022).
-- Mehmet Onurcan Kaya and Figen S. Oktem    
-*[DDRM-PR: Fourier phase retrieval using denoising diffusion restoration models](https://opg.optica.org/ao/fulltext.cfm?uri=ao-64-5-A95&id=567917)*  
-Appl. Opt. 64(5), A95 (2025).
 - Mehmet Onurcan Kaya and Figen S. Oktem    
 *[I2I-PR: Deep Iterative Refinement for Phase Retrieval using Image-to-Image Diffusion Models](https://arxiv.org/abs/2507.09609)*  
 Preprint at arXiv (2025).
