@@ -988,6 +988,27 @@ Preprint at arXiv (2022)
 - Q. Chen, D. Huang, and R. Chen    
 *[Fourier ptychographic microscopy with untrained deep neural network priors](https://doi.org/)*  
 Opt. Express 30(22), 39597 (2022).
+- Y. Sun, J. Liu, M. Xie, B. Wohlberg, and U. S. Kamilov    
+*[CoIL: Coordinate-Based Internal Learning for Tomographic Imaging](https://doi.org/10.1109/TCI.2021.3125564)*  
+IEEE Trans. Comput. Imaging 7, 1400-1412 (2021).
+- H. Zhu, Z. Liu, Y. Zhou, Z. Ma, and X. Cao    
+*[DNF: Diffractive Neural Field for Lensless Microscopic Imaging](https://doi.org/10.1364/OE.455360)*  
+Opt. Express 30(11), 18168 (2022).
+- R. Liu, Y. Sun, J. Zhu, L. Tian, and U. S. Kamilov    
+*[Recovery of Continuous 3D Refractive Index Maps from Discrete Intensity-Only Measurements Using Neural Fields](https://doi.org/10.1038/s42256-022-00530-3)*  
+Nat. Mach. Intell. 4(9), 781-791 (2022).
+- Z. Liu, H. Zhu, Y. Zhou, Z. Ma, and X. Cao    
+*[Intelligent phase imaging guided by physics models](https://doi.org/10.11959/j.issn.2096-3750.2023.00345)*  
+Chinese Journal on Internet of Things 7(2), 35-42 (2023).
+- H. Zhou, B. Y. Feng, H. Guo, S. Lin, M. Liang, C. A. Metzler, and C. Yang    
+*[Fourier Ptychographic Microscopy Image Stack Reconstruction Using Implicit Neural Representations](https://doi.org/10.1364/OPTICA.505283)*  
+Optica 10(12), 1679 (2023).
+- Y. Jin, L. Lu, S. Zhou, J. Zhou, Y. Fan, and C. Zuo    
+*[Neural-Field-Assisted Transport-of-Intensity Phase Microscopy: Partially Coherent Quantitative Phase Imaging under Unknown Defocus Distance](https://doi.org/10.1364/PRJ.521056)*  
+Photon. Res. 12(7), 1494 (2024).
+- J. Kim, Y. Kim, H. S. Lee, E. Seo, and S. J. Lee    
+*[Single-Shot Reconstruction of Three-Dimensional Morphology of Biological Cells in Digital Holographic Microscopy Using a Physics-Driven Neural Network](https://doi.org/10.1038/s41467-025-60200-x)*  
+Nat Commun 16(1), 4840 (2025).
 
 (trained networks as generative-prior regularization)
 - P. Hand, O. Leong, and V. Voroninski    
