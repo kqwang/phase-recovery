@@ -731,13 +731,13 @@ Opt. Express 26(22), 29340 (2018).
 *[Real-time coherent diffraction inversion using deep generative networks](https://doi.org/10.1038/s41598-018-34525-1)*  
 Sci Rep 8(1), 16520 (2018).
 - <a name="Goy18prl"></a> A. Goy, K. Arthur, S. Li, and G. Barbastathis   
-*[Low Photon Count Phase Retrieval Using Deep Learning](https://doi.org/PhysRevLett.121.243902)*  
+*[Low Photon Count Phase Retrieval Using Deep Learning](https://doi.org/10.1103/PhysRevLett.121.243902)*  
 Phys. Rev. Lett. 121(24), 243902 (2018).
 - Y. F. Cheng, M. Strachan, Z. Weiss, M. Deb, D. Carone, and V. Ganapati   
 *[Illumination pattern design with deep learning for single-shot Fourier ptychographic microscopy](https://doi.org/10.1364/OE.27.000644)*  
 Opt. Express 27(2), 644 (2019).
 - Z. Ren, Z. Xu, and E. Y. Lam   
-*[End-to-end deep learning framework for digital holographic reconstruction](https://doi.org/10.1103/10.1117/1.AP.1.1.016004)*  
+*[End-to-end deep learning framework for digital holographic reconstruction](https://doi.org/10.1117/1.AP.1.1.016004)*  
 Adv. Photon. 1(01), 1 (2019).
 - X. Li, H. Qi, S. Jiang, P. Song, G. Zheng, and Y. Zhang   
 *[Quantitative phase imaging via a cGAN network with dual intensity images captured under centrosymmetric illumination](https://doi.org/10.1364/OL.44.002879)*  
@@ -877,7 +877,7 @@ Opt. Express 29(20), 31426 (2021).
 *[Dual-wavelength in-line digital holography with untrained deep neural networks](https://doi.org/10.1364/PRJ.441054)*  
 Photon. Res. 9(12), 2501 (2021).
 - X. Zhang, F. Wang, and G. Situ   
-*[BlindNet: an untrained learning approach toward computational imaging with model uncertaint](https://doi.org/10.1088/1361-6463/ac2ad4)*  
+*[BlindNet: an untrained learning approach toward computational imaging with model uncertainty](https://doi.org/10.1088/1361-6463/ac2ad4)*  
 J. Phys. D: Appl. Phys. 55(3), 034001 (2022).
 - D. Yang, J. Zhang, Y. Tao, W. Lv, Y. Zhu, T. Ruan, H. Chen, X. Jin, Z. Wang, J. Qiu, and Y. Shi   
 *[Coherent modulation imaging using a physics-driven neural network](https://doi.org/10.1364/OE.472083)*  
@@ -909,27 +909,27 @@ Sci Rep 13, 22789 (2023).
 <a name="dl-papers-in-pcn"></a>
 #### Physics-connect-network (PcN) strategy 
 - Y. Rivenson, Y. Zhang, H. Günaydın, D. Teng, and A. Ozcan    
-*[Phase recovery and holographic image reconstruction using deep learning in neural networks](https://doi.org/)*  
+*[Phase recovery and holographic image reconstruction using deep learning in neural networks](https://doi.org/10.1038/lsa.2017.141)*  
 Light Sci Appl 7(2), 17141 (2018).
 - Y. Wu, Y. Rivenson, Y. Zhang, Z. Wei, H. Günaydin, X. Lin, and A. Ozcan    
-*[Extended depth-of-field in holographic imaging using deep-learning-based autofocusing and phase recovery](https://doi.org/)*  
+*[Extended depth-of-field in holographic imaging using deep-learning-based autofocusing and phase recovery](https://doi.org/10.1364/OPTICA.5.000704)*  
 Optica 5(6), 704 (2018).
 - [Goy et al., Phys. Rev. Lett. 2018](#Goy18prl), 
 *Low Photon Count Phase Retrieval Using Deep Learning*
 - J. Zhang, T. Xu, Z. Shen, Y. Qiao, and Y. Zhang    
-*[Fourier ptychographic microscopy reconstruction with multiscale deep residual network](https://doi.org/)*  
+*[Fourier ptychographic microscopy reconstruction with multiscale deep residual network](https://doi.org/10.1364/OE.27.008612)*  
 Opt. Express 27(6), 8612 (2019).
 - M. Deng, A. Goy, S. Li, K. Arthur, and G. Barbastathis    
-*[Probing shallower: perceptual loss trained Phase Extraction Neural Network (PLT-PhENN) for artifact-free reconstruction at low photon budget](https://doi.org/)*  
+*[Probing shallower: perceptual loss trained Phase Extraction Neural Network (PLT-PhENN) for artifact-free reconstruction at low photon budget](https://doi.org/10.1364/OE.381301)*  
 Opt. Express 28(2), 2511 (2020).
 - M. Deng, S. Li, A. Goy, I. Kang, and G. Barbastathis    
-*[Learning to synthesize: robust phase retrieval at low photon counts](https://doi.org/)*  
+*[Learning to synthesize: robust phase retrieval at low photon counts](https://doi.org/10.1038/s41377-020-0267-2)*  
 Light Sci Appl 9(1), 36 (2020).
 - I. Kang, F. Zhang, and G. Barbastathis    
-*[Phase extraction neural network (PhENN) with coherent modulation imaging (CMI) for phase retrieval at low photon counts](https://doi.org/)*  
+*[Phase extraction neural network (PhENN) with coherent modulation imaging (CMI) for phase retrieval at low photon counts](https://doi.org/10.1364/OE.397430)*  
 Opt. Express 28(15), 21578 (2020).
 - I. Moon, K. Jaferzadeh, Y. Kim, and B. Javidi    
-*[Noise-free quantitative phase imaging in Gabor holography with conditional generative adversarial network](https://doi.org/)*  
+*[Noise-free quantitative phase imaging in Gabor holography with conditional generative adversarial network](https://doi.org/10.1364/OE.398528)*  
 Opt. Express 28(18), 26284 (2020).
 - [Huang et al., ACS Photonics 2021](#Huang21acsp),   
 *Holographic Image Reconstruction with Phase Recovery and Autofocusing Using Recurrent Neural Networks*
@@ -962,31 +962,31 @@ Opt. Lett. 46(23), 5942 (2021).
 
 (untrained networks as structural-prior regularization)
 - G. Jagatap and C. Hegde    
-*[Phase Retrieval using Untrained Neural Network Priors](https://doi.org/)*  
+*[Phase Retrieval using Untrained Neural Network Priors](https://openreview.net/pdf/80e4e1dc3e1999e801afa8e4d61cb3447b49ac69.pdf)*  
 in NeurIPS 2019 Workshop on Solving Inverse Problems with Deep Networks (2019).
 - G. Jagatap and C. Hegde    
-*[Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors](https://doi.org/)*  
+*[Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors](https://proceedings.neurips.cc/paper/2019/hash/831b342d8a83408e5960e9b0c5f31f0c-Abstract.html)*  
 in Advances in Neural Information Processing Systems 32 (2019).
 - K. C. Zhou and R. Horstmeyer    
-*[Diffraction tomography with a deep image prior](https://doi.org/)*  
+*[Diffraction tomography with a deep image prior](https://doi.org/10.1364/OE.379200)*  
 Opt. Express 28(9), 12872 (2020).
 - F. Shamshad, A. Hanif, and A. Ahmed    
 *[Subsampled Fourier Ptychography using Pretrained Invertible and Untrained Network Priors](http://arxiv.org/abs/2005.07026)*  
 Preprint at arXiv (2020).
 - E. Bostan, R. Heckel, M. Chen, M. Kellman, and L. Waller    
-*[Deep phase decoder: self-calibrating phase microscopy with an untrained deep neural network](https://doi.org/)*  
+*[Deep phase decoder: self-calibrating phase microscopy with an untrained deep neural network](https://doi.org/10.1364/OPTICA.389314)*  
 Optica 7(6), 559 (2020).
 - H. Lawrence, D. A. Barmherzig, H. Li, M. Eickenberg, and M. Gabrié    
 *[Phase Retrieval with Holography and Untrained Priors: Tackling the Challenges of Low-Photon Nanoscale Imaging](http://arxiv.org/abs/2012.07386)*  
 Preprint at arXiv (2021).
 - F. Niknam, H. Qazvini, and H. Latifi    
-*[Holographic optical field recovery using a regularized untrained deep decoder network](https://doi.org/)*  
+*[Holographic optical field recovery using a regularized untrained deep decoder network](https://doi.org/10.1038/s41598-021-90312-5)*  
 Sci Rep 11(1), 10903 (2021).
 - L. Ma, H. Wang, N. Leng, and Z. Yuan    
 *[ADMM based Fourier phase retrieval with untrained generative prior](http://arxiv.org/abs/2210.12646)*  
 Preprint at arXiv (2022)
 - Q. Chen, D. Huang, and R. Chen    
-*[Fourier ptychographic microscopy with untrained deep neural network priors](https://doi.org/)*  
+*[Fourier ptychographic microscopy with untrained deep neural network priors](https://doi.org/10.1364/OE.472171)*  
 Opt. Express 30(22), 39597 (2022).
 - H. Zhu, Z. Liu, Y. Zhou, Z. Ma, and X. Cao    
 *[DNF: Diffractive Neural Field for Lensless Microscopic Imaging](https://doi.org/10.1364/OE.455360)*  
@@ -1067,34 +1067,34 @@ Preprint at arXiv (2025).
 <a name="dl-papers-post-nr"></a>
 #### Noise reduction
 - W. Jeon, W. Jeong, K. Son, and H. Yang    
-*[Speckle noise reduction for digital holographic images using multi-scale convolutional neural networks](https://doi.org/7)*  
+*[Speckle noise reduction for digital holographic images using multi-scale convolutional neural networks](https://doi.org/10.1364/OL.43.004240)*  
 Opt. Lett. 43(17), 4240 (2018).
 - G. Choi, D. Ryu, Y. Jo, Y. S. Kim, W. Park, H. Min, and Y. Park    
-*[Cycle-consistent deep learning approach to coherent noise reduction in optical diffraction tomography](https://doi.org/7)*  
+*[Cycle-consistent deep learning approach to coherent noise reduction in optical diffraction tomography](https://doi.org/10.1364/OE.27.004927)*  
 Opt. Express 27(4), 4927 (2019).
 - J. Zhang, X. Tian, J. Shao, H. Luo, and R. Liang    
-*[Phase unwrapping in optical metrology via denoised and convolutional segmentation networks](https://doi.org/7)*  
+*[Phase unwrapping in optical metrology via denoised and convolutional segmentation networks](https://doi.org/10.1364/OE.27.014903)*  
 Opt. Express 27(10), 14903 (2019).
 - K. Yan, Y. Yu, T. Sun, A. Asundi, and Q. Kemao    
-*[Wrapped phase denoising using convolutional neural networks](https://doi.org/7)*  
+*[Wrapped phase denoising using convolutional neural networks](https://doi.org/10.1016/j.optlaseng.2019.105999)*  
 Optics and Lasers in Engineering 128, 105999 (2020).
 - S. Montresor, M. Tahon, A. Laurent, and P. Picart    
-*[Computational de-noising based on deep learning for phase data in digital holographic interferometry](https://doi.org/7)*  
+*[Computational de-noising based on deep learning for phase data in digital holographic interferometry](https://doi.org/10.1063/1.5140645)*  
 APL Photonics 5(3), 030802 (2020).
 - K. Yan, L. Chang, M. Andrianakis, V. Tornari, and Y. Yu    
-*[Deep Learning-Based Wrapped Phase Denoising Method for Application in Digital Holographic Speckle Pattern Interferometry](https://doi.org/7)*  
+*[Deep Learning-Based Wrapped Phase Denoising Method for Application in Digital Holographic Speckle Pattern Interferometry](https://doi.org/10.3390/app10114044)*  
 Applied Sciences 10(11), 4044 (2020).
 - M. Tahon, S. Montresor, and P. Picart    
-*[Towards Reduced CNNs for De-Noising Phase Images Corrupted with Speckle Noise](https://doi.org/7)*  
+*[Towards Reduced CNNs for De-Noising Phase Images Corrupted with Speckle Noise](https://doi.org/10.3390/photonics8070255)*  
 Photonics 8(7), 255 (2021).
 - Q. Fang, H. Xia, Q. Song, M. Zhang, R. Guo, S. Montresor, and P. Picart    
-*[Speckle denoising based on deep learning via a conditional generative adversarial network in digital holographic interferometry](https://doi.org/7)*  
+*[Speckle denoising based on deep learning via a conditional generative adversarial network in digital holographic interferometry](https://doi.org/10.1364/OE.459213)*  
 Opt. Express 30(12), 20666 (2022).
 - M. Tahon, S. Montrésor, and P. Picart    
-*[Deep Learning Network for Speckle De-Noising in Severe Conditions](https://doi.org/7)*  
+*[Deep Learning Network for Speckle De-Noising in Severe Conditions](https://doi.org/10.3390/jimaging8060165)*  
 J. Imaging 8(6), 165 (2022).
 - G. Murdaca, A. Rucci, and C. Prati    
-*[Deep Learning for InSAR Phase Filtering: An Optimized Framework for Phase Unwrapping](https://doi.org/7)*  
+*[Deep Learning for InSAR Phase Filtering: An Optimized Framework for Phase Unwrapping](https://doi.org/10.3390/rs14194956)*  
 Remote Sensing 14(19), 4956 (2022).
 
 
@@ -1455,7 +1455,7 @@ Quant Imaging Med Surg 11(9), 4137–4148 (2021).
 *[Plankton classification with high-throughput submersible holographic microscopy and transfer learning](https://doi.org/10.1186/s12862-021-01839-0)*  
 BMC Ecol Evo 21(1), 123 (2021).
 - Y. Zhu, H. K. A. Lo, C. H. Yeung, and E. Y. Lam  
-*[Microplastic pollution assessment with digital holography and zero-shot learningt](https://doi.org/10.1063/5.0093439)*  
+*[Microplastic pollution assessment with digital holography and zero-shot learning](https://doi.org/10.1063/5.0093439)*  
 APL Photonics 7(7), 076102 (2022).
 
 <a name="dl-papers-pp-imt"></a>
@@ -1495,7 +1495,7 @@ ACS Sens. 6(5), 1864–1874 (2021).
 Biomed. Opt. Express 12(7), 4363 (2021).
 - X. Chen, M. E. Kandel, S. He, C. Hu, Y. J. Lee, K. Sullivan, G. Tracy, H. J. Chung, H. J. Kong, M. Anastasio, and G. Popescu  
 *[Artificial confocal microscopy for deep label-free imaging](https://doi.org/10.48550/arXiv.2110.14823)*  
-Preprint at /arXiv (2021).
+Preprint at arXiv (2021).
 - X. Chen, M. E. Kandel, S. He, C. Hu, Y. J. Lee, K. Sullivan, G. Tracy, H. J. Chung, H. J. Kong, M. Anastasio, and G. Popescu  
 *[Artificial confocal microscopy for deep label-free imaging](https://doi.org/10.1038/s41566-022-01140-6)*  
 Nat. Photon. 17(3), 250–258 (2023).
