@@ -102,7 +102,7 @@ Keywords: holography etc.
 Keywords: phase imaging and optical diffraction tomography etc.
 - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(The University of Science and Technology of China)  
 Keywords: phase imaging and super-resolution imaging etc.
-- [Qionghai Dai ](http://media.au.tsinghua.edu.cn/english/index/index.html)(Tsinghua university)  
+- [Qionghai Dai ](https://mcgovern.life.tsinghua.edu.cn/en/infoshow-2173.html)(Tsinghua university)  
 Keywords: computational imaging and phase imaging etc.
 - [Shai Dekel ](https://www.shaidekel.com/)(Tel-Aviv University)  
 Keywords: phase retrieval etc.
@@ -168,9 +168,9 @@ Keywords: phase imaging, holography, and computational imaging etc.
 Keywords: phase retrieval, holography, and coherent diffractive imaging etc.
 - [Xiaodi Tan ](http://www.io-lab.cn/)(Fujian Normal University)  
 Keywords: holography etc.
-- [Peter Wai Ming Tsang ](https://scholars.cityu.edu.hk/en/persons/wai-ming-peter-tsang(892d3f89-71e1-4348-9bd0-c27f242c0d00).html)(City University of Hong Kong)  
+- [Peter Wai Ming Tsang ](https://loop.frontiersin.org/people/314320/overview)(City University of Hong Kong)  
 Keywords: holography etc.
-- [Yang Wang ](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-wang-yangwang)(The Hong Kong University of Science and Technology)  
+- [Yang Wang ](https://www.math.hkust.edu.hk/people/faculty/profile/yangwang/)(The Hong Kong University of Science and Technology)  
 Keywords: phase retrieval etc.
 - [Dayong Wang ](https://slxy.bjut.edu.cn/info/1084/2153.htm)(Beijing University of Technology)  
 Keywords: holography etc.
@@ -178,7 +178,7 @@ Keywords: holography etc.
 Keywords: holography (display) etc.
 - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
 Keywords: holography and super-resolution imaging etc.
-- [Masayuki Yokota ](http://www.ecs.shimane-u.ac.jp/~yokota/english/)(Shimane University)  
+- [Masayuki Yokota ](https://www.ipc.shimane-u.ac.jp/yokota/member_eng.html)(Shimane University)  
 Keywords: holography etc.
 - [Yingjie Yu ](https://auto.shu.edu.cn/info/1343/11077.htm)(Shanghai University)  
 Keywords: holography and computational imaging etc.
@@ -224,7 +224,7 @@ Keywords: phase retrieval etc.
 - [Joseph Goodman ](https://scholar.google.com/citations?user=joYrFnYAAAAJ)(Stanford University)  
 Keywords: holography etc.
 - [Peter de Groot  ](https://scholar.google.com/citations?user=y1wTRV4AAAAJ&hl)(Zygo Corporation)  
-Ketwords: interferometry etc.
+Keywords: interferometry etc.
 - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
 Keywords: inverse problem and phase retrieval etc.
 - [Babak Hassibi ](https://www.ee.caltech.edu/people/hassibi)(California Institute of Technology)  
@@ -264,7 +264,7 @@ Keywords: wavefront sensing and adaptive optics etc.
 Keywords: inverse problem and phase retrieval etc.
 - [Mahdi Soltanolkotabi ](http://www-bcf.usc.edu/~soltanol/)(University of Southern California)  
 Keywords: phase retrieval and computational imaging etc.
-- [Adrian Stern ](https://wwwee.ee.bgu.ac.il/~stern/)(Ben-Gurion University of the Negev)  
+- [Adrian Stern ](https://cris.bgu.ac.il/en/persons/adrian-stern/)(Ben-Gurion University of the Negev)  
 Keywords: holography etc.
 - [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
 Keywords: inverse problem and phase retrieval etc.
@@ -303,7 +303,7 @@ Keywords: phase imaging and biomedical imaging etc.
 - [Guoan Zheng ](https://smartimaging.uconn.edu/)(University of Connecticut)  
 Keywords: Fourier ptychography etc.
 - [Yunhui Zhu ](https://renayuki.wixsite.com/3doptics/)(Virginia Polytechnic Institute and State University)  
-Ketwords: transport of intensity equation (TIE) and phase imaging etc.  
+Keywords: transport of intensity equation (TIE) and phase imaging etc.  
 
 [Back to Top](#toc)
 <a name="groups-europe"></a>
@@ -363,7 +363,7 @@ Keywords: holography etc.
 Keywords: holography etc.
 - [Figen S. Oktem ](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)  
 Keywords: phase retrieval, inverse problem, and computational imaging etc.
-- [Wolfgang Osten ](https://www.archida.uni-stuttgart.de/scientists/Osten-00005/)(University of Stuttgart)  
+- [Wolfgang Osten ](https://gepris.dfg.de/gepris/person/1208753?language=en)(University of Stuttgart)  
 Keywords: interferometry and holography etc.
 - [Nikolay V. Petrov ](https://scholar.google.com/citations?user=W1B-hagAAAAJ)(ITMO University)  
 Keywords: phase retrieval and holography etc.
@@ -402,7 +402,7 @@ Keywords: wavefront sensing and adaptive optics etc.
 Keywords: holography and biomedical imaging etc.
 - [David Paganin ](https://www.monash.edu/science/schools/physics/research/research-areas?a=64532)(Monash University)  
 Keywords: phase retrieval, coherent diffractive imaging, and phase imaging etc.
-- [Konstantin Pavlov ](https://www.canterbury.ac.nz/science/contact-us/people/konstantin-pavlov.html)(University of Canterbury)  
+- [Konstantin Pavlov ](https://www.canterbury.ac.nz/study/academic-study/science/science-research/physical-and-chemical-sciences-research)(University of Canterbury)  
 Keywords: phase retrieval and coherent diffractive imaging etc.  
 
 [Back to Top](#toc)
@@ -462,6 +462,10 @@ Keywords: interferometer and coherence scanning interferometric (CSI) profiler e
 - ["Computational Microscopy"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview) in IPAM (September 12 - December 16, 2022)
    - ["Computational Microscopy Tutorials"](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
    - ["Diffractive Imaging with Phase Retrieval"](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)  
+- ["Computational Interferometric Imaging"](https://imaging.cs.cmu.edu/interferometry_siggraph2023/index.html) in SIGGRAPH Courses (August 10, 2023)  
+- ["Computational Imaging"](https://www.imsi.institute/activities/computational-imaging/) in IMSI (August 5 - 9, 2024)  
+- ["EE367 / CS448I: Computational Imaging"](https://web.stanford.edu/class/ee367/) in Stanford University (Winter 2026)  
+- ["Computational Imaging"](https://reality.snu.ac.kr/class/computational-imaging/) in Seoul National University (Spring 2026)  
    
 [Back to Top](#toc)
 
