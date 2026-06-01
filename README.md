@@ -802,6 +802,7 @@ IEEE Photon. Technol. Lett. 37(18), 1069-1072 (2025).
 - C. Lee, G. Song, H. Kim, J. C. Ye, and M. Jang   
 *[Deep learning based on parameterized physical forward model for adaptive holographic imaging with unpaired data](https://doi.org/10.1038/s42256-022-00584-3)*  
 Nat Mach Intell 5, 35–45 (2023).
+Code/data: [GitHub](https://github.com/csleemooo/Deep_learning_based_on_parameterized_physical_forward_model_for_adaptive_holographic_imaging), [Zenodo](https://doi.org/10.5281/zenodo.7220717).
 - H. Chen, L. Huang, T. Liu, and A. Ozcan   
 *[eFIN: Enhanced Fourier Imager Network for Generalizable Autofocusing and Pixel Super-Resolution in Holographic Imaging](https://doi.org/10.1109/JSTQE.2023.3248684)*  
 IEEE J. Select. Topics Quantum Electron. 29(4: Biophotonics), 1–10 (2023).
@@ -917,12 +918,14 @@ Sci Rep 13, 22789 (2023).
 - M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo, and M. Trusiak    
 *[Physics-driven universal twin-image removal network for digital in-line holographic microscopy](https://doi.org/10.1364/OE.505440)*  
 Opt. Express 32(1), 742 (2024).
+Code/data: [GitHub](https://github.com/MRogalski96/UTIRnet), [Zenodo](https://doi.org/10.5281/zenodo.8060078).
 - X. Tian, R. Li, T. Peng, Y. Xue, J. Min, X. Li, C. Bai, and B. Yao    
 *[Multi-prior physics-enhanced neural network enables pixel super-resolution and twin-image-free phase retrieval from single-shot hologram](https://doi.org/10.29026/oea.2024.240060)*  
 Opto-Electronic Advances 7(9), 240060 (2024).
 - Y. Zhang and E. Y. Lam    
 *[Robust holographic imaging for real-world applications with joint optimization](https://doi.org/10.1364/OE.550046)*  
 Opt. Express 33(3), 5932 (2025).
+Code/project page: [GitHub](https://github.com/yp000925/J-Net).
 - S. Li, F. Wang, Z. Fu, Y. Bian, and G. Situ    
 *[Dynamic quantitative phase imaging using deep spatial-temporal prior](https://doi.org/10.1364/OE.545458)*  
 Opt. Express 33(4), 7482 (2025).
@@ -983,6 +986,7 @@ Opt. Lett. 46(23), 5942 (2021).
 - Y. Zhang, X. Liu, and E. Y. Lam    
 *[Single-shot inline holography using a physics-aware diffusion model](https://doi.org/10.1364/OE.517233)*  
 Opt. Express 32(6), 10444 (2024).
+Code/project page: [GitHub](https://github.com/yp000925/PadDH).
 
 (untrained networks as structural-prior regularization)
 - G. Jagatap and C. Hegde    
@@ -1083,6 +1087,7 @@ Digital Signal Processing 132, 103797 (2022).
 - B. Li, Q. Xie, C. Ma, Z. Pan, M. Yang, H. Zhao, W. Gao, X. Fan, and D. Meng    
 *[MDFP-Net: A Model-Driven Deep Neural Network for Fourier Ptychography](https://doi.org/10.26599/CVM.2025.9450442)*  
 Computational Visual Media 11(5), 1059-1077 (2025).
+Code/project page: [GitHub](https://github.com/BP113/MDFPNet).
 - Mehmet Onurcan Kaya and Figen S. Oktem    
 *[I2I-PR: Deep Iterative Refinement for Phase Retrieval using Image-to-Image Diffusion Models](https://arxiv.org/abs/2507.09609)*  
 Preprint at arXiv (2025).
