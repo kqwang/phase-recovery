@@ -796,15 +796,24 @@ Light Sci Appl 11(1), 254 (2022).
 - Q. Ye, L.-W. Wang, and D. P. K. Lun   
 *[SiSPRNet: end-to-end learning for single-shot phase retrieval](https://doi.org/10.1364/OE.464086)*  
 Opt. Express 30(18), 31937 (2022).
-- X. Shu, M. Niu, Y. Zhang, and R. Zhou   
-*[NAS-PRNet: Neural Architecture Search generated Phase Retrieval Net for Off-axis Quantitative Phase Imaging](https://doi.org/10.48550/arXiv.2210.14231)*  
-Preprint at arXiv (2022).
+- X. Shu, M. Niu, Y. Zhang, W. Luo, and R. Zhou   
+*[Neural Architecture Search Generated Phase Retrieval Net for Real-Time Off-Axis Quantitative Phase Imaging](https://doi.org/10.1109/LPT.2025.3581063)*  
+IEEE Photon. Technol. Lett. 37(18), 1069-1072 (2025).
 - C. Lee, G. Song, H. Kim, J. C. Ye, and M. Jang   
 *[Deep learning based on parameterized physical forward model for adaptive holographic imaging with unpaired data](https://doi.org/10.1038/s42256-022-00584-3)*  
 Nat Mach Intell 5, 35–45 (2023).
 - H. Chen, L. Huang, T. Liu, and A. Ozcan   
 *[eFIN: Enhanced Fourier Imager Network for Generalizable Autofocusing and Pixel Super-Resolution in Holographic Imaging](https://doi.org/10.1109/JSTQE.2023.3248684)*  
-PhysIEEE J. Select. Topics Quantum Electron. 29(4: Biophotonics), 1–10 (2023).
+IEEE J. Select. Topics Quantum Electron. 29(4: Biophotonics), 1–10 (2023).
+- Z. Bai, X. Liu, C. Guo, K. Jiang, J. Jiang, and X. Ji   
+*[Diff-Holo: A Residual Diffusion Model With Complex Transformer for Rapid Single-Frame Hologram Reconstruction](https://doi.org/10.1109/TCI.2025.3561683)*  
+IEEE Trans. Comput. Imaging 11, 689-703 (2025).
+- X. Sun, C. Xiong, Z. Ren, J. Di, and J. Zhao   
+*[Unpaired learning for digital holographic reconstruction and generation](https://doi.org/10.1364/OE.551211)*  
+Opt. Express 33(2), 3414 (2025).
+- Y. Chen, Z. Feng, Y. Fan, H. Ma, S. Li, P. Li, and M. Dong   
+*[A multi-scale residual network-based digital holographic reconstruction algorithm](https://doi.org/10.1016/j.optlastec.2025.114619)*  
+Optics & Laser Technology 195, 114619 (2026).
 
 (Distortion intensity of target objects → Network → Wavefront phase or its Zernike coefficient)  
 (Applications in Adaptive Optics)
@@ -905,6 +914,18 @@ Preprint at preprints.opticaopen.org (2023).
 - O. Hoidn, A. Mishra, and A. Mehta    
 *[Physics constrained unsupervised deep learning for rapid, high resolution scanning coherent diffraction reconstruction](https://doi.org/10.1038/s41598-023-48351-7)*   
 Sci Rep 13, 22789 (2023).
+- M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo, and M. Trusiak    
+*[Physics-driven universal twin-image removal network for digital in-line holographic microscopy](https://doi.org/10.1364/OE.505440)*  
+Opt. Express 32(1), 742 (2024).
+- X. Tian, R. Li, T. Peng, Y. Xue, J. Min, X. Li, C. Bai, and B. Yao    
+*[Multi-prior physics-enhanced neural network enables pixel super-resolution and twin-image-free phase retrieval from single-shot hologram](https://doi.org/10.29026/oea.2024.240060)*  
+Opto-Electronic Advances 7(9), 240060 (2024).
+- Y. Zhang and E. Y. Lam    
+*[Robust holographic imaging for real-world applications with joint optimization](https://doi.org/10.1364/OE.550046)*  
+Opt. Express 33(3), 5932 (2025).
+- S. Li, F. Wang, Z. Fu, Y. Bian, and G. Situ    
+*[Dynamic quantitative phase imaging using deep spatial-temporal prior](https://doi.org/10.1364/OE.545458)*  
+Opt. Express 33(4), 7482 (2025).
 
 <a name="dl-papers-in-pcn"></a>
 #### Physics-connect-network (PcN) strategy 
@@ -959,6 +980,9 @@ eLight 1(1), 4 (2021).
 - S. Kumar    
 *[Phase retrieval with physics informed zero-shot network](https://doi.org/10.1364/OL.433625)*  
 Opt. Lett. 46(23), 5942 (2021).
+- Y. Zhang, X. Liu, and E. Y. Lam    
+*[Single-shot inline holography using a physics-aware diffusion model](https://doi.org/10.1364/OE.517233)*  
+Opt. Express 32(6), 10444 (2024).
 
 (untrained networks as structural-prior regularization)
 - G. Jagatap and C. Hegde    
@@ -1029,6 +1053,9 @@ Preprint at arXiv (2022).
 - Mehmet Onurcan Kaya and Figen S. Oktem    
 *[DDRM-PR: Fourier phase retrieval using denoising diffusion restoration models](https://opg.optica.org/ao/fulltext.cfm?uri=ao-64-5-A95&id=567917)*  
 Appl. Opt. 64(5), A95 (2025).
+- J. Kim, C. Lee, J. You, J. C. Ye, and M. Jang    
+*[Generalizable Holographic Reconstruction via Amplitude-Only Diffusion Priors](https://doi.org/10.48550/arXiv.2509.12728)*  
+Preprint at arXiv (2025).
 
 <a name="dl-papers-in-pin"></a>
 #### Physics-in-network (PiN) strategy 
@@ -1053,6 +1080,9 @@ Opt. Express 30(24), 43398 (2022).
 - Y. Yang, Q. Lian, X. Zhang, D. Zhang, and H. Zhang    
 *[HIONet: Deep priors based deep unfolded network for phase retrieval](https://doi.org/10.1016/j.dsp.2022.103797)*  
 Digital Signal Processing 132, 103797 (2022).
+- B. Li, Q. Xie, C. Ma, Z. Pan, M. Yang, H. Zhao, W. Gao, X. Fan, and D. Meng    
+*[MDFP-Net: A Model-Driven Deep Neural Network for Fourier Ptychography](https://doi.org/10.26599/CVM.2025.9450442)*  
+Computational Visual Media 11(5), 1059-1077 (2025).
 - Mehmet Onurcan Kaya and Figen S. Oktem    
 *[I2I-PR: Deep Iterative Refinement for Phase Retrieval using Image-to-Image Diffusion Models](https://arxiv.org/abs/2507.09609)*  
 Preprint at arXiv (2025).
@@ -1192,6 +1222,9 @@ Appl. Opt. 61(23), 6861 (2022).
 - J. Zhao, L. Liu, T. Wang, X. Wang, X. Du, R. Hao, J. Liu, Y. Liu, and J. Zhang  
 *[VDE-Net: a two-stage deep learning method for phase unwrapping](https://doi.org/10.1364/OE.469312)*  
 Opt. Express 30(22), 39794 (2022).
+- G. Sun, N. Chen, P. Cai, and B. Li  
+*[CMNet: phase unwrapping from single structured light image with a CNN-Mamba network](https://doi.org/10.1088/2040-8986/ae32a5)*  
+J. Opt. 28(1), 015604 (2026).
 
 (Deep-learning-performed wrap count method, dWC)
 - G. E. Spoorthi, S. Gorthi, and R. K. S. S. Gorthi  
@@ -1600,6 +1633,12 @@ Nat Methods 20, 1645–1660 (2023).
 - K. Wang, L. Song, C. Wang, Z. Ren, G. Zhao, J. Dou, J. Di, G. Barbastathis, R. Zhou, J. Zhao, and E. Y. Lam  
 *[On the use of deep learning for phase recovery](https://doi.org/10.1038/s41377-023-01340-x),*  
 Light Sci Appl 13(1), 4 (2024).
+- L. Bian, X. Zhan, R. Yan, X. Chang, H. Huang, and J. Zhang  
+*[Physical twinning for joint encoding-decoding optimization in computational optics: a review](https://doi.org/10.1038/s41377-025-01810-4),*  
+Light Sci Appl 14(1), 162 (2025).
+- F. Wang, J. W. Czarske, and G. Situ  
+*[Deep learning for computational imaging: from data-driven to physics-enhanced approaches](https://doi.org/10.1117/1.AP.7.5.054002),*  
+Adv. Photon. 7(5), 054002 (2025).
 
 [Back to Top](#toc)
 
