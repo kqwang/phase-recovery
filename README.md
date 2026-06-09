@@ -168,6 +168,8 @@ Keywords: phase imaging, holography, and computational imaging etc.
 Keywords: phase retrieval, holography, and coherent diffractive imaging etc.
 - [Xiaodi Tan ](http://www.io-lab.cn/)(Fujian Normal University)  
 Keywords: holography etc.
+- [Jindong Tian ](https://cpoe.szu.edu.cn/szxq.jsp?urltype=tp.TpTeacherDetail&wbtreeid=1111&id=1779754300027113473&dm=tianjingdong_1&language=0&unitid=1779754295467905026)(Shenzhen University)  
+Keywords: quantitative phase imaging, digital holographic microscopy, and computational optical imaging etc.
 - [Peter Wai Ming Tsang ](https://loop.frontiersin.org/people/314320/overview)(City University of Hong Kong)  
 Keywords: holography etc.
 - [Yang Wang ](https://www.math.hkust.edu.hk/people/faculty/profile/yangwang/)(The Hong Kong University of Science and Technology)  
