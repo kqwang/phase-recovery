@@ -790,6 +790,9 @@ Lab Chip 22(4), 793–804 (2022).
 - W. Luo, Y. Zhang, X. Shu, M. Niu, and R. Zhou   
 *[Learning end-to-end phase retrieval using only one interferogram with mixed-context network](https://doi.org/10.1117/12.2610502)*  
 in Quantitative Phase Imaging VIII, G. Popescu, Y. Park, and Y. Liu, eds. (SPIE, 2022), p. 26.
+- J. Chen, Q. Zhang, X. Lu, L. Zhong, and J. Tian   
+*[Quantitative phase imaging based on model transfer learning](https://doi.org/10.1364/OE.453112)*  
+Opt. Express 30(10), 16115 (2022).
 - K. Jaferzadeh and T. Fevens   
 *[HoloPhaseNet: fully automated deep-learning-based hologram reconstruction using a conditional generative adversarial model](https://doi.org/10.1364/BOE.452645)*  
 Biomed. Opt. Express 13(7), 4032 (2022).
